@@ -2,7 +2,7 @@
 
 A Proof-reading software for helping those who write Scientific Journals
 
-# Training 
+## Training 
 
 The model has to be first trained. It can be achieved by the following:
 
@@ -10,16 +10,16 @@ The model has to be first trained. It can be achieved by the following:
 python init.py
 ```
 
-What init.py does is, it normalizes the data and trains the model based on the dataset of text files present in `data` folder.
+What `init.py` does is, it normalizes the data and trains the model based on the dataset of text files of IEEE papers present in `data` folder.
 
-# Running
+## Running
 
 Run the UI by running
 
 ```
 python ui.py
 ```
-# Pre-requisites
+## Pre-requisites
 1. Python 3+
 2. tkinter
 3. NLTK (Natural Language Toolkit)
