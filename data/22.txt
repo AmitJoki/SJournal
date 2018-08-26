@@ -1,0 +1,484 @@
+Volume 8 • Issue 4 • 1000235
+Research Article Open Access
+Mohan, J Ergonomics 2018, 8:4
+DOI: 10.4172/2165-7556.1000235
+Open Access
+Journal of Ergonomics Journal of Ergonomics
+ISSN: 2165-7556
+J Ergonomics, an open access journal
+ISSN: 2165-7556
+Keywords: Ergonomic risk factors; Engineering controls; Administrative
+controls; Ergonomic program
+Introduction
+In the context of construction industry, ‘ergonomics’ means:
+‘designing the various construction tasks; providing tools, equipment,
+and materials; and organizing the work to promote worker safety
+and health’. A practical ergonomics program must approach both
+the worker as well as the job to match each other. The work methods,
+equipment and tools design must match the physical and mental
+capacity of workers, and the environment: noise, temperature, and
+illumination must be designed to avoid twisting, and bending of
+body parts. In recent years, there has been a significant increase in the
+reported cases of ergonomic disorders in the workplace. The Bureau of
+Labor Statistics [1] reported that the number of disorders associated
+with repeated trauma nearly doubled in 10 years from 1986 to 1996.
+The possible causes of this increase can be attributed to the following:
+a) A few decades ago, the trades were not strictly bounded - most
+jobs included a variety of activities: a carpenter, for example,
+would carry materials and clean the floor. These activities
+involved footwork and movement of other body parts. With
+the development of specialty trades concept, trades now use
+the same body part over and over again resulting in physical
+fatigue and cumulative trauma of heavily used body part(s).
+b) Worker population is aging, and
+c) Body parts are getting tired - no job rotation.
+Work-Related Musculoskeletal Disorders (WMSDs)
+Work-Related Musculoskeletal Disorders (WMSDs) are the
+health disorders arising from repeated stress to the body due to
+ergonomic hazards or risk factors. WMSDs develop gradually over
+a period of weeks, months, or years. They include damage to the
+tendons, bones, muscles, and nerves of the hands, wrists, elbows,
+shoulders, necks. Backs and legs. Some of the more frequently
+occurring ergonomic disorders include: low-back pain, carpal tunnel
+syndrome (CTS), hearing loss, and tendonitis. WMSDs represent
+1 in 3 lost time injuries (LTIs) in construction [2]. Characteristics
+of work-related musculoskeletal disorders (WMSDs) are compared
+with Occupational Injuries, below:
+Work-related musculoskeletal disorders (WMSD) vs.
+occupational injuries
+Work-Related Musculoskeletal Disorders (WMSDs), also called
+Cumulative Trauma Disorders (CTDs), are the results of cumulative
+trauma. The occupational injuries, on the other hand, are the result
+of instantaneous events in the work environment. Figure 1 shows the
+differences between the occupational injuries and WMSDs. By their
+very nature, WMSDs when reported pose several problems to the
+employer, the health care provider, and the insurance company:
+a) They could be fully, or partially psychophysical. Poor worker
+supervisor relationship, lack of interest (apathy) in work,
+monotonous or boring jobs, or other job-related frustrations
+may trigger pains in neck or back.
+*Corresponding author: Satish B Mohan, Department of Civil, Structural and
+Environmental Engineering, State University of New York at Buffalo, 223 Ketter
+Hall, Buffalo, NY 14260, United States, Tel: (716) 645-4357/(716) 352-5059;
+E-mail: smohan@buffalo.edu
+Received June 07, 2018; Accepted June 28, 2018; Published July 04, 2018
+Citation: Mohan SB (2018) Identifying and Controlling Ergonomic Risk Factors in
+Construction. J Ergonomics 8: 235. doi: 10.4172/2165-7556.1000235
+Copyright: © 2018 Mohan SB. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and
+source are credited.
+Abstract
+Construction expenditures at 1.22 trillion in 2017, accounted for 6.29% of the U.S. GDP, and the construction
+industry employed 6.80 million, 5.34% of the total work force, that suffered 6.43% of the worksite injuries. Worker
+fatalities were 19.1% of the total fatalities, 3.6 times more than all other industries. A study of the 1,657 construction
+injuries and illnesses that occurred at the US Navy Public Works Center (Pearl), from 1987 to 1994, showed that 589
+(36%) of the injuries were work-related musculoskeletal disorders (WMSDs). This real field data of 589 ergonomic
+injuries identified following nine ergonomic risk factors: (i) Frequent or heavy lifting, (ii) Fixed or awkward body
+postures, (iii) Pushing, pulling, and carrying heavy objects, (iv) Work methods, (v) Hand tools and equipment, (vi)
+Repetitive, forced, or prolonged exertions, (vii) Noise, (viii) Whole body vibration, and (ix) Personnel relations This
+paper has provided the effects of risk factors on the parts-of-body of construction workers, which include: low back,
+shoulder, knee, hip, neck, wrist, and fingers. Also, the causal relationships between each risk factor and work-related
+musculoskeletal disorder (WMSD) have been included. Some example construction occupations that suffer from
+each risk factor have been shown.
+Section on Ergonomic Risk Controls includes three categories: (i) Engineering controls that include: work station
+design to fit all size of workers, and work method design to minimize static, extreme, and awkward postures, and to
+reduce repetitive movements and excessive forces, (ii) Administrative controls to provide rest breaks for recovery
+from fatigue, and job rotation to avoid using the same body part over and over, and (iii) Work practice controls,
+such as: keeping tools properly maintained, using low vibration tools, and storing heavy loads at waist height.
+Several other preventive measures have been mentioned, and a model construction ergonomics program has been
+suggested.
+Identifying and Controlling Ergonomic Risk Factors in Construction
+Satish B Mohan*
+Department of Civil, Structural and Environmental Engineering, State University of New York at Buffalo, 223 Ketter Hall, Buffalo, NY, United States
+Citation: Mohan SB (2018) Identifying and Controlling Ergonomic Risk Factors in Construction. J Ergonomics 8: 235. doi: 10.4172/2165-7556.1000235
+Page 2 of 5
+J Ergonomics, an open access journal
+ISSN: 2165-7556 Volume 8 • Issue 4 • 1000235
+b) MSDs may not be work-related. They might be the result of
+other activities at home, in sports, or at other private and
+uninsured jobs.
+c) They can be the result of normal degenerative process of: aging,
+and/or genetics; or might be the cause of some underlying (preexisting)
+condition(s).
+d) They could be completely non-existent; and might be reported
+with fraudulent intention, such as: back ache, head ache,
+etc. Most of such cases cannot be diagnosed instantly and
+definitively.
+e) Occasional ‘pains and aches of life’ can cause MSDs or
+symptoms of MSDs.
+Common WMSDs affecting construction workers
+The 1988 Occupational Health Supplement to the National
+Interview survey [3] compiled data from 30,074 non-institutionalized
+civilians, the survey statistics show that the construction workers
+experience about twice the rates of back pain and hand discomfort both
+due to injury and cumulative trauma, as compared to workers in other
+industries. In the construction industry, 17.4% of the carpenters, 25.5%
+of the masons and 19.2% of the roofers suffer from back pain. 20.2% of
+the carpet layers, 47.5% of steel workers and 23.8% of the plumbers and
+pipe fitters suffer severe hand discomfort, and 6.7% of the plumbers and
+pipe fitters and 7.1% of electricians suffer from back pain. Exposure to
+ergonomic risk factors stresses the affected body parts of the workers
+and contributes to the development of work-related musculoskeletal
+disorders (WMSDs). Construction workers are exposed to several risk
+factors. Identifying the ergonomic risk factors on a worksite is easy
+with some training and experience and should be done for designing
+work methods to prevent WMSDs. The following types of ergonomic
+injuries occur in construction:
+•	 Muscle Pain
+•	 Joint Pain
+•	 Swelling
+•	 Numbness
+•	 Repetitive Stress Injury
+•	 Repetitive Motion Injury
+•	 Restricted Motion
+U.S. Navy PWC (Pearl) Statistics
+US Navy Public Works Center (PWC Pearl) consulted with the
+author of this paper, in 1995, to suggest solutions to the increasing
+number of accidents at their PWC Pearl worksites. The various data
+on ergonomic injuries presented in this paper, are based on the actual
+injuries, 1657 in number that occurred at the U.S. Navy work sites. U.S.
+Navy data included the following items [4]:
+• Date of Injury
+• Occupation of the injured worker
+• Work center
+• Body-part affected
+• Lost work days
+• Medical cost
+• Compensation cost, and
+• Narrative
+This data of 1,657 worksite injuries were organized in a spread
+sheet and analysed [5]. The narrative of each injury included the task
+that the injured worker was engaged in at the time of accident, and
+the type of injury suffered. These descriptions identified the nature of
+injury: Occupational injury vs. Ergonomic injury. Table 1 shows workcenter
+wise total occupational injuries, work-related musculoskeletal
+disorders (WMSDs), and back injuries that occurred at the U.S. Navy
+worksites. Of the 1657 Occupational injuries, WMSDs totaled 589
+(36%), and Back injuries 310 (19%). These percentages match with
+the construction safety literature which has reported that 33% of the
+worksite injuries are ergonomic disorders, and 20% are back injuries.
+Some of the results of the various analyses, performed on this real data,
+are provided in this paper.
+Ergonomic Risk Factors
+Worksite ergonomic risk factors
+‘Worksite risk factors’ are defined as: actions in the worksite,
+worksite conditions, or a combination thereof that may cause or
+aggravate a work-related musculoskeletal disorder (WMSD). The
+following worksite risk factors have been known to cause WMSDs [6-9]:
+• Repetitive, forceful, or prolonged exertions;
+Figure 1: Occupational Injury vs. Musculoskeletal Disorder (MSD).
+Work Center
+Total
+Occupational
+Injuries
+Work-Related
+Musculoskeletal
+Disorders (WMSDs)
+Back Injuries
+Maintenance Department 1009 (60.9%) 361 (35.5%) 190 (18.8%)
+Utilities Department 257 (15.5%) 93 (36.2%) 50 (19.5%)
+Business Management 170 (10.3%) 49 (28.8%) 21 (12.4%)
+Transportation
+Department 115 (6.9%) 47 (40.9%) 29 (25.2%)
+Materials department 57 (3.4%) 21 (36.8%) 10 (17.5%)
+Environmental
+Department 25 (1.5%) 8 (32.6%) 5 (20.0%)
+Engineering Department 19 (1.2%) 7 (36.8%) 4 (21.1%)
+Unknown 5 (0.3%) 3 (60.0%) 1 (20.0%)
+Total 1657 589 310
+Table 1: Distribution of Total Injuries, WMSDs, and Back Injuries by Work Center
+(US Navy PWC (Pearl) Database 1987-1994, CSHI 1995a).
+Citation: Mohan SB (2018) Identifying and Controlling Ergonomic Risk Factors in Construction. J Ergonomics 8: 235. doi: 10.4172/2165-7556.1000235
+Page 3 of 5
+J Ergonomics, an open access journal
+ISSN: 2165-7556 Volume 8 • Issue 4 • 1000235
+• Frequent or heavy lifting;
+• Pushing, pulling, or carrying of heavy objects;
+• Fixed or awkward body postures, for prolonged periods;
+• Contact stress, or pinch stress;
+• Localized or whole-body vibration;
+• Cold or hot temperatures;
+• Poor lighting (leading to awkward postures); and
+• Noise.
+These worksite risk factors can be intensified by work organization
+characteristics, such as:
+• Inadequate work-rest cycles,
+• Excessive work pace and/or duration,
+• Unaccustomed work,
+• Lack of task variability,
+• Machine-paced work, and
+• Piece rate
+Signal risk factors
+It has been suggested that five specific worksite risk factors have
+been most closely associated with an increased risk for the development
+of WMSDs. They have been designated as ‘signal risk factors’. These
+five signal risk factors include the concept of duration of exposure. It
+is not the mere presence of a risk factor in the workplace that signals
+a potential problem, there must be presence for some period. Daily
+exposure to one of these factors during the work shift is likely to result
+in a higher risk job. They are screening mechanisms to focus attention
+on those jobs of greatest concern.
+The signal risk factors are:
+i Performance of same motion or motion pattern every few
+seconds for more than two (2) hours at a time;
+ii A fixed or awkward work posture for more than a total of two
+(2) hours;
+iii Use of vibrating or impact tools or equipment for more than a
+total of two (2) hours;
+iv Forceful hand exertions for more than a total of two (2) hours;
+and
+v Unassisted frequent or forceful manual lifting.
+Table 2 shows the risk factors that caused 589 ergonomic injuries
+at the U.S. Navy PWC (Pearl) worksites. Manual Materials Handling
+caused 46% of the WMSDs, followed by Body Postures, which caused
+21% of the WMSDs. Together, the two risk factors accounted for
+67% of the WMSDs, and both are signal risk factors. Table 2 includes
+average lost workdays, and average cost per WMSD, caused by the
+corresponding risk factor.
+Ergonomic risk factor: Part-of-body relationships
+Table 3 shows the effects of risk factors on the parts of a worker’s
+body. This knowledge can be very useful in planning job rotation to
+evenly distribute job stress on different body parts.
+Ergonomic risk factor: WMSD-occupation relationships
+Table 4 extracted from several studies reported in the literature,
+can be used in preventing WMSDs. A causal relationship of this
+type will relate each of the construction or maintenance activities to
+WMSDs and can be used in job designs, administrative actions and
+work methods that would eliminate or reduce WMSDs.
+Ergonomic Risk Controls
+During 1992-1994, 90% of disabled older workers, aged 51 to
+61 years, had MSDs [10], costing tens of billions of dollars [11], and
+partially or wholly disabling thousands of construction workers.
+Prevention of MSDs is therefore important. Ergonomic Risk Controls
+can be divided in three categories:
+1. Engineering Controls
+2. Administrative Controls, and
+3. Work Practice Controls
+Tayyari F et al. [12] have described engineering controls to
+include: (i) Workstation design to fit all size of workers, (ii) Work
+method design to minimize: static, awkward and extreme postures;
+reducing repetitive movements, and excessive forces, (iii) Modifying
+the strength and endurance requirements of the tasks to be within
+worker’s mental and physical capacities, and (iv) Ergonomically
+designing tools and handles to reduce the risk of cumulative trauma
+disorders (CTDs).
+Risk Factor Frequency Avg Lost
+Workdays
+per Injury
+Average Cost
+Count Percent Med. Comp.
+Manual Materials Handling 159 27.00% 10.4 $1,057 $5.418
+Frequent or Heavy Lifting 122 20.70% 10 $1.425 $43,994
+Body Postures Fixed or
+Awkward for Prolong Periods
+109 18.50% 12.7
+Manual Materials Handling $2.048 $11,877
+Pushing. Pulling, Carrying
+Heavy Objects
+56 9.50% 14.3
+37 6.30% 10.8
+Work Method 29 4.90% 21 $2.350 $48,046
+Hand Tools & Equipment $2.527 $13,136
+Exertion 28 4.80% 15 525 NA
+ Repetitive Forced or
+Prolonged
+16 2.70% 3.2
+Noise 13 2.20% 19.1 $692 NA
+Whole Body 20 3.40% 12.1 $3.273
+Total 589 100.00% 11.6 $1.628 $16.900
+Table 2: Frequency, Average Lost Workdays, and Average Cost of Each WMSD
+caused by the corresponding Risk Factor [CSH! 1995a, US Navy PWC (Pearl)
+Database].
+Cause of Injury (Risk Factor) Part-of-Body Most affected
+Lifting Lower Back Shoulder
+Awkward Postures Knee Hip
+Shoulders Lower Back Shoulders Neck Wrists
+Repetitive Motion Hand-Tool
+Vibration Fingers Wrists
+Noise Ears
+Heat Stress and Extreme Cold Circulatory System
+Table 3: Ergonomic Risk Factor ? Part-of-Body Relationship for Construction
+Workers. 
+Citation: Mohan SB (2018) Identifying and Controlling Ergonomic Risk Factors in Construction. J Ergonomics 8: 235. doi: 10.4172/2165-7556.1000235
+Page 4 of 5
+J Ergonomics, an open access journal
+ISSN: 2165-7556 Volume 8 • Issue 4 • 1000235
+The administrative controls are applied to reduce the duration,
+frequency and/or severity of exposures to risk factors. Brook A [13]
+has stated some examples of administrative controls: (i) Provide rest
+breaks to recover from work induced fatigue, (ii) Increase number of
+employees assigned to a task, (iii) Use job rotation to insure the same
+muscle or tendon are not used over and over, (iv) Add various tasks to
+the employee’s job, and (v) Maintain the equipment and tools.
+Several other areas of ergonomic risk controls have been suggested
+[14]. Surveying the work area to identify potential problems, medical
+information of the employees, discomfort surveys, absenteeism,
+and turnover rates are some indicators of job stress. These job stress
+conditions should be studied, analysed and addressed.
+Training and Education to managers and workers are an effective
+way to show ergonomic risks of their jobs before injuries occur. Written
+ergonomic safety program that addresses preventive measures, specific
+to the jobs in progress, can prevent injuries that might lead to CTDs.
+An example Ergonomics Program is shown in Figure 2.
+Identification of Problem Jobs
+Identifying problems in a job is the first step and can prevent
+WMSDs in a cost-effective manner. The identification is a three-step
+process:
+(a) Information for employees
+The employer must give each employee exposed to any signal risk
+factor: information about work-related musculoskeletal disorders
+(WMSDs). Including their signs and symptoms; the worksite risk
+factors that can cause or aggravate them; and ways to reduce exposure
+to the worksite risk factors. The primary purpose of this requirement
+is to increase employee awareness, giving them the background; they
+need to recognize illnesses as well as worksite causes so they can
+effectively participate in the ergonomics program in their work place.
+(b) Risk factor checklists
+The employer must complete job-specific risk factor checklists to
+examine employee exposures in the worksite and determine whether
+there are jobs which must be controlled. Two Risk Factor checklists,
+one for upper extremities, and the other for back and lower extremities
+should be completed.
+(c) Early reporting of symptoms
+It is also important that signs or symptoms of WMSDs be reported
+early so they can be properly assessed and treated. This may help slow
+the development of the disorder and speed the healing process. Study
+of symptoms can also guide in the job method or tools improvement.
+In order to ensure that this happens, employees must be aware of what
+symptoms they might experience. They must also know how to report
+those symptoms and to whom.
+In addition, the employer must ensure that no policy or practice
+that discourages early reporting is established. The design of some
+incentive programs, safety competitions, or financial incentives may
+have the effect of discouraging reporting, depending on how they are
+implemented in the worksites. For example, providing rewards for
+employees or supervisors when safe work methods are observed would
+not discourage reporting. However, if employees or supervisors are given
+financial bonuses if there are no OSHA recordable cases; this may have
+the unintended but real effect of discouraging reporting of WMSDs.
+Medical Management
+Medical management of ergonomic injuries can control WMSDs
+through simple steps shown in Figure 2. The primary goals of medical
+management are to:
+a) Eliminate or reduce musculoskeletal symptoms and conditions
+associated with work-related risk factors,
+Musculoskeletal Disorder (MSD) Risk Factors Construction Occupations
+Back Strain due to Repetitive work*
+(i) Repetitive bending, twisting, lifting
+Masons
+ Roofers
+Carpenters
+(ii) Flexion with twisting
+(iii) Vibration and impact
+(iv) Static posture
+(v) Force (heavy loads)
+Back Pain due to Injury
+Carpenters
+Electricians
+Plumbers
+Hand/Wrist Manual tasks which are:
+Steel Workers
+Plumbers
+Carpet Layers
+Trauma**
+(i)        Repetitive and frequent
+(ii) With local pressure on palm
+(iii) Accompanied by vibration
+(iv) Use non-neutral posture (bent twisted)
+(v) Forceful
+Bursitis of Knee Prolonged Constrained Posture, Direct Force Carpet Layers
+CTS or other CTDs affecting the wrist Repetitive exertion Office Workers
+Bursitis of Shoulder Awkward body posture
+Workers who perform work above their heads
+- Overhead light fixtures
+- Installation of ceilings
+* Occ Med STAR 7(1):147, 1992
+**MMWR 29July 1989, P.48
+*** Mohan 2010
+Table 4: Some Example WMSD ? Risk Factor ? Occupation Relationships in Construction Operations.
+Citation: Mohan SB (2018) Identifying and Controlling Ergonomic Risk Factors in Construction. J Ergonomics 8: 235. doi: 10.4172/2165-7556.1000235
+Page 5 of 5
+J Ergonomics, an open access journal
+ISSN: 2165-7556 Volume 8 • Issue 4 • 1000235
+ix. Personnel relations
+This paper has shown the relationship between a risk factor and
+the part-of-body affected. A table describes the effect of each of the risk
+factors in causing a work-related musculoskeletal disorder (MSD),
+and the effect of each of the risk factors on specific construction
+occupations.
+Ergonomic injuries can be eliminated or minimized using three
+types of risk controls: (i) Engineering controls that include: work
+station design to fit all size of workers, and work method design
+to minimize static, extreme, and awkward postures, and to reduce
+repetitive movements and excessive forces, (ii) Administrative controls
+to provide rest breaks for recovery from fatigue, and job rotation to
+avoid using the same body part over and over, etc., and (iii) Work
+practice controls, such as: keeping tools properly maintained, using low
+vibration tools, and storing heavy loads at waist height. Several other
+preventive measures have been mentioned, and a model construction
+ergonomics program has been suggested.
+References
+1. Bureau of Labor Statistics (1999) US Department of Labor, most reported
+occupational illnesses are repeated-trauma disorders, The Economic Daily.
+2. Bureau of Labor Statistics (1996) US Department of Labor, Annual Review.
+3. National Institute for Occupational Safety and Health (NIOSH) (1988) The
+National Health Interview Survey (NHIS).
+4. Construction Safety and Health Institute (CSHI 1995) Analysis of Occupational
+Injuries and Illnesses at the US Navy Public Works Center (Pearl), 1987-
+1994, Department of Civil, Structural and Environmental Engineering, State
+University of New York at Buffalo.
+5. Construction Safety and Health Institute (CSHI 1995a), US Navy PWC (Pearl)
+Database 1987-1994, Department of Civil, Structural and Environmental
+Engineering, State University of New York at Buffalo.
+6. US Department of Labor, Occupational Safety and Health Administration
+(OSHA), Principles of Ergonomics Applied to Work-Related Musculoskeletal
+Disorders, Course 225 and Washington D.C.
+7. Jaffer N, Abdul-Tharim AH, Mohd K, Lop NS (2011) A literature Review
+of Ergonomic Risk Factors in Construction Industry. The 2nd International
+Building Control Conference 2011, Procedia Eng 20: 89-97.
+8. Carter G, Smith SD (2006) Safety Hazard Identification on Construction
+Projects. J Construction Engineering Manage 132: 197.
+9. Mohan Satish B (2010) Construction Ergonomics, ViTech Systems Inc,
+Williamsville, NY.
+10. Yelin EH, Trupin LS, Sebesta DS (1999) Transition in Employment, Morbidity
+and Disable among Persons aged 51 to 61 with Musculoskeletal and NonMusculoskeletal
+Condition in US, 1992-1994. Arthritis Rheumatism 42: 769-
+779.
+11. Praemer A, Furner S, Rice DP (1999) Musculoskeletal Condition in the United
+States, Rosemond H American Academy of Orthopedic Surgeons.
+12. Tayyari F, Smith JL (1997) Ergonomic Principles and Applications, Chapman
+Hall 11: 54-59.
+13. Brooks A (1998) Ergonomic Approaches to Office Layout and Space
+Planning,’ Prentice Papers, Meb University Press Facilities 16: 73-78.
+14. Hess JA, Hecker S, Weinstein M, Lunger M (2004) A participatory ergonomics
+intervention to reduce risk factors for low-back disorders in concrete laborers.
+J Appl Ergonom 35: 427.
+b) Eliminate, prevent, or reduce duration and severity of
+functional impairment from work-related musculoskeletal
+disorders,
+c) Eliminate, prevent, or reduce duration and severity of disability
+associated with WMSDs,
+d) Maintain the morale of the non-injured persons in the group
+through visible control of the risk factors and boost the pride
+of the injured person through an efficient return-to-work plan.
+A proactive approach in which the employer and the employee
+work together with the medical practitioner can be effective in
+returning the injured person to work earlier, in some cases to restricted
+job assignment.
+Summary and Conclusions
+This paper has identified ergonomic risk factors that cause workrelated
+musculoskeletal disorders (WMSDs) to construction workers.
+Based on the real data of 1,657 injuries that occurred at the U.S. Navy
+Public Works Center (PWC) Pearl, it was found that 589 (36%) of the
+1,657 injuries were ergonomic injuries. An analysis of these ergonomic
+injuries identified the following nine (9) ergonomic risk factors:
+i. Frequent or heavy lifting,
+ii. Fixed or awkward body postures,
+iii. Pushing, pulling, and carrying heavy objects,
+iv. Work methods,
+v. Hand tools and equipment,
+vi. Repetitive, forced, or prolonged exertions,
+vii. Noise,
+viii. Whole body vibration, and
+Figure 2: construction ergonomics program [9].

@@ -1,0 +1,633 @@
+Quantum Biology: A Scientific Revolution in our Understanding of
+Biological Systems
+Scott Waring*
+Faculty of Science and Mathematics, Great Lakes College, Australia
+*Corresponding author: Scott Waring, Faculty of Science and Mathematics, Great Lakes College, Australia, Tel: +61432069447; E-mail:
+scott.waring1@outlook.com
+Received date: November 17, 2017; Accepted date: April 26, 2018; Published date: May 03, 2018
+Copyright: © 2018 Waring S. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original author and source are credited.
+Abstract
+Until recently, the complexities of biological processes and systems have emphasized classifications and
+empirical rules, that have lacked explanatory power and been limited by many exceptions. On the other hand,
+modern physics and quantum physics in particular, has a universal capacity to explain physical interactions down to
+the subatomic scale, including biological processes and systems. The scientific field of biology has succeeded over
+the past decades in explaining macroscopic phenomena that are based on an improved understanding of molecular
+structures and behaviours. Likewise, quantum physics has provided a non-classical approach to unintuitive
+characteristics, and has recently been directed towards systems of increasing complexity. With the rise of high
+performance computing, the field of quantum biology has rapidly developed in recent years to challenge us to
+rethink biological processes such as the magnetoreception of Earth’s magnetic field that allows birds to migrate, how
+enzymes are able to accelerate reactions at astonishing speeds, and why photosynthesis in plants is near to 100%
+efficient. Even biology’s primary conceptual basis, namely Charles Darwin’s and Alfred Wallace’s theory of evolution
+by natural selection, is now thought to be influenced by the esoteric but fundamental laws of quantum mechanics.
+This article will act as a guide to explain such phenomena, explore the growing interconnectedness between the two
+scientific fields and question the future possibilities of quantum biology.
+Keywords: Quantum; Biological systems; Sub-atomic; Photon;
+Photosynthesis; Enzyme; Evolution
+Introduction
+Why grass is green and blood is red: using quantum phenomena to
+explain biological systems.
+?is essay explores the emerging new field of quantum biology, in
+which biological systems can be explained at a fundamental level using
+quantum physics. In 1612, Donne wrote an elegy that was from the
+realm of abstract metaphysics in which he stated, ‘Why grass is green,
+or why our blood is red, are mysteries which none have reached unto’
+[1]. He and others of that time period believed that there was no need
+for the inquisitive rational of science, or the natural curiosity that
+comes with being human. However much has changed in the last four
+hundred years. ?e interdisciplinary research from biologists and
+chemists has been able to explain that iron-based pigments with the
+ability to carry oxygen are at the center of haem chains in red blood
+cells [2]. Similarly, physicists also contributed to our understanding of
+the chlorophyll-containing mesophyll cells in plants. ?e colours
+expressed are explained with a combination of classical and modern
+physics. ?e energies absorbed and emitted, in both plant chlorophyll
+and blood haemoglobin molecules, by the quantum jumping of
+electrons, are the same as that which reflect green and red, respectively.
+Quantum mechanics has long been known to play a crucial role in
+the world of chemistry and in turn, chemistry has been able to set the
+structured, predictable rules for biological systems (Figure 1). However,
+in the book ‘What is Life?’ Schrödinger questioned how an event at the
+atomic scale, a mutation in the molecular structure of a gene for
+example, whilst being governed by the laws of quantum mechanics,
+could cause a profound and visible change in the structure of a living
+organism [3].
+Figure 1: Quantum biology encompasses quantum mechanics to
+explain biological systems.
+How can organisms undergo metamorphosis at such a rate that
+statistics and classical physics cannot explain? How is it possible that
+nearly all of photons energy can reach a leaf ’s reaction center without
+being reflected, absorbed or redirected? Seventy years since
+Schrödinger’s book was published, scientific understanding has grown
+at an impressive and exponential rate; however questions like this are
+still di?cult to approach.
+B oi ol gical Systems: Open Access
+ISSN: 2329-6577
+Biological Systems: Open Access Waring, Biol Syst Open Access 2018, 7:1
+DOI: 10.4172/2329-6577.1000185
+Review Article Open Access
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+Figure 2: As lower levels are reached; atoms and subatomic particles
+are observed. ?eir relationships and behaviors are explained with
+quantum mechanics and lead to the many reactions seen in
+biological systems.
+?e e??ects of quantum mechanics can of course be observed, but
+usually only under extremely rigid conditions such as temperatures
+near absolute zero and under the influence of vacuums (Figure 2) [4].
+Even then, researchers can only use simple particles on a very small
+scale to observe the complex e??ects of coherence [5]. Up until the late
+1980’s, most scientists would agree that quantum mechanics played a
+trivial, if any, role in biological processes [6,7].
+Quantum Tunnelling
+?H Sun
+?e energy provided from the Sun drives life on Earth, from
+metabolic reactions to reproducing behaviors. In order to supply this
+energy though, the Sun performs special types of reactions – fusion
+reactions. ?e sample hydrogen particles in the Sun fuse together to
+form helium and other heavier elements, releasing huge quantities of
+energy as a result. Essentially, the Sun is converting its mass into
+energy.
+Since the 1920’s, we have been researching and attempting to
+replicate the process of nuclear fusion, in order to harness the large
+amounts of energy for a variety of purposes. However, one of the main
+limitations on researching this nuclear process on Earth is achieving
+the required temperature needed for fusion to occur. ?e core of the
+Sun is estimated to be 15.6 million Kelvin and therein lays the
+problem. Researchers cannot e??ectively replicate these temperatures,
+so the search is focused on low-energy fusion reactions.
+Figure 3: An electron does not have the required energy to get over
+the barrier to start a reaction. ?ere is a small probability that it can
+tunnel through the barrier though and the reaction takes place as a
+result. ?is is how nuclear fusion works in the Sun, driving life on
+Earth [8].
+As the hydrogen particles increase in temperature, there is a small
+chance that the hydrogen atoms will fuse together, even if the correct
+temperature has not been reached yet. ?is e??ect was mathematically
+introduced in 1928 by Hu?auer [9]. Balantekin and Takigawa
+demonstrated that rather than waiting for the required temperature
+needed to overcome the energy barrier that starts the fusion reaction,
+the electron in the hydrogen atom ‘tunnels’ through the barrier instead
+(Figure 3) [10].
+?e significance of this process is twofold. Firstly, our main source
+of heat and catalyst of many biological reactions relies on quantum
+mechanics to provide the sheer amount of energy required to drive
+biology processes on Earth. And secondly, if a structure as important
+and relatively simple as the Sun can use quantum forces, surely the
+incredibly complex and high number of processes that occur in
+biological systems, have undiscovered quantum connections.
+Enzyme catalysis
+?e fastest studied reactions in the history of science include those
+in biological systems that are caused by proteins called enzymes. An
+appreciation of the sheer speed and rate of these reactions is yet to be
+completely realised by researchers but one thing is absolutely clear. In
+the absence of enzymes, these same reactions are among the slowest
+that have ever been measured, some with half-times approaching the
+age of the Earth [11]. $?er a substrate is bound at an enzyme’s active
+site (forming an enzyme-substrate complex), its half-life is usually a
+small fraction of a second (Figure 4) [12].
+Figure 4: Lowering of reaction’s activation energy caused by an
+enzyme-substrate complex. Also simulating a visual of the e??ects of
+quantum tunnelling on enzyme catalysis [13].
+Back in 60s, it was discovered that quantum tunnelling also takes
+place inside living cells [14]. Amphibians, such as frogs, use quantum
+tunnelling to undergo the biological process of metamorphosis –
+where the tadpole breaks down and reassembles as a frog [15]. ?e
+speed at which this process occurs cannot be adequately explained by
+traditional methods of thinking. ?e tail is remarkably broken down
+into the basic units of life, and is redistributed in the newly forming
+frog as proteins, such as enzymes and collagen (a protein that supports
+the muscles, tendons and ligaments within living organisms and has
+elastic properties).
+?e strong bonds between proteins are very di?cult to separate and
+should last much longer than the tadpoles lifespan [16,17]. Enzymes
+are responsible for breaking these bonds at an accelerated rate. ?e
+spontaneous rates of biological reactions examined in this way, span a
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 2 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+range of more than sixteen orders of magnitude (Figure 5), with halflives
+ranging from five seconds, for the hydration of CO2
+ to 1.1 billion
+years, for the decarboxylation of amino acids [18,19]
+Figure 5: Natural half-times of some biological reactions in neutral
+solution at 25°C [20].
+?is incredible acceleration has been the subject of discussion and
+debate for nearly thirty years now and a leading theory has peaked the
+interests of physics and biologists alike. A group of scientists found that
+enzymes are able to transfer subatomic particles, like electrons and
+protons, from one part of a molecule to another, via quantum
+tunnelling [21]. It's an e?cient theory and explains how the proton
+tunnelling to another location will cause the strong bonds to become
+weak bonds in a fraction of a second (Figure 6).
+?e protons do not have to overcome the energy barrier, but can
+tunnel through it (similar to tunnelling within the Sun), in order to
+break the chemical bonds. As subatomic particles are not solid, that
+can exhibit wave-like behaviours, allowing them to approach a barrier
+from one side and they have a certain probability of reappearing
+instantaneously on the other.
+Figure 6: (A) Shows a simple but e??ective square knot at the top and
+the bottom shows a similar tie but will never join the two pieces of
+rope. ?is demonstrates the quantum e??ect of tunnelling in where,
+in this case, there are two possible outcomes–a strong bond and a
+weak bond. (B) Shows a digitally altered image where one of the
+ends of rope (the proton) on top is ‘tunnelling’ to a new position.
+(C) Illustrates the new position and now has e??ectively caused the
+bond to break. ?is could be demonstrated by a person pulling at
+any end on any rope in image (C). It would instantly come undone.
+In metamorphosis, the collagen proteins in the tadpole tail are
+quickly broken down and other enzymes are then able to redistribute
+the particles to form the frog. However, some researchers are yet to be
+convinced that enzymes are doing anything special and that their own
+results suggest that “tunnelling is a fact of life, but life has no special
+e??ect on tunnelling” [22].
+Contrasting such statements, with near overwhelming evidence, it is
+theorized that enzymes can use their dynamic behaviour to force
+protons through the energy barrier, a characteristic unique to these
+powerhouse proteins. Evidence is even beginning to emerge that such
+behaviours are selected by evolution to enhance enzyme catalysis [23].
+Future research will provide intellectually provocative models of
+enzyme catalysis and suggest new avenues for experimental and
+computational investigations.
+Quantum Entanglement
+Migration by magnetoreception
+?e European robin (Erithacus rubecula) migrates from
+Scandinavia down to the Mediterranean, every autumn (Figure
+7). Whilst migratory patterns with birds caused by seasonal changes is
+not a new phenomenon, what is special and worth investigating, is how
+they manage to travel to the exact same geographical areas each year.
+?ese areas are the same locations that their predecessors emigrated to
+and, hence, human curiosity has long wondered, how do organisms
+know exactly where they are going, particularly if they have never been
+there before? How can birds navigate with such accuracy? Is it a
+magnetic particle within them that responds to Earth’s magnetic field"
+Is it a behavioural trait passed from one generation to the next? Or is it
+something smaller than a gene and much more complicated?
+Figure 7: ?e European robin, and like a lot of other marine animals
+and even insects, navigate by sensing the Earth's magnetic field
+[24].
+?ese hypotheses were experimentally tested in a repurposed
+planetarium (Figure 8); using specialised Emlen funnels which are
+round cages in the shape of funnels lined with scratch sensitive paper
+and an inkpad on the bottom, shown in Figure 9 [25].
+At night, with the artificial magnetic field inactive, the caged
+migrant birds became restless and jumped more o?en in the direction
+where they intend to migrate, making ink prints on the scratch
+sensitive paper. However, what was even more astounding was that if
+the wavelength of light was changed, the behaviour of the robins
+changed and instead of moving in the direction of expected migration,
+their movements became random and they jumped in a variety of
+directions, as seen in Figure 10. It seemed that monochromatic blue
+light (the predominant wavelength of light at night) enhanced the
+robin’s orienteering ability.
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 3 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+Figure 8: Sketch of the experimental equipment and set-up in the
+planetarium [26].
+Figure 9: An Emlen funnel, used to document migration orientation
+in bird.
+Figure 10: Experiments show birds exposed to monochromatic light
+exhibit di??ering orientating behaviour – orientation is better in
+‘blue’ light [27].
+?e caged robins also changed their heading accordingly when the
+magnetic field was artificially altered using strong magnets, with
+variable directions being applied. ?is meant that when the magnetic
+field was active in a particular direction, the robin moved in the same
+direction. If living systems are sensitive to the magnetic vector
+potential component of the geomagnetic field, which is directed EastWest,
+this mean that they must have both X and Y coordinates
+available. ?is posed an interesting dilemma, was the underlying cause
+of this behaviour due to wavelengths of light or a varying magnetic
+field, like Earth’s?
+A researcher struggled for years to narrow down the possible
+reasons that would explain such behaviour. Eventually he developed
+leather hoods (Figure 11) with removable eye patches which were able
+to cover one eye of the robin at a time during the experiments. It was
+found that photons excited a particular protein molecule,
+cryptochrome, in the retinal cells of the right eye and causing an
+electron from a particular particle to move to another. ?is means both
+molecules are now charged, that is to say one molecule is positive and
+one is negative[28]. ?e incoherent part of this anomalyis that these
+molecules are both positive and negative at the same time. ?ey exhibit
+behaviours of both charges until one is measured, and, hence, the other
+particle when measured will be the opposite charge, due to the Pauli
+exclusion principle [29]. ?ese particles are now in a state of quantum
+entanglement where they are correlated with each other, but they lose
+their individuality [30].
+?e infamous example of Schrodinger’s Cat helps explain this
+unusual concept. If you were to place a cat into a box containing a
+randomly-released lethal gas and sealed the box up, the cat itself could
+be thought of as both dead and alive, by an external observer [31]. ?e
+charged particles mentioned above, exhibit such behaviours and hence
+can be thought of in the same way as Schrodinger’s Cat.
+Entangled particles are extremely sensitive to magnetic fields. ?eir
+interactions, caused by the angle of inclination of the magnetic field,
+trigger action potentials and the subsequent chemical reactions act as
+sensory chemicals which tell the robin which way to go [31]. ?e
+entangled pair induces di??erent chemical reactions based on their
+relationship and quantum state (orientation of spin). ?e tiny
+variations in Earth’s magnetic field can alter the state of these
+entangled electrons and hence a??ect the robin’s ability to sense its
+orientation. Even Einstein hated this idea; he called it "spooky action at
+a distance” as entanglement implied that the relationships between
+particles occurred faster than the speed of light, impossibility in
+Einstein’s theory of relatively.
+Figure 11: ?e leather hood used to cover the right eye of a
+European robin – the source of cryptochrome and the inclination
+compass used for migratory orientation [32].
+?e implications of research could be ground breaking. Many
+organisms use cryptochrome as a photoreceptor so this quantumassisted
+magnetic sensing, could be widespread. Not only birds, but
+also some insects and even plants show physiological responses to
+magnetic fields. An example includes the growth-inhibiting influence
+of blue light on the flowering plant Arabidopsis thaliana and it is
+moderated by magnetic fields [33].
+Quantum Coherence
+Photosynthesis
+In the cases of the avian compass described above, the primary
+evidence for quantum processes is observation of animal behaviour,
+combined with a lack of plausible classical models. However, by
+contrast, evidence for quantum influences in the biological process of
+photosynthesis is direct, measurable and overwhelming.
+Quantum coherence is the idea of quantum entities multitasking. It
+can be represented by the quantum skier from Figure 12 where an
+object behaves like a wave so it doesn't just move in one direction or
+the other, but can follow multiple pathways at the same time.
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 4 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+Figure 12: ?e quantum skier counter intuitively exhibits a
+behaviour of being able to follow several paths at once and ‘finds’
+the most e?cient one to perform its designated process [34] .
+A light harvesting, photosynthetic system uses ‘antenna’ molecules
+called chlorophyll inside chloroplasts, to capture photons, the quantum
+of light (sunlight energy). ?is capturing of photons knocks out an
+electron from the chlorophyll molecule and creating a quantum
+particle called an exciton.
+?e exciton travels through surrounding chlorophyll molecules,
+until it reaches the reaction centre and ultimately results in the
+production of Adenosine trisphosphate (ATP), the ‘molecule of life’ via
+aerobic cellular respiration.
+For maximum e?ciency, all photons absorbed have to make it to
+the reaction centre, but there are so many random paths and the
+photon does not ‘know’ the most e?cient route [35]. If the exciton
+doesn’t reach the reaction centre fast enough, the energy will dissipate
+into the system. So how then can the process of light-harvesting, by
+nearly 100% e?cient"
+Figure 13: ?e coherence of quantum particles allows the wave-like
+properties to be examined and the most e?cient path of the photon
+energy (via the exciton) will be the result [40].
+?e evidence from multiple, independent studies, is that rather than
+taking one path, quantum coherence is used to travel all paths
+simultaneously as shown in Figure 13 [36-39].
+?erefore, there is plenty of evidence that can demonstrate that the
+interplay between quantum coherence and the performance of biomolecular
+complexes. ?is can be intuitively explained by the fact that
+quantum coherence allows the system to explore several network paths
+in parallel to achieve the desired task to find the optimal solution and
+leave out ine?cient slower pathways [41].
+Quantum Biology: ?H Future
+?H theory of evolution – Quantum edition
+?e final question that this paper will explore is whether quantum
+tunnelling plays a non-trivial role in mutations in DNA. It has been
+well established that variations (mutations) within species drives
+evolution [42].
+DNA is comprised of complementary nitrogenous bases (adenine
+and thymine, cytosine and guanine) and during the cell cycle, the
+majority of time is spent in a stage called interphase [43]. ?is is where
+the cell performs its normal functions including the process of DNA
+replication. Essentially, this is how one strand of DNA is replicated to
+form 2 identical strands for the purpose of cell division (mitosis or
+meiosis).
+?e two strands of DNA found in a double-helix structure, are held
+together by these nitrogenous bases; like a twisted ladder [44]. ?ese
+bases are bound together by relatively weak hydrogen bonds (protons).
+?e process of DNA replication is always proofed and checked for
+errors by an enzyme named DNA polymerase which can repair most
+mutations; however polymerase still has its limitations [45]. Sometimes
+in the process, mistakes can occur and these mistakes are called genetic
+mutations.
+Figure 14: ?e white atoms are hydrogen and protons from the
+hydrogen atoms can “jump” across to the other side via quantum
+tunnelling. If the strands of DNA are separated by DNA replication
+or protein synthesis, while the hydrogen has jumped across to the
+opposite side, these strands may not replicate or transcribe
+correctly–this is a mutation [46].
+?is movement can be explained by the process of quantum
+tunnelling [47]. When replication is initiated by an enzyme called
+DNA helicase, which splits hydrogen bonds [48]. ?e two white balls
+in the middle of Figure 14 are protons, one proton prefers to sit on one
+strand; the other, on the other strand.
+?ey have ability to tunnel through the bonds to the other side. If
+the two strands of DNA then separate for replication to occur, and the
+two protons are in the wrong positions, this could ultimately lead to a
+mistake known as a mutation(Figure 15).
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 5 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+Figure 15: DNA mutates when this hydrogen atom tunnels,
+quantum-mechanically, to the “wrong” half of its rung. ?e
+property of coherence, before it is observed, the atom will
+simultaneously exist in both a mutated and non-mutated state-that
+is, it would sit on both sides of the rung at the same time [49].
+?is concept has been examined using bacteria. A population of
+bacteria (E. coli) with hydrogen nuclei was cultured and the mutations
+in the produced cells were quantified. At the same time, a separate
+population was cultured, but these had deuterium nuclei (deuterons), a
+heavier isotope of hydrogen [50]. ?e results of these experiments
+showed that the protons within hydrogen nuclei were able to tunnel
+easily and thus led to many mutations. However, the population
+containing deuterons did not produce many mutations. ?is is because
+deuterons are twice as heavy as the hydrogen nuclei and therefore are
+increasingly di?cult to tunnel through energy barriers.
+?e concept of quantum mechanics playing a non-trivial role in
+DNA mutations is still heavily debated today, predominated because
+the concentrated deuterium oxide will not take a frequency imprint
+until about 4% of hydrogen oxide is added. ?is suggests that there are
+‘windows’ of opportunity in which biological systems are sensitive to
+the electro quantum environment, leading to a possible eventuality of
+changes in the genetic information carried by individual organisms.
+Current research certainly allows for quantum tunnelling to be a
+plausible mechanism for variations to occur and hence have the
+opportunity to be naturally selected to survive in certain conditions.
+It’s even speculated that through the process of quantum coherence,
+living cells act as biological quantum computers and are able to explore
+multiple possible mutational states simultaneously, and select those
+states that provide the greatest advantage – ?e ?eory of Evolution
+redefined as a construct of quantum mechanics.
+Approaching an era of quantum technologies
+Quantum coherence or superposition is an extremely e?cient
+energy transportation system. ?e photosynthesis example discussed
+above demonstrated that particles can travel faster along the
+photosynthetic complex due to the fact that it can exist in two states
+simultaneously. Researchers from the PAPET’s group shot fast laser
+pulses into biological systems and observed interference along the
+transport network, a signature of wavelike phenomena. As a result, we
+are able to obtain a more fundamental understanding of how
+photosynthesis works. And can guide future research towards
+designing much more e?cient solar cells than the ones we currently
+have [50]. However, they do outline that one of the biggest obstacles in
+designing complex organic solar cells, is the di?culty to control what
+happens a?er light is absorbed. ?e characteristics that would be most
+valuable and beneficial include the transmission of energy, storing
+information or emitting light [51].
+An extended application of solar-cells is the development of bioinspired
+sensors. Developing sensors that interpret desired signals
+whilst ignoring complex background influences, as well as lightweight,
+a??ordable and retain their sensitivity is particularly di?cult [52].
+Nature is an extraordinary test bed for biological systems as they’ve
+been exposed to billions of years of evolution and can e?ciently use
+quantum mechanics to their advantage. Exploring magnetic
+navigation, Quantum (??ects in Biological Environments (QuBE)
+researchers from the Defence Advanced Research Projects Agency
+(DARPA) are also studying photosynthesis, olfaction and the
+underlying theoretical framework needed to link biology and quantum
+phenomena [53].
+Another area of potential application is in quantum computing [54].
+Quantum data (qubits) can exist in both states at once, thus permitting
+the simultaneous exploration of all possible answers to the
+computation that they encode, similar to the quantum coherence
+within a photosystem, performing a ‘best-path’ quantum computation,
+or the mutated state of DNA. It has been shown through studying how
+water can embed or imprint frequencies that the 3 basic logic gates
+needed for biological quantum computers to operate, can be assembled
+and maintained in water. Even with such advancements, research still
+goes on to suggest that these gates are so sensitive that they can be
+detected and measured using nerve impulses. Quantum simulation has
+potential applications for the study of condensed matter physics,
+material science, and high-energy physics [55-57].
+Conclusion
+If the question is put forth, do quantum mechanics play a significant
+role in biological systems? ?e answer is most definitely yes. Our Sun
+employs quantum tunnelling to transform hydrogen to helium which
+in turn releasing heat and light energy. ?is e??ect alone allowed Earth
+able to become habitable. ?e evolution of photosynthetic organisms
+utilized the Sun’s energy and transformed the Earth from anoxic to
+oxic. Every organism, since this epic event in our history has evolved as
+a direct result of quantum influences.
+?e design of experiments that directly test hypotheses here, at the
+quantum level, must be a priority for advancement. Much of quantum
+biology remains as conjecture because of the amount of restrictions
+and environmental controls needed to observe even the simplest
+quantum e??ect. Any analysis of such data in relation to biological
+systems is redundant without experimental proof from complex living
+organisms. At this stage, there is too much conflict within data to
+suggest quantum mechanics can explain all biological systems.
+However, there is enough evidence to suggest an undeniable
+plausibility. ?e exploration of quantum biology certainly has many
+uses in various fields, and is definitely an area of research that will
+expand.
+?e future on these biological processes is an exciting one,
+providing intellectually provocative, biologically centric models that
+suggest new avenues for experimental and computational investigation
+in a ‘quantum leap’ e??ort to discover if evolution, Darwin’s and
+Wallace’s (and the scientific field of Biology) keystone theory, is
+responsible for the incoherent mechanisms that drive biological
+processes, and indeed, life itself. Even Schrodinger [3] himself implied
+that the behaviour of living organisms approaches quantum
+mechanical behaviours and that all biological systems involve the
+movement of fundamental, quantum particles within their cells as
+described by quantum mechanics.
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 6 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+References
+1. Donne J (1886) ?e Poems of John Donne. London: Lawrence & Bullen.
+2. BreathnachCS (2014) Claude Bernard and his revelations in physiology. Ir
+J Med Sci 183: 139-146.
+3. Schrodinger E (1944) What is life? ?e physical aspect of the living cell.
+London: Cambridge University Press.
+4. Hackermuller L, Hornberger K, Brezger B, Zeilinger A, Arndt M (2004)
+Decoherence of matter waves by thermal emission of radiation. Nature
+427: 711-714.
+5. Hackermuller L, Uttenthaler S, Hornberger K, ReigerE, Brezger B, et al.
+(2003) Wave nature of biomolecules and fluorofullerenes. Phys Rev Lett
+91: 090408.
+6. Ball P (2015) Biology: An introduction. ?e Royal Institute.
+7. Longuet-Higgins HC (1962) Quantum mechanics and biology. Biophys J
+2: 207-215.
+8. Quora (2016) What causes quantum tunnelling?
+9. Hu?auer K (2009) National Academy of Sciences.
+10. Balantekin A, Takigawa N (1998) Quantum tunneling in nuclear fusion.
+Rev Mod Phys 70: 77-100.
+11. Garcia-Viloca M, Gao J, Karplus M, Truhlar DG (2004) How enzymes
+work: Analysis by modern rate theory and computer simulations. Science
+303: 186-195.
+12. Frick L, Neela JP, Wolfenden R (1987) Transition state stabilization by
+deaminases: Rates of nonenzymatic hydrolysis of adenosine and cytidine.
+Bioorg Chem 15: 100-108.
+13. Dictionary B (2017) Enzyme-substrate complex.
+14. De Vault D, Chance B (1966) Studies of photosynthesis using a pulsed
+laser: I. Temperature dependence of cytochrome oxidation rate in
+chromatium: Evidence for tunneling. Biophys J 6: 825-847.
+15. Gross J, Lapiere CM (1962) Collagenolytic activity in amphibian tissues:
+A tissue culture assay. Proc Natl Acad Sci U S A 48: 1014-1022.
+16. Wu C, Ito K, Buytendyk A, Bowen K, Wu J (2017) Enormous hydrogen
+bond strength enhancement through p-conjugation gain: Implications for
+enzyme catalysis. Biochemistry 56: 4318-4322.
+17. Roughton F (1941) ?e kinetics and rapid thermochemistry of carbonic
+acid. J Am Chem Soc 63: 2930-2934.
+18. Snider MJ, Wolfenden R (2000) ?e rate of spontaneous decarboxylation
+of amino acids. J Am Chem Soc 122: 11507-11508.
+19. Wolfenden R, SniderMJ (2001) ?e depth of chemical time and the power
+of enzymes as catalysts. Acc Chem Res 34: 938-945.
+20. Cha Y, Murray CJ, Klinman JP (1989) Hydrogen tunneling in enzyme
+reactions. Science 243: 1325-1330.
+21. Doll KM, Finke RG (2003) A compelling experimental test of the
+hypothesis that enzymes have evolved to enhance quantum mechanical
+tunneling in hydrogen transfer reactions: ?e ß-neopentylcobalamin
+system combined with prior adocobalamin data. Inorg Chem 42:
+4849-4856.
+22. Delgado M, Gorlich S, Longbotham JE, ScruttonNS, Hay S, et al. (2017).
+Convergence of theory and experiment on the role of preorganization,
+quantum tunneling and enzyme motions into flavoenzyme-catalyzed
+hydride transfer. ACS Catalysis 7: 3190-3198.
+23. Klinman JP, Kohen A (2014) Evolutionary aspects of enzyme dynamics. J
+Biol Chem 289: 30205-30212.
+24. Klinman JP, Amnon K (2013) Hydrogen tunneling links protein
+dynamics to enzyme catalysis. Klinman, J.P. & Amnon, K. Hydrogen
+Tunneling Links Protein Dynamics to Enzyme Catalysis. Annu Rev
+Biochem 82: 471-496.
+25. DARPA (2014) Study on magnetic compass orientation in birds builds
+case for bio-inspired sensors.
+26. Emlen ST, Emlen JT (1966) A technique for recording migratory
+orientation of captive birds. ?e Auk: Ornithological Advances 83:
+361-367.
+27. Mouritsen H, Larsen ON (2001) Migrating songbirds tested in computercontrolled
+Emlen funnels use stellar cues for a time-independent
+compass. J ExpBiol 204: 3855-3865.
+28. Wiltschko R, Wiltschko W (2007) Magnetorecption in birds: Two
+receptors for two di??erent tasks. J Ornithol 148: 61-76.
+29. Pauli W (1947) Exclusion principle and quantum mechanics. Neuchâtel:
+Editions du Gri??on.
+30. Morello A (2014) Bird navigation: ?e quantum around you. Sydney,
+NSW, Australia: University of New South Wales: elearning .
+31. Schrodinger ER (1935) Die gegenwärtige Situation in der
+Quantenmechanik. Nat Sci 23: 807-812.
+32. Ritz T, Adem S, Shulten K (2000) A model for photoreceptor-based
+magnetoreception in birds. Biophys J 78: 707-718.
+33. Engels S, Hein C, Lefeldt N, Prior H, Mouritsen H (2012) Nightmigratory
+songbirds possess a magnetic compass in both eyes. PLoS One
+7: 1-8.
+34. Ooi A, Wong A, Ng TK, Marondedze C, Gehring C, et al. (2016) Growth
+and development of Arabidopsis thaliana under single-wavelength red
+and blue laser light. Sci Rep 6: 1-13.
+35. Al-Khalili J (2011) Just when you think you understand quantum physics.
+Surrey Physics Blog.
+36. Romero E, Augulis R, Novoderezhkin V, Ferretti M, et al. (2014)
+Quantum coherence in photosynthesis for e?cient solar-energy
+conversion. Nat Phys 10: 676-682.
+37. O'Reilly EJ, Olaya-Castro A (2014) Non-classicality of the molecular
+vibrations assisting exciton energy transfer at room temperature. Nat
+Commun 5: 1-10.
+38. Collin E, Wong C, Wilk K, Curni P, Brumer P, et al. (2010) Coherently
+wired light-harvesting in photosynthetic marine algae at ambient
+temperature. Nature 463: 644-647.
+39. Ball P (2011) Physics of life: ?e dawn of quantum biology. Nature 474:
+272-274.
+40. Fleming GR, Engel GS, Calhoun TR, Read EL, Ahn T, et al. (2007)
+Evidence for wavelike energy transfer through quantum coherence in
+photosynthetic systems. Nature 446: 782-786.
+41. Merali Z (2014) Solving biology's mysteries using quantum mechanics.
+42. Caruso F (2016) What is quantum biology? Lindau Nobel Laureate
+Meetings.
+43. Tarlach G (2014) Mutation, not natural selection, drives evolution.
+Discover, pp: 12-17.
+44. Murray AW, Kirschner MW (1989) Dominoes and clocks: the union of
+two views of the cell cycle. Science 246: 614-621.
+45. Watson JD, Crick FH (1953) A structure for deoxyribose nucleic acid.
+Nature 171: 737-738.
+46. Saiki RK, Gelfand DH, 6to??el S, Scarf SJ, Hiquchi R, et al. (1988) Primerdirected
+enzymatic amplification of DNA with a thermostable DNA
+polymerase. Science 239: 487-491.
+47. Wellford S (2016) Quantum biology.
+48. Lowdin PO (1963) Proton tunneling in DNA and its biological
+implications. Rev Mod Phys 35: 724-732.
+49. 6chae??er L, Richard R, Humbert S, MoncollinV, Vermeulen W, et al.
+(1993) DNA repair helicase: A component of BTF2 (TFIIH) basic
+transcription factor. Science 260: 58-63.
+50. McFadden J, Al-Khalili J (1999) A quantum mechanical model of
+adaptive motion. Biosystems 50: 203-211.
+51. Physics Organisation (2015) Quantum physics provides startling insights
+into biological processes.
+52. Mirkovic T, Ostroumov E, Anna J, Grondelle R, Scholes G (2016) Light
+absorption and energy transfer in the antenna complexes of
+photosynthetic organisms. Chem Rev 117: 249-293.
+53. Wolf P (2017) Bio-inspired sensors. APS Physics.
+54. DARPA (2014) Study on magnetic compass orientation in birds builds
+case for bio-inspired sensors.
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 7 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185
+55. Balantekin A, Takigawa N (1998) Quantum tunneling in nuclear fusion.
+Rev Mod Phys 70: 77-100.
+56. Cai JM (2017) Quantum simulation meets quantum biology. Science
+China 60: 1-2.
+57. Georgescu IM, Ashab S, Nori F (2014) Quantum simulation. Rev Mod
+Phys 86: 152-193.
+Citation: Waring S (2018) Quantum Biology: A Scientific Revolution in our Understanding of Biological Systems. Biol Syst Open Access 7: 185.
+doi:10.4172/2329-6577.1000185
+Page 8 of 8
+Biol Syst Open Access, an open access journal
+ISSN:2329-6577
+Volume 7 • Issue 1 • 1000185

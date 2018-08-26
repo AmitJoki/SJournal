@@ -1,0 +1,408 @@
+Volume 11(2) 171-177 (2018) - 171
+Research Article Open Access
+Chatterjee and Roy, J Comput Sci Syst Biol 2018, 11:2
+DOI: 10.4172/jcsb.1000268
+Open Access
+Journal of
+uoJ
+Computer Science & Systems Biology rnal of Computer Science & Systems B oi ol gy
+ISSN: 0974-7230
+J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+*Corresponding author: Chatterjee A, Research Associate, Master of
+Engineering, Department of IT, Jadavpur University, Kolkata, West Bengal, India,
+Tel: +919912528364; E-mail: ayan1.c2@gmail.com
+Received February 20, 2018; Accepted March 16, 2018; Published March 26,
+2018
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and
+Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput Sci Syst
+Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Copyright: © 2018 Chatterjee A, et al. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the
+original author and source are credited.
+Abstract
+Heart Rate is an important physiological parameter for health monitoring. Heart Rate measurement with smart
+phone is used by many people all over the world and different applications are developed. But, there are few
+issues behind the proper measurement like motion, baseline drift, power line interference, low amplitude PPG, and
+premature ventricular contraction and noise in the signal. While capturing red contact video of fingertips, miss touch
+errors can produce significant variation in real result as noise gets incorporated. Similarly, high pressure on camera
+and low pressure on camera can produce incorrect PPG signal and therefore, mislead to incorrect result. They can
+be treated as noise and needs to be removed up to a level to keep up the originality of a signal to give correct BPM
+rate. Here, in our study we have introduced an algorithm to get rid of certain percent of miss touch errors and thereby
+calculate heart rate from noise free signal, accurately. Here in our study, we have focused on Non-Invasive PPG
+signal based Heart Rate monitoring from skin blood flow using IR light at 900 nm wavelength. We have captured
+contact unfocused video to capture PPG using smart phone and developed algorithm to remove some percent of
+touch errors and followed by noise removal with 2nd Order Butterworth (IIR) band pass filter with frequency domain
+analysis and Hann Windowing for leakage reduction. We have also completed a comparative study in between
+Butterworth filter and Savitzky-Golay filter. The PPG is obtained from RED channel of the captured live video of
+smart phone camera.
+Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and
+Savitzky-Golay FIR Filter
+Chatterjee A* and Roy UK
+Department of IT, Jadavpur University, Kolkata, West Bengal, India
+Keywords: ECG; PPG; Sampling; Filter design; FFT; Filter; Pixel
+density; Smoothening
+Introduction
+Cardiovascular problem is one of the major concerns in these days
+as majority of the people die from this problem annually. In 2015, it was
+responsible for 31% of the total death and estimated around 17.7 million
+people. The number is increasing alarmingly and sources claimed that
+total estimated global cost of cardiovascular disease was $863 billion in
+2010 and it might likely to increase by 2030 to $1044 billion. Here in
+our study, we have focused on PPG signal that is measured from skin
+blood flow using IR light. First target is to obtain smooth leakage noise
+free PPG signal from Video on RED plane and thereby peak counting
+from normalized signal and resultant value is multiplied by 60 (1
+minute) to calculate the heart rate which is an important parameter
+for cardiovascular monitoring, health coaching etc. It is non-invasive,
+inexpensive, portable and convenient diagnostic tool. Analyzing PPG,
+we can calculate Oxygen saturation (SPO2
+), blood pressure (systole/
+diastole), Heart Rate, Arterial age, vascular disease, HB Count, RBC
+count prediction, circulatory and respiration monitoring etc.
+While capturing red contact video of fingertips, miss touch errors
+can produce significant variation in real result as noise gets incorporated.
+Similarly, high pressure on camera and low pressure on camera can
+produce incorrect PPG signal and therefore, mislead to incorrect result.
+They can be treated as noise and needs to be removed up to a level to
+keep up the originality of a signal to give correct BPM rate. Here, in
+our study we have introduced an algorithm to get rid of certain percent
+of miss touch errors and We have focused on smoothening SavitzkyGolay
+filter instead of Butterworth filter, if can be used with inspiration
+from one referenced paper and has performed a comparative study for
+algorithm improvement.
+PPG
+Mobile camera detects Electro Magnetic radiation at 350-1000 nm
+wavelengths and in that wavelength range; 700-1000 nm is IR radiation.
+Infrared is a special form of invisible electromagnetic wave that can be
+felt by heat. Visible light’s wavelength is 400-700 nm [1-5]. For better
+picture, IR radiation is blocked by film or so called filter. If no IR
+filters in the camera, pictures will not be as good as digital camera. For
+capturing fingertip video, we must ensure that the touch is proper and
+to check if fingertip is properly placed on camera or not:
+• Touch Camera ? Capture Video of RED image
+• Check Red Image Frame ?Average Pixel density
+Average pixel count/frame, if>200: ‘Placed Properly’. Else ‘not
+placed properly’.
+If more contact pressure excreted on camera:
+• Deforming arterial wall leads to wrong reading.
+• Block micro circulation in the capillary.
+• Pixel density / frame in Red plane<200 if pressure on a single area
+and in case of uniform more pressure than pixel density/frame in Red
+plane>200 but sudden up and down of pixel density.
+• After FFT analysis of brightness signal flat line (Y=constant) is
+produced.
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput
+Sci Syst Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Volume 11(2) 171-177 (2018) - 172 J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+• Results reduced correct frame count for brightness calculation.
+FPS or flips per second or frame rate is a property of digital camera
+to capture video of an object. Experiment has shown that human eye
+can differentiate images at 16 fps but exact human perception is still a
+research area and depends on human to human [6-10]. Standard FPS
+rate is considered to be 30 fps to have a clear smooth video. In our
+mobile, the general FPS range is 25-30 and we have used same value as
+sampling frequency for filter design and other calculation (Figure 1).
+PPG is used to determine variation in blood flow/volume in the
+body which occur with each heartbeat. It reflects the blood movement
+in the vessels that travels from heart to fingertips and toes through
+the vessels in the wave like motion and it is measured optically with
+the help of light intensity (as amplitude of the signal over time).
+From light source/camera, light is sent to the tissue and part of it is
+absorbed (DC part/Fixed Absorbance) and some part is backscattered
+which corresponds to variation of blood volume (AC part/Modulated
+Absorbance). This light is invisible and falls in the wavelength range of
+IR. Its intensity variation graph gives us the heart beat graph over time.
+Systole means more pressure is delivered by heart to pump out blood
+and more blood on fingertip vessels and less reflective index and more
+light absorption. It gives frames with darker intensities and vice versa
+for diastole [10-12] (Figures 2 and 3).
+The process can be summarized as: Cardiac cycle ? blood volume
+change in tissue ? Ambient Light ? Illuminates skin ?Light goes to
+the tissue ? RED image frame ? Calculates light intensity of the frame
+? Receive data ? Signal ? FFT (Sampling rate and window) ? Heart
+Rate Calculation.
+Assumption
+For age/condition/physical activity: 60-200 bpm is in general.
+Here, Experimental purpose: 40-220 bpm=667 to 3.66 Hz. Sampling
+Frequency=2* 3.66 Hz=7.32 Hz (Nyquist)<8 Hz. NB: DC component
+operates at 0 Hz and low frequency noise up to 0.5 Hz so filtering at
+above range will help PPG to get rid of DC and low frequency noise.
+Conventional PPG Algorithms
+Appropriate selection of sampling rate and the number of FFT
+points result in good performance in real time HR calculation. We have
+studied few available algorithms but found some issues with them while
+trying to replicate in real life scenario with raw captured video [13,14].
+• Multiple operation on signal like Filtering, FFT, windowing,
+Smoothening are not producing correct result and originality of the
+signal is lost.
+• Mistouch errors are not considered.
+• Pixel density is not analyzed for high fingertip pressure on camera.
+• Few algorithms have considered fixed number of frames instead
+of all.
+• Default sampling frequency/fixed frequency resolution is
+considered, but for PPG capturing from live video and HR
+calculation depends on fps. It is directly proportional to HR
+while other conditions are unchanged.
+• Sometimes, No Noise filtering and only noise free signal has been
+considered
+• No Leakage coverage or filter stabilization is considered.
+Proposed Algorithm
+We have proposed one algorithm in this paper with below features:
+· Sampling frequency is not fixed and it is round (fps) of captured
+video so no hard coding or manipulation.
+· Calculated Average Pixel density/frame on red plane and if it is
+touched properly then value is considered else rejected ? Touch
+error elimination.
+· We have used FFT point as 128 and 2nd Order butter worth band
+pass filter can be used for removing low frequency and high
+frequency outliner noise.
+· For filtering pass band is 40 bpm to 220 bpm.
+· Filter stabilization of 1 sec is introduced to reduce fluctuations/
+unnecessary frequency components.
+Figure 1: PPG capturing.
+Figure 2: Captured red image with intensity variation.
+Figure 3: PPG light component.
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput
+Sci Syst Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Volume 11(2) 171-177 (2018) - 173 J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+· Assessment of pixel density if camera is pressed forcefully by
+fingertips.
+· Leakage reduction by introducing Hann FFT window to remove
+DC if present at start up and no artificial high frequency when
+signal is treated by the FFT.
+· Calculation is performed on all captured video frames after
+removing mistouch errors.
+· Average duration of video considered 28-35 sec.
+Algorithm
+The algorithm is divided in two parts:
+• Video processing and brightness signal obtaining.
+• Signal processing, Filtering, Fft and Average Hr prediction.
+Part A
+Step 1: Capture contact unfocused RED image video of fingertip
+and capture video for at least 30 sec.
+Step 2: Calculate Number of frames and fps.
+Step 3: Count average pixel density/frame on RED plane (pixel
+variable).
+Step 4: if pixel>=200 and pixel<=250 Keep it else ignore.
+Step 5: set Fs as round (fps) (sampling frequency).
+Part B
+Step 1: Use 2nd order Butterworth band pass filter in the range of 40
+bpm to 220 bpm to make signal lower and higher frequency noise free.
+Step 2: Filter the signal with filter stabilization time=1 sec and
+initial signal cut-off period to 0.
+Step 3: Set WINDOW_START=6 and WINDOW_END=12
+For n=1 to fix((length(y)/(2*fs))-2) % y=filtered signal
+Do
+y2=y(n*fs:(n*fs+FFT_size-1));% 128 as FFT size.
+window=hann(size(y2, 2))’; % Hann window.
+Y2=abs(fft(y2.*window)); %FFT calculation.
+Calculate single-sided positive frequency as f2.
+YY=abs(Y2(WINDOW_START:WINDOW_END));
+Find local maximum in IR spectrum as local_max_i
+pk_i=6-1+local_max_i;
+HR(n)=f2(pk_i)*60;
+End
+End
+% Take average value of heart rate.
+HR=sum (HEART_RATE (2:(length (HEART_RATE) -1)))/
+(length (HEART_RATE)-2);
+AVG_Heart_Rate=round (HR).
+Improvement Scope
+We are currently working on performance analysis of this
+algorithm with more test data set in real world keeping in mind further
+improvement possibilities. We have noted below scopes that will be
+covered in our next papers with more real world test case analysis:
+• Optimization analysis on upper limit of pixel density (to find a
+perfect range of brightness signal).
+• Average optimum touches % calculation per video for calculating
+HR.
+• Introduction of Machine Learning for analyzing touch pattern and
+thereby decision making.
+• Correlation and Regression analysis.
+• Experimental analysis on different smart phone videos.
+• Factors affecting PPG while capturing video including heat by
+flash.
+• Optimization analysis on other noises like motion (using white
+Gaussian Noise and Wavelet Analysis).
+• Optimization analysis on HR calculation with different physical
+activities.
+Testing
+For maintaining originality, we have manually captured red image
+video of fingertips using mobile camera then used that raw *.mp4 file for
+analysis in MATLAB software. We have captured all videos in average
+voltage of light and at normal room temperature and at rest physical
+condition. Then the result is compared with two devices like Dr. Trust’s
+Pulse Oximetry and portable wearable BP Machine by MEDISANA.
+For measuring heart rate, we have used below devices, software and
+hardware tools:
+Smart Phone: Moto G Turbo Edition
+Android: 6.0.1
+Camera: Rear
+Software: MATLAB Signal and Image Processing Toolbox.
+Version: R2017b Hardware: Acer Laptop, Intel Celeron Processor.
+Hardware: Acer Laptop, Intel Celeron Processor.
+Platform: Windows 10.
+We have taken below HR readings from Dr. Trust with 1 min
+interval in normal rest condition:
+Left Fingertip: 77, 81, 80, 85, 82, 86, 75, 81, 80.
+Right Fingertip: 83, 72, 73, 74, 81, 80, 79, 82, 83.
+We have taken below HR readings from BP Machine by MEDISANA
+with 2 min interval in normal rest condition: 90, 86, 88, 86, 87, and 82.
+So the Average range lies in normal range 72-90 in 60 min. We have
+captured 5 videos from Moto G Turbo and analysed.
+Miss touch average pixel density per frame in red plane is less than
+200 (bad contact or more pressure on single area of fingertip) and more
+than 250 (more pressure and Non Red image ? Yellowish Orange).
+In case of uniform more pressure, average pixel density/frame in
+Red plane>200 but sudden up and down in pixel density and thereby
+reflected in brightness signal.
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput
+Sci Syst Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Volume 11(2) 171-177 (2018) - 174 J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+File
+Right hand, signal_1.mp4, fps=27, Touch error=4, frames=795,
+HR=82. With touch error, HR=81 so, algorithm works fine and touch
+error for only 4 frames at the beginning as Figure 4 and throughout the
+remaining signal train, brightness is consistent and in the range and
+no straight line in the signal. This is a perfect brightness signal with
+uniform pixel density (Figures 5-8).
+File
+Left hand, signal_2.mp4, fps=28, Touch Error=0, frames=962,
+HR=77. With touch error (=0), HR=77. Originality of the signal is not
+lost. So, algorithm is giving expected data if there is no touch error as
+well.
+File
+Left hand, signal_3.mp4, fps=28, Touch Error=86, frames=811,
+HR=77. With touch error, HR=80 (Unreliable). Yellowish orange image
+at the beginning (created flat line) and huge pixel density variation
+due to finger movement covering the camera so pixel density>200 but
+sudden up and down.
+File
+Right hand (intentionally miss touch is created), signal_4.mp4,
+fps=28, Touch Error=56, frames=770, HR=71. With touch error,
+HR=72 (Unreliable). It is because multiple touch error (<200 pixel
+density) in longer span and yellowish orange image at the beginning
+(created flat line). Limit % of miss touch error is under analysis for this
+category of signal with irregular waveform.
+Figure 4: Filtered and stabilized brightness signal (X:Frames Y: Density). Figure 6: Brightness signal (X: Frames Y: Density).
+Figure 7: PPG signal recovered (Intensity vs Frames). Figure 5: Touch error removed brightness signal (X:Frames Y: Density).
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput
+Sci Syst Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Volume 11(2) 171-177 (2018) - 175 J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+File
+Right hand, signal_5.mp4, fps=28, Touch Error=131, frames=815,
+HR=68. With touch error, HR=66 so our algorithm tries to recover
+signal from touch error. Non Red image Yellowish Orange, has produced
+flat brightness value at the beginning and bad touch at the middle.
+A good PPG signal train can be obtained from pixel density in red
+plane/frame between 200-240 for most of the cases or sometimes little
+high and range 200-250. So, we have kept the range in between 200-250
+and working on this for detail level analysis if any external factor is
+effecting its increment or not. In some cases, it has been observed that
+camera stabilization is taking 1-4 sec and in that time non red picture
+received which has pixel density>250 and flat line in brightness signal
+plot which we have removed for gaining original brightness signal.
+Butterworth Vs Savitzky-Golay Filter
+Butterworth filter tries to keep frequency response as flat as possible
+in its passband. It is an IIR filter. For low frequency signals, IIR filters
+are very good and it has fast processing power. The order of a filter
+means number of energy storage elements (Inductor/Capacitor) in the
+circuit. We have designed below band-pass filter of 2n order where n=1
+to pass frequency band of PPG signal in the range of [0.66 3.3].
+Savitzky-Golay Filter is an FIR filter used to filter frequencies
+outside the interest band and smooth the signal. FIR filters are always
+stable due to for a finite input, the output is always finite and it has
+property called linear phase. We have used 1st and 2nd order of SavitzkyGolay
+Filter on entire frame length of the captured video from where
+PPG signal is obtained.
+Hd=designfilt(‘bandpassiir’,’FilterOrder’,order,’HalfPowerFrequenc
+y1’,(BPM_L/60),’HalfPowerFrequency2’,(BPM_H/60),’SampleRate’,fs);
+(Figure 9).
+We have also checked if we can use it with Butterworth filter in the
+same algorithm-first use band pass filter for filtering noise and then use
+Savitzky-Golay Filter to smooth it and performed comparative study.
+yf=sgolayfilt(y,order,framelen); %filter design. y is the input
+brightness signal and yf is the filtered signal. Framelen is taken as entire
+frame length of captured red video (Figures 10-12).
+Figure 8: FFT components (Amplitude VS Frequency).
+Figure 9: Butterworth 2nd order band pass filter design.
+Figure 10: 2nd Order savitzky-golay filter design. Figure 11: 2nd Order savitzky-golay filtering.
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput
+Sci Syst Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Volume 11(2) 171-177 (2018) - 176 J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+Filtering the selected window from PPG to do smoothening along
+with band pass filtering with 2nd Order Butterworth.
+IIR:yf=sgolayfilt(y(ppg(WINDOW_SECONDS1:WINDOW_
+SECONDS2)),order,(WINDOW_SECONDS2-WINDOW_
+SECONDS1)+1); %filter design (Figures 13 and 14).
+Comparative Study
+In this study we have run our algorithm with two different filter
+designs on signal_1.mp4 and signal_2.mp4 as discussed in this paper
+and compared the result.
+Conclusions
+This study has opened up new challenges of PPG, digital signal,
+image processing and filtering where attention to be paid for more
+accuracy. All the observations mentioned here will be written down
+in next paper with detail level of mathematical and experimental
+study with more trial and signal property analysis with variation with
+factors. We are currently focusing on performance analysis of this
+algorithm with more test data set in real world keeping in mind further
+improvement possibilities with other heart parameter measurements
+which are important data sudden heart attack prediction. For the whole
+assessment, accurate data/noise free image/noise free signal or test
+data are highly required as it is very new area and related to health or
+personal safety.
+References
+1. Chen CM (2011) Web-based remote human pulse monitoring system with
+intelligent data analysis for home health care. Expert Systems with Applications
+38: 1-3.
+2. Chatterjee A, Roy UK (2018) Non-Invasive CardioVascular Monitoring - A
+Review Article on Latest PPG Signal based on Computer Science Researches.
+Inter J Res Engine Appl Manag 3: 1-7.
+3. Johnston WS (2006) Development of a Signal Processing Library for Extraction
+of SpO2, HR, HRV and RR from Photoplethysmographic Waveforms. Worcester
+Polytechnic Institute, Worcester, USA.
+4. Chen L, Reisner AT, Reifman J (2029) Automated Beat Onset and Peak
+Detection Algorithm for Field-Collected Photoplethysmograms. 31st Annual
+International Conference of the IEEE EMBS Minneapolis, Minnesota, USA.
+5. Lima AP, Beelen P, Bakker J (2002) Use of a peripheral perfusion index derived
+from the pulse oximetry signal as a noninvasive indicator of perfusion. Crit Care
+Med 30: 1210-1213.
+6. Shamir M, Eidelman LA, Floman Y, Kaplan L, Pizov R (1999) Pulse oximetry
+plethysmographic waveform during changes in blood volume. Br J Anaesth 82:
+178-181.
+7. Golparvar MH, Naddafnia N, Saghaei M (2002) Evaluating the relationship
+between arterial blood pressure changes and indices of pulse oximetric
+plethysmography. Anesth Analg 95: 1686-1690.
+8. Chan M (2010) Filtering and Signal-Averaging Algorithms for Raw ECG Signals.
+Washington University, Saint Louis, USA.
+Figure 12: 1st Order savitzky-golay filter design.
+Figure 13: 2nd Order savitzky-golay filter design on Ppg window.
+Figure 14: 2nd Order savitzky-golay@ilter on ppg window and fft.
+Citation: Chatterjee A, Roy UK (2018) Algorithm to Calculate Heart Rate and Comparison of Butterworth IIR and Savitzky-Golay FIR Filter. J Comput
+Sci Syst Biol 11: 171-177. doi:10.4172/jcsb.1000268
+Volume 11(2) 171-177 (2018) - 177 J Comput Sci Syst Biol, an open access journal
+ISSN: 0974-7231
+9. Jo J, Lee Y, Shin HS (2009) Real-time Analysis of Heart Rate Variability for
+a Mobile Human Emotion Recognition System. Recent Advances in Electrical
+and Computer Engineering 18: 162-166.
+10. Lee Y, Shin HS, Jo J (2010) Development of a PPG array sensor module. Proc
+Institute of Electronics Engineers of Korea (IEEK) Summer Conference, Seoul,
+Korea.
+11. Lee Y, Shin HS, Jo J, Lee YK (2011) Development of a Wristwatch-Type PPG
+Array Sensor Module. Proc IEEE ICCE, Berlin.
+12. Yu C, Liu Z, McKenna T, Reisner AT, Reifman J (2006) A method for automatic
+identification of reliable heart rates calculated from ECG and PPG waveforms.
+J Am Med Inform Assoc 13: 309-320.
+13. Chatterjee A, Roy UK (2018) Non-Invasive PPG Signal based Cardiovascular
+Monitoring Techniques. J Enviro Sci Comp Sci Engin Tech 7: 33-47.
+14. Abinaya M, Prabhakaran S, Jaisankar N (2014) Photoplethysmography On
+Smart Phone Using Savitzky-Golay Filter. International Journal of Scientific &
+Engineering Research 5: 45-49.

@@ -1,0 +1,349 @@
+Integration of Remote Sensing and GIS Techniques for Flood Monitoring
+and Damage Assessment: A Case Study of Naogaon District, Bangladesh
+Abdullah-Al Faisal, Abdulla-Al Kafy*
+ and Sumita Roy
+Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET), Rajshahi, Bangladesh
+*Corresponding author: Abdulla-Al Kafy, Department of Urban and Regional Planning, Rajshahi University of Engineering and Technology (RUET), Rajshahi,
+Bangladesh, Tel: +8801771411138; E-mail: sunnykafy@gamil.com
+Rec date: March 14, 2018; Acc date: March 28, 2018; Pub date: March 30, 2018
+Copyright: © 2018 Faisal AA, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Abstract
+Recording of hydrological parameters of a flood with conventional means often fails due to an extreme event
+especially in developing countries like Bangladesh. Flood water causes a lot of property damage almost every year
+and it demands to be controlled for economic growth by water management. The objective of the study is to analyze
+the damages according to different land uses like urban area (Built-up) or agricultural lands, flood height and thus
+the percentages of loss in different land use in various corresponding year. Naogaon District has been chosen as the
+study area for this analysis. Remote Sensing data has been used in this context as remote sensing technology
+along with Geographic Information System (GIS) has become a key tool for flood monitoring in recent years.
+Satellite images which have been collected from Landsat 4-5 Thematic Mapper for the year 2004, 2007 and 2012
+and Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) images for the year 2017. In
+each year images of different times (March and September) of Naogaon district have been analyzed with
+Geographical Information System (GIS) and ERDAS Imagine software. The analysis demonstrate the variation of
+land use changes in before and after flood occurrence month from 2004 to 2017 depends on this change. The
+analysis also describe the relation of the flood in that four observation years as well as the percentages of loss
+association with the flood spread, flood height, and land uses. The study helps to find out the losses and related
+relations of flood and thus the importance of water management. The study demonstrates an encouragement to
+further flood water management studies.
+Keywords: Extreme event; Land use change; Satellite image; Remote
+sensing; Landsat images; GIS; Water management
+Introduction
+Floods are one of the most common natural disasters leading to
+economic losses and loss of human lives [1]. As monsoon rain kept on
+pouring and overflowing the rivers in the country as well as the
+upstream hilly regions of neighbouring countries, Bangladesh faces
+flood D??ecting the northern, north-eastern and central part of the
+country. Naogaon District is a mostly D??ected one in northern part [2].
+Naogaon district has 10 rivers (Atrai River, Punarbhaba River, Little
+Jamuna River, Gur River, Dhol River or Dhol Sea, Tulshiganga River,
+Nagor River, Noor River, Fokinni River, Shiva River) [3]. ?ese rivers
+overflow and causes flood and damage a huge property. Recently (in
+2017) heavy floods have severely damaged properties valued around
+Tk 300 crore in two upazilas of Naogoan district following the collapse
+of a flood control embankment at Mirpur area under Atrai upazila in
+the district. Floods have damaged about 23,000 houses, including 7,000
+mud huts, worth around Tk 50 crore in Atrai and Raninagar upazilas
+and 97 educational institutes have also been damaged in the two
+upazilas. ?e recent floods have destroyed about 80 km of roads and
+6.50 km of the flood control embankment causing a huge economic
+loss [4]. Floods in 2017 damaged at least 50,000 acres of crops and
+washed away fish in almost 1,000 ponds. Water in the Atrai River has
+been 214 cm above the danger level, while the Chhoto Jamuna’s level
+has been 70 cm above the danger line [5]. So, Naogaon District has bad
+experiences of flood and that is why Naogaon District has been chosen
+as the study area.
+Land use and floods are closely related; therefore, any changes in the
+land use, such as urbanization across the catchment’s area, may trigger
+a sequence of flood occurrences and more economic loss [1].
+Information on land use/land cover and its changes is very essential for
+e??ective management of natural resources [6]. ?e impact of flood is
+not only changes the land use, it also D??ects the community as it
+destroy the community life [6]. ?e economic loss due to flood also
+depends a lot on land uses; flood in urban area causes more loss than
+the agricultural land. ?e land use in Naoagaon District has a change
+with time. A chronological assessment can find out the relation
+between land use and flood damage. In the study, the changes of the
+study area has been analyzed from 2002 to 2017. ?e change detection
+of land use/land cover is carried out using before and D?er flood
+satellite images [7]. In the study, Landsat 4-5 TM, Landsat-8 OLI and
+MODIS images are clDssified and analyzed with ERDAS imagine and
+GIS. ?e aim of the study is to analyze the damages according to
+di??erent land uses like Built-up area or agricultural lands and relation
+between land use and flood helps to analyze the percentages of loss in
+di??erent land use which will help the future flood management. ?is
+study provides an easy, simple and short technique for producing flood
+inundation maps from various satellite data by using Geographic
+Information System (GIS) so?wDre tools.
+Materials and Methods
+Study area
+Naogoan is a district in northern Bangladesh and a part of the
+Rajshahi Division. It is situated within the coordinates 24.90°N and
+Jo
+urnal of Remote Sensing
+&
+G
+SI
+ISSN: 2469-4134
+Journal of Remote Sensing & GIS
+Faisal et al., J Remote Sensing & GIS 2018, 7:2
+DOI: 10.4172/2469-4134.1000236
+Research Article Open Access
+J Remote Sensing & GIS, an open access journal
+ISSN: 2469-4134
+Volume 7 • Issue 2 • 1000236
+88.75°E. ?e total study area was 3449.197 sq-km. It is bounded by the
+West Bengal State of India on the north, Natore and Rajshahi district
+on the south, Joypurhat, Bogra, and Natore districts on the east,
+Nawabganj district on the west [8-10] (Figure 1).
+Figure 1: Location and Google earth image of Naogoan district.
+Data used and its pre-processing
+Landsat 4-5 TM, Landsat-8 OLI images (in the form of both surface
+reflectDnce and NDVI at 30 m spatial resolution are freely available in
+United States Geological Survey (USGS) websites [11,12]. For this
+study, these images covering the study area and within the time frame
+of 2004 to 2017 have been collected. ?e image collection considers
+two di??erent times (i) in the flood happening month (July to
+September) and (ii) when the flood is not occurring (December to
+May). ?ese images were acquired with a combination of path-row
+138-43 as this cover the study area. Upon acquiring all the required
+datasets, we performed the following set of pre-processing steps to
+both Landsat 4-5 TM and Landsat-8 OLI. ?ose included: (i) reprojecting
+the images into Universal Traverse Mercator (UTM) Zone
+46 N with World Geodetic System 1984 (WGS84) datum, (ii) clipping
+the images to represent the study area (iii) Supervised clDssificDtion
+before and D?er flood occurrence months and (iv) Watershed creation
+during flood months.
+Methodology
+?e processing of data for evaluation has three major components:
+(i) mapping of Naogaon area before and during the flood using
+Landsat 4-5 TM and Landsat-8 OLI images (ii) determining the
+percentage of land use damaged like (urban area or Agriculture land)
+in the study area during the flood from 2004-2017 upon combining the
+outcomes from the first two components through matrix union in
+ERDAS imagine.
+In order to map the pre and during flood period using Landsat 4-5
+TM and Landsat-8 OLI a number of steps have been performed.
+Firstly, a supervised clDssificDtion has been to classify the larger extent
+of heterogeneous landscapes (includes various vegetation types).
+Secondly, it has been intended to generate four major land cover
+classes (i)Urban area, (ii)Agriculture land and Vegetation, (iii)Bare soil
+and (iv)Water Body using 16-18 signatures for every image and recode
+them into four classes using recode techniques in ERDAS imagine.
+$?er getting two clDssified map from before and during the flood
+occurring period finDll\ matrix union has been conducted between the
+two maps to identify the damaged area using pixel value of two
+di??erent maps.
+Resulta and Discussion
+Flood mapping assessment in Naogaon district
+?e study area has experienced a huge amount of changes due to
+flood during the year between 2004-2017. For the year of 2004, two
+Landsat images are taken for analysis purpose. Figure 2 shows the land
+use changes for two months in year 2004. In the figure the image of (a)
+March 25, 2004 which is taken for showing the land use conditions
+before occurring flood and the image of (b) October 19, 2004 is taken
+for showing the lands use conditions of during flood
+Figure 2: a) Land use map before occurring flood (March 25, 2004)
+and b) Land use map during flood (October 19, 2004).
+?e interpretation of Landsat image (a) represents that the study
+area was 5.58% of the water body, 7.54% of the built-up area, 59.64% of
+agricultural and vegetation land and 27.24% bare soil of 3449.197 sqkm
+area. ?e data shows only 5.58% of water body existed before an
+overflow of water. But D?er increasing the overflow of water in the
+month of October 2004, the percentage of water body represents a
+massive change. ?e Figure 2b shows the massive changes of water
+body during the flood which D??ected all other land uses. ?e figure
+represents that the percentage of water body converted from 5.58% to
+25.68% which impacts on all other land uses. Due to an increase of
+water body, the percentage of built-up area was also shi?ed from 7.54%
+to 6.70%. Similarly, increasing of water body also e??ects on agricultural
+and vegetation land and the percentage was shi?ed from 59.64% to
+48.17% of 3449.197 sq-km lands. ?e percentage of bare soil also
+decreased from 27.24% to 19.45%. ?e results indicate that, due to the
+overflow of water most vegetation and agricultural land were flooded
+which washed out most of the agricultural crops and causes negative
+impacts on rural people as well as economy. In addition, 0.84% of the
+built-up area was also flooded because of occurring flood and people
+became homeless. ?e most underlying finding of the analysis of the
+flood of 2004 is, the flood covers most of the land about 692.3052 sqkm
+area of Naogoan District and washed out a huge amount of
+agricultural crops and built-up areas.
+Citation: Faisal AA, Kafy AA, Roy S (2018) Integration of Remote Sensing and GIS Techniques for Flood Monitoring and Damage Assessment:
+A Case Study of Naogaon District, Bangladesh. J Remote Sensing & GIS 7: 236. doi:10.4172/2469-4134.1000236
+Page 2 of 5
+J Remote Sensing & GIS, an open access journal
+ISSN: 2469-4134
+Volume 7 • Issue 2 • 1000236
+Another analysis is taken place of the year of 2007 in Naogoan
+District. Figure 3 represents the land use changes where the image of
+(a) March 18, 2007 which is taken for showing the land use conditions
+before occurring flood and the image of (b) August 7, 2007 is taken for
+showing the lands use conditions of during flood ?e comparison of
+the two images gives the information about the land use changes and
+by why the changes occurred. If anyone concentrates the water body
+changes of the year of di??erent months, then the percentage of flood
+damage will be clDrified ?e Figure 3b shows the conditions during
+the flood where the percentage of water body was 16.83% which was
+converted from 5.78%. ?e amount of and flooded was 380.8071 sqkm
+of 3449.197 sq-km. Due to an increase of water body, the
+percentage of built-up area was also shi?ed from 10.2% to 8.69%.
+Similarly, increasing of water body also e??ects on agricultural and
+vegetation land and the percentage was shi?ed from 51.80% to 45.68%
+of 3449.197 sq-km lands and bare soil land was shi?ed from 32% to
+28.81% due to flood ?e result indicates that, due to the overflow of
+water most vegetation and agricultural land were flooded which
+washed out most of the agricultural crops and causes negative impacts
+on rural people as well as economy. In addition, 1.33% of the built-up
+area was also flooded because of occurring flood and people became
+homeless.
+Figure 3: a) Land use map before occurring flood (March 18, 2007)
+and b) Land use map during flood (August 7, 2007).
+Figure 4 shows the land use changes where the image of March 18,
+2012 (a) which is taken for showing the land use conditions before
+occurring flood and the image of June 30, 20012 (b) is taken for
+showing the lands use conditions of during flood
+?e interpretation of both images represents the geographic
+descriptions of the flood In April there was only 9.60% of water body
+but D?er occurring flood it raised to 33.02%. ?e percentage shows the
+deadliest e??ects of the flood that not only D??ected by water body but
+also D??ected all other land uses. ?e flood washed away 2.63% of the
+built-up area which caused a huge amount of economic losses as well
+as made the victims homeless. It also washed away the extensive
+amount of agricultural and vegetation lands where percentage fall
+down from 41.81% to 34.00%.
+Figure 4: a) Land use map before occurring flood (March 18, 2012)
+and b) Land use map during flood (June 30, 20012).
+Recently the deadliest flood occurred recently all over Bangladesh
+especially in the northern portion of the country. As Naogoan is
+situated in the northern portion of Bangladesh, that’s why the district
+was a direct victim of the action of the flood For analysis purpose two
+Landsat images are taken which is shown in Figure 5. In the figure
+represents the land use changes during the year of 2017. In the figure
+the image of April 14, 2017 (a) which is taken for showing the land use
+conditions before occurring flood and the image of August 5, 2017 (b)
+is taken for showing the lands use conditions of during flood
+Figure 5: a) Land use map before occurring flood (April, 2017) and
+b) Land use map during flood (August, 2017).
+?e result shows that, the percentage of water body increased
+because of the overflow of water from 3.45% to 2.06% of 3449.197 sqkm.
+It indicates that the increasing water D??ected all other land uses
+mostly in agricultural and vegetation lands. ?e land uses such as
+built-up area was shi?ed from 12.90% to 6.14%, agriculture and
+vegetation lands were shi?ed from 37.76% to 24.79%.
+Citation: Faisal AA, Kafy AA, Roy S (2018) Integration of Remote Sensing and GIS Techniques for Flood Monitoring and Damage Assessment:
+A Case Study of Naogaon District, Bangladesh. J Remote Sensing & GIS 7: 236. doi:10.4172/2469-4134.1000236
+Page 3 of 5
+J Remote Sensing & GIS, an open access journal
+ISSN: 2469-4134
+Volume 7 • Issue 2 • 1000236
+Flood level change assessment
+Figure 6 represents the flooded area with respect to their
+corresponding year. In 2004 693.31 sq-km land was flooded and in
+2007 the total under water land area was decreased to 38.81 sq.-km.
+But in 2012, another flood acted in Naogoan District and the total
+flooded area was increased to 807.89 sq.-km and recently in 2007 the
+total flooded area was 676.34 sq-km.
+Figure 6: Area (sq.km) under Water during Flood.
+Figure 7 shows the percentages of the water body at flood occurring
+moths. ?e line shows that, in 2004 the percentage of water body
+increased to 25.68% due to flood Similarly, due to flood the
+percentage of water body increased in 2007, 2012 and 2017 to 16.83%,
+33.02% and 23.06%. ?e key finding of the analysis is, the percentage
+of a water body can be increased more than 30% and if it will, then the
+extensive area of valuable land would go under water and would create
+a physical and economic loss of Naogoan District.
+Figure 7: Percentage of Water Body at Flood Occurring Months.
+Damage assessment of agricultural land and buildup area
+during ?RRG
+Figures 8 and 9 shows the total percentage of loss during flood with
+their corresponding year. ?e figure represents that percentage of
+damage to built-up area was increasing year D?er year, that means due
+to increasing of urbanization, built-up area damages was increasing
+from 0.84% to 6.76%. In the year 2017, people of Naogoan District
+su??ered most because of losing their household due to food.
+In addition, the figure also represents the total percentage of
+agricultural and vegetable damaged land with its corresponding year.
+?e percentage fluctuDted in a di??erent year. In 2004, the percentage
+was 11.47% but in 2007 the percentage decreased to 6.12%. $?er 2007,
+the damage of agricultural and vegetation land was increased and
+turned to 16.47% in 2017. ?e most underlying key point is that, dayby-day
+due to flood property as well as agricultural and vegetation
+lands are destroyed most and therefore the economic loss is increasing
+constantly which adversely D??ect the country’s economic condition.
+Figure 8: Percentage of Built-up and Agricultural and vegetation
+land damage.
+Figure 9: Built-up and Agricultural and vegetation land damage
+area (sq.km).
+Conclusion
+?e research presented in this article formulates an e?cient
+methodology to accurately delineate the flooded areas with the help of
+remote sensing data and GIS tools in Naogoan District, Bangladesh.
+Flash flood is a natural hazard that poses a risk to both populations,
+structures and agriculture land within the D??ected areas. ?ere are
+several factors that D??ect the amount of runo?? which help determine
+the intensity of flooding ?erefore physical characteristics such as
+impervious surfaces, the hydraulic rating of soil, and flow
+accumulation of water were combined with demographic
+characteristics to create a composite flood hazard index. In this paper
+Citation: Faisal AA, Kafy AA, Roy S (2018) Integration of Remote Sensing and GIS Techniques for Flood Monitoring and Damage Assessment:
+A Case Study of Naogaon District, Bangladesh. J Remote Sensing & GIS 7: 236. doi:10.4172/2469-4134.1000236
+Page 4 of 5
+J Remote Sensing & GIS, an open access journal
+ISSN: 2469-4134
+Volume 7 • Issue 2 • 1000236
+some applications of ArcMap are used to calculate the flooded area
+using LANDSAT Images. It is estimated that the LANDSAT data could
+help to map the flooded area with an accuracy of 73–81% depending
+on various indices used. From the analysis of flood damaged area from
+2004 to 2017 most damages happen in the agricultural and vegetation
+lands and in every five years interval its keep raising from 3.95.62
+sq.km (11.47%) to 16.47% area. ?e maps can help the decision makers
+to identify the flood risk zones. It also helps the decision makers for
+planning residential, urban and land use system of a catchment area. It
+also provides the useful information to the town planners to use
+relocation, mitigation, modernization, flood protection and flood
+management system to reduce the properties and live losses. ?e study
+also suggests the further use of the remote sensing data and GIS tools
+for flood risk zones mapping. ?e study shows that Naogoan District
+area comes under high risk due to low gradient and slope watershed
+and surrounded by numerous small and large rivers and here needs
+proper flood management by accurate flood mapping.
+Acknowledgement
+?e authors would like to thank US Geological Survey (USGS) for
+Landsat archives.
+References
+1. Alexakis DD, Koutroulis AG, Agapiou A, ?emistocleous K, Tsanis IK, et
+al. (2004) GIS and remote sensing techniques for the assessment of land
+use change impact on flood hydrology: the case study of Yialias basin in
+Cyprus. Natural Hazards and Earth System Sciences 14: 413-426.
+2. Society BRC (2017) Monsoon Floods in Bangladesh-Situation Report 02.
+3. Kadiyali LR (1991) 7rD? engineering and transportation planning.
+Khanna Publishers, Delhi, India.
+4. Correspondent (2017) Scores D??ected in flood in Naogaon district. ?e
+Independent.
+5. Sadequl Islam NC (2017) Flooding worsens in Naogaon, dams at risk.
+Bdnews24.com.
+6. Lingadevaru DC, Jayakumar PD (2015) Flood induced land use and land
+cover change detection using remote sensing and GIS-a study of
+Dhadesugur and Siraguppa subwaterheds in lower Tungabhadra
+catchment, Karnataka. International Journal of Geomatics and
+Geosciences 5: 573.
+7. Khanna RK, Agrawal CK, Kumar P (2004) Remote sensing and gis
+applications in flood management. Central Water Commission, New
+Delhi, India.
+8. Clemett A, Amin MM, Ara S, Akan MMR (2006) Background
+Information for Rajshahi City, Bangladesh. WASPA Asia Project Report 2.
+9. Banglapedia-the National Encyclopedia of Bangladesh.
+10. Statistics BBO (2013) District Statistics 2011. Ministry of Planning,
+Government of ?e People's Republic of Bangladesh.
+11. Bartsch A, +¸fler A, Kroisleitner C, Trofaier AM (2016) Land cover
+mapping in northern high latitude permafrost regions with satellite data:
+Achievements and remaining challenges. Remote Sensing 8: 979.
+12. Verhegghen A, Eva H, Ceccherini G, Achard F, Gond V, et al. (2016) ?e
+potential of Sentinel satellites for burnt area mapping and monitoring in
+the Congo Basin forests. Remote Sensing 8: 986.
+Citation: Faisal AA, Kafy AA, Roy S (2018) Integration of Remote Sensing and GIS Techniques for Flood Monitoring and Damage Assessment:
+A Case Study of Naogaon District, Bangladesh. J Remote Sensing & GIS 7: 236. doi:10.4172/2469-4134.1000236
+Page 5 of 5
+J Remote Sensing & GIS, an open access journal
+ISSN: 2469-4134
+Volume 7 • Issue 2 • 1000236

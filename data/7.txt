@@ -1,0 +1,339 @@
+Research Article Open Access
+Banerjee et al., Adv Genet Eng 2017, 6:2
+DOI: 10.4172/2169-0111.1000157
+Review Article OMICS International
+Volume 6 • Issue 2 • 1000157
+Adv Genet Eng, an open access
+ISSN:2169-0111
+Advancements in Genetic Engineering Advancements in Genetic Engineer ni g
+ISSN: 2169-0111
+Abstract
+Slit-Robo could be a cell signaling pathway with numerous functions such as axon steering and ontogenesis.
+Slit is a secreted macromolecule and most generally referred to as a repulsive axon steering cue, and Robo as its
+trans-membrane macromolecular receptor. This ligand-receptor combination has been concerned in different kind of
+neuronal and non-neuronal processes starting from cell migration to ontogenesis, tumorigenesis and organogenesis
+like kidneys, lungs and breasts, etc.
+Roundabout receptors (Robo) and their Slit ligands were detected in axon steering. Slit was primarily associate
+degree extracellular matrix super molecule and expressed by plane interstitial tissue in fruit fly. Slits acted as chemorepellents
+for axons crossing the plane in vertebrates and invertebrates. The origin of Robo proteins were from
+fruit fly in an exceedingly mutant screening for genes concerned with the regulation of plane crossing. This ligandreceptor
+try has been involved exceedingly in somatic cell and non-neuronal processes starting from cell migration
+to maturation, tumorigenesis and organogenesis of tissues like kidneys, lungs and breasts, etc. This pathway act as
+a substance receptor pathway where Slit proteins bind with Robo receptors and convert signals for axon steering
+through plane commissures. Recent studies have confronted the role of this signal in numerous fields outside
+ontogeny like maturation and cancer progression. Here the fundamental framework of Slit/Robo structure and its
+general pathway with special stress on its operation in stomach cancer are summarized.
+Keywords: Slit; Robo; Neurogenesis; Cancer progression
+Introduction
+Neurogenesis, a way of producing new neurons from neural
+precursor cells observed through neuronic migration and
+regionalization, is an inevitable incident for the occasion of systema
+nervosum. In each invertebrates and vertebrates, plane cells, a group
+of sign molecules, play a key role in the formation of the nerve fiber
+commissures that adjoins left and right sides of the forming central
+systema nervosum permitting communication between each side of
+the body. The formation of commissures and connectives involves
+each nerve fiber attraction and nerve fiber repulsion towards or
+away from the plane that is radio-controlled by nerve fiber steering
+molecules. Recently, studies have shown that Slit and Roundabout
+(Robo) were thought to be the nerve fiber steering molecules as Slit/
+Robo sign pathway directs nerve fiber walking, neuronic movement
+yet because it promotes nerve fiber branching. Slit proteins are secreted
+glycoproteins, extremely preserved in its structure that intervene their
+functions by binding to their trans-membrane receptors referred to as
+Robo receptors [1]. Slit acts as a chemo-repulsive sheet cue that binds to
+the trans-membrane receptor Robo, that is expressed on the expansion
+cones of target axons, to mediate sheet crossing [2-5]. Besides
+dominant in the repulsion and migration of the axons, Slit/Robo
+pathway conjointly contributes in ontogeny and tumor-endothelial
+cell communication. Though it’s illustrious that the angiogenic stimuli
+created by growth cells drives the epithelial tissue cells towards them,
+the explanation behind the directional movement is unknown. Wang
+Associate in nursing colleagues delineated a quirky mechanism for
+growth-driven ontogeny by stating that tumor cells manufacture the
+Slit macromolecule which will acknowledge tube-shaped structure
+epithelial tissue cells through their expressed cognate receptor Robo
+[6]. Angiogenesis, being one among the most important attributes of
+cancer progression, are often targeted and Slit/Robo sign pathway is
+often targeted for the therapeutic approach towards cancer.
+*Corresponding author: Arnab Banerjee, Department of Physiology, Serampore
+College, Serampore, Hooghly–712201, West Bengal, India, Tel: +91-9836944762,
+E-mail: arnab.world10@gmail.com
+Received March 13, 2017; Accepted May 16, 2017; Published May 23, 2017
+Citation: Banerjee A, Banerjee S, Das D, Maji BK, Mukherjee S (2017) Slit/Robo
+Pathway - Neurogenesis to Cancer Progression: A Potential Therapeutic Target.
+Adv Genet Eng 6: 157. doi:10.4172/2169-0111.1000157
+Copyright: © 2017 Banerjee A. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and
+source are credited.
+Slit/Robo Pathway - Neurogenesis to Cancer Progression: A Potential
+Therapeutic Target
+Arnab Banerjee1
+*, Sreeparna Banerjee2
+, Debasmita Das1
+, Bithin Kumar Maji1
+ and Sandip Mukherjee1
+1
+Department of Physiology, Serampore College, India
+2
+Department of Zoology, Serampore College, India
+Molecular framework of Slit/Robo
+Initially, Slit proteins were known in pomace fly by the technique
+of screening that was chiefly performed to observe patterns and
+morbidity [7]. These square measure secreted proteins enabled to link
+with extracellular matrix. Though these proteins share nearly similar
+structures, they’re extremely preserved among species [8]. 3 Slit genes
+square measure were found among vertebrates; Slit 1, Slit 2, Slit 3 that
+code ~200 kDa of proteins. Each of those super molecules is formed
+from four stretches of leucine-rich repeat (LRR) domains (D1-D4),
+seven to nine cuticular protein repeats, one Agrin-Perlecan-LamininSlit
+(ALPS) or Laminin G like domain and an amino acid knot at C
+terminal.
+Robo receptor genes were additionally found in Drosophila
+melanogaster [3,5,9]. The Roundabout conformation owing to
+interruption of the commissural axons on the plane of the ventral nerve
+twine resulted in the naming of Robo receptors. These receptors are
+giant trans-membrane proteins composed of 1000-1600 amino acids
+having no chemical activity and are entirely addicted to downstream
+communication for their functions. The Robo receptor ortholog varies
+with species from being just one in Caenorhabditis elegans, 3 in chick
+and Xenopusto four in mammals and zebrafish [10]. Except in class 
+Citation: Banerjee A, Banerjee S, Das D, Maji BK, Mukherjee S (2017) Slit/Robo Pathway - Neurogenesis to Cancer Progression: A Potential
+Therapeutic Target. Adv Genet Eng 6: 157. doi:10.4172/2169-0111.1000157
+Page 2 of 3
+Volume 6 • Issue 2 • 1000157
+Adv Genet Eng, an open access
+ISSN:2169-0111
+Robo4, all alternative animate thing domains of those receptors have
+5 immunoglobulin (Ig) like domains (Ig 1-5) and 3 fibronectin repeats
+(FNIII 1-3). A protoplasm tail,being variable among species, with
+many preserved motifs follows the transmembrane domain. Robo4
+is exclusive by having solely 2 immune globulin and FNIII domains
+[11]. Robo receptors are characterised by its substance binding
+activity through that it binds specifically with the secreted Slit proteins
+throughout steering.
+Signaling pathway and mechanism of Slit/Robo
+Signal transduction through Slit/Robo is principally downstream
+and effectively mediated by protoplasm enzyme Abelson (Abl) and
+simple protein and tubule complex body part influenced by Abl and
+its effectors. Role of Abl is contradictory as its performance has been
+argued to vary in several species. In pomace fly its Associate in Nursing
+repressive result upon Robo activity [12] whereas in another study [13]
+it has been shown to own a promoting result of repulsive plane steerage
+on Robo receptors by Abl macromolecule. In chick retinal cells, a
+molecular advance is created between Robo1 and N-cadherin that is
+totally controlled by Abl effector. This advance is snapped followed by
+the engagement of Slit ligands which ends within the loss of N-cadherin
+mediated cellular division through ß-catenin by Abl [14,15]. GTPase,
+small GTP binding macromolecule, is meticulously concerned during
+this sign pathway because it will modulate cell polarity and movement
+by rearranging the complex body part. Dock/Nck protein forms a
+crucial association between GTPase and upstream sign wherever it
+binds to pomace fly and class Robo receptors, activating nerve fiber
+branching and outgrowth in plant tissue neurons in vitro [16-18].
+Slit/Robo GTPase activating macromolecule (srGAPs) illustrious
+for dominant GTPase were found in Yeast [19] and srGAP2 mediate
+downstream sign controls Rac1 activity in protrusion of cell in cell
+overlapping zone. Directed movement at the forefront is non-heritable
+by the repolarization of the cell referred to as contact inhibition of
+locomotion (CIL). Recent studies have urged another RhoA dependant
+GTPase activating macromolecule, Myo9b which may bind on to the
+living organism domain of Robo1 [20] inflicting inhibition of Myo9b
+and in broader sense inhibiting carcinoma cell metastasis.
+Slit/Robo signaling in cancer development
+Slit/Robo signal has been found to own an inevitable link with cancer
+progression. Once the initial report of gradual studies have shown the
+deletion of deoxyribonucleic acid two of Robo1 in respiratory organ
+and breast tumor cell lines [21,22]. In many forms of cancer epigenetic
+modulations are found like hypermethylation of Slit and Robo proteins.
+Activation of Slit/Robo pathway successively activates completely
+different oncogenic pathways that terminate in cancer. In most cases
+lowering of Slit/Robo expression is taken into account to be the cause
+behind tumorigenesis since Slit/Robo will inhibit cell invasion and
+migration. Slit/Robo trigger necrobiosis in body part cancer by Slit2-
+Robo4 interaction wherever the activated Robo4 subdue the expression
+of netrin-1(a tumor suppressor protein) by interacting with it leading to
+the dissociation of netrin-1 from its receptor DCC (axon steerage receptor
+deleted in body part cancer) resulting DCC regulated necrobiosis in
+cancer cells by activation of caspase-3 and caspase-9 [23,24]. This
+inhibition of netrin-1 binding to its receptor may also be non-heritable
+with Slit2 interaction with netrin-1. the foremost operation of Slit/Robo
+pathway in bar of cancer is suppression of metastasis of cancer cells as
+according to carcinoma and body part cancer wherever cell invasion
+has been ceased by interaction of Slit/Robo with E-cadherin and
+ß-catenin [25,26]. In cancer of the liver, hepatocyte protein mediated
+cell invasion is prevented by Slit2/Robo4 interaction [27]. HGF is
+activated by its substance Met through substance receptor binding that
+promotes tumor cell metastasis and formation of various carcinomas.
+Not solely cancer cells, recent study have unconcealed the prospect of
+Slit-3 macromolecule in the migration of malignant melanoma cells by
+modulating matter protein-1 [28]. Supported the signal mechanism
+and kinds of cancer, Slit/Robo pathways otherwise management cell
+movement and invasion. Though the reason for this differential activity
+in numerous forms of cancer remains unclear, it is believed that Slit2
+binds additional specifically with its Robo-1 receptor than different
+2 slits (Slit-1 and Slit-3). On the context of cancer progression Slit/
+Robo pathway suppresses tumorigenesis by modulating activities like
+cell metastasis, cell necrobiosis and cell migration. Whether Slit/Robo
+axis will initiate cancer or not is unknown however its expression can
+undoubtedly inhibit cancer progression.
+Role of Slit/Robo signaling in gastric cell carcinoma
+The major action of Slit/Robo pathway is to hinder cell migration
+and metastasis however in some sort of cancer this activity differs and
+there Slit/Robo pathway acts favorably to growth cell metastasis. Such
+incidence is seen in viscous cell malignant neoplastic disease (GC) where
+Slit/Robo interaction triggers growth metastasis. Microribonucleic acids
+(miRNAs or microRNAs) play an important role within the regulation
+of viscous malignant neoplastic disease. These square measure short,
+present, non-coding polymer molecules generated from pre-miRNAs
+that negatively modulates organic phenomenon. This square measure
+found to integrate into RNA-inducing silencing complexes and try with
+the 3’untranslated regions of specific mRNAs to induce degradation
+or to forestall the interpretation of the mRNA [29]. Cell proliferation,
+apoptosis, invasion and metastasis is regulated by miRNAs. In studies
+regarding invasive and noninvasive cells, a complete of 45miRNAs
+square measure found to be otherwise expressed among that miR-218 is
+found to be closely correlative with rate metastasis and invasion. Recent
+experiments and diagnosis have reported concerning the lowering of
+miR-218expression in many solid tumors that features rate, glandular
+cancer, carcinoma [30-33]. Bioinformatics dependent studies have
+discovered that miR-218 interacts with Robo1 receptor to alter the
+cell motility in rate. A feedback loop is created between Slit, miR-218
+and Robo1 within which miR-218 comes from either of 2 genes placed
+within the introns of 2 distinct Slit super molecule friends. As Slit act
+as the substance of Robo receptors, miR-218, happiness from same
+molecular family, conjointly act as the substance of Robo1 receptors.
+Slit3, one among the host genes, is suppressed at the side of miR218
+in malignancy cells. Suppression of miR-218 upregulatesRobo1
+(one of the many Slit receptors) expression by elimination of Robo1
+repression and leads to the interaction of Slit2/Robo1 that facilitates
+growth metastasis. Restoring high level of miR-218 will forestall Slit2/
+Robo1 interaction and inhibits cell invasion. This phenomenon not
+solely provides associate degree insight to the differential activity of Slit
+proteins however conjointly discovered a completely unique miRNA
+mediate regulative mode of receptor sign. Therefore miR-218 is a
+possible target for interference growth metastasis.
+Conclusion
+Though at first Slit/Robo signal was concerned exceedingly in axon
+steerage however recent studies and experiments were incontestable and
+used it in a broader facet outside the system. Its diversity and specificity
+in varied species have additionally shown its biological process
+multiplicity. Class Robo3 and Robo4 don’t bind Slit as ligands and
+have non-heritable different molecules as ligands, creating them totally 
+Citation: Banerjee A, Banerjee S, Das D, Maji BK, Mukherjee S (2017) Slit/Robo Pathway - Neurogenesis to Cancer Progression: A Potential
+Therapeutic Target. Adv Genet Eng 6: 157. doi:10.4172/2169-0111.1000157
+Page 3 of 3
+Volume 6 • Issue 2 • 1000157
+Adv Genet Eng, an open access
+ISSN:2169-0111
+different from authentic Robo1 and Robo2 receptors. Equally totally
+different Slit receptors like Eva1C, plexin A1, Dscam1 and dystroglycan
+have additionally been known. Slit/Robo pathway has anticancer result
+and thus therapeutic approach towards varied cancer can be achieved
+by targeting this pathway. Simple protein deacetylase inhibitors may
+be used to revive Slit/Robo expression. Researches and studies on Slit/
+Robo pathway remains within the basic and initial level as there are
+several queries relating to varied mechanism of Slit/Robo area unit still
+unrequited. Multiple XT signal has to be studied and regarded before
+declaring any conclusion. There’s an enormous potentiality of this
+pathway to be thought-about as a therapeutic target of assorted kinds of
+cancer however a large analysis and studies are required.
+Acknowledgement
+We are really grateful to Prof. Dhrubajyoti Chattopadhyay, Vice Chancellor
+of Amity University, Kolkata, for his continuous encouragement and valuable
+suggestions and also Department of Physiology and Department of Zoology,
+Serampore College.
+References
+1. Andrews W, Liapi A, Plachez C, Camurri L, Zhang J, et al. (2006) Robo1
+regulates the development of major axon tracts and interneuron migration in
+the forebrain. Development 133: 2243-2252.
+2. Hummel T, Schimmelpfeng K, Klambt C (1999) Commissure formation in the
+embryonic CNS of Drosophila. Dev Biol 209: 381-398.
+3. Kidd T, Brose K, Mitchell KJ, Fetter RD, Tessier-Lavigne M, et al. (1998)
+Roundabout controls axon crossing of the CNS midline and defines a novel
+subfamily of evolutionarily conserved guidance receptors. Cell 92: 205-215.
+4. Rothberg JM, Hartley DA, Walther Z, Artavanis-Tsakonas S (1988) Slit: An
+EGF- homologous locus of D. melanogaster involved in the development of the
+embryonic central nervous system. Cell 55: 1047-1059.
+5. Seeger M, Tear G, Ferres-Marco D, Goodman CS (1993) Mutations affecting
+growth cone guidance in Drosophila: genes necessary for guidance toward or
+away from the midline. Neuron 10: 409-426.
+6. Wang B, Xiao Y, Ding BB, Zhang N, Yuan XB, et al. (2003) Induction of tumor
+angiogenesis by Slit-Robosignaling and inhibition of cancer growth by blocking
+Robo activity. Cancer Cell 4:19-29.
+7. Nusslein-Volhard C, Wieschaus E, Kluding H (1984) Mutations affecting the
+pattern of the larval cuticle in Drosophila Melanogaster. Wilhem Roux Arch dev
+biol 193: 267-282.
+8. Chedotal A (2007) Slits and their receptors. Adv Exp Med Bio 621: 65-80.
+9. Simpson JH, Bland KS, Fetter RD, Goodman CS (2000) Short- range and longrange
+guidance by Slit and its Robo receptors: a combinatorial code of Robo
+receptors controls lateral position. Cell 103: 1019-1032.
+10. Kidd T, Bland KS, Goodman CS (1999) Slit is the midline repellent for the Robo
+receptor in Drosophila. Cell 96: 785-794.
+11. Dickinson RE, Duncan WC (2010) The SLIT-ROBO pathway: A regulator of
+cell function with implications for the reproductive system. Reproduction 139:
+697-704.
+12. Bashaw GJ, Kidd T, Murray D, Pawson T, Goodman CS (2000) Repulsive
+axon guidance: Abelson and Enabled play opposing roles downstream of the
+roundabout receptor. Cell 101: 703-715.
+13. Wills Z, Emerson M, Rusch J, Bikoff J, Baum B, et al. (2002) A Drosophila
+homolog of cyclase-associated proteins collaborates with the Abl tyrosine
+kinase to control midline axon path-finding. Neuron 36: 611-622.
+14. Rhee J, Mahfooz NS, Arregui C, Lillien J, Balsamo J, et al. (2002) Activation of
+the repulsive receptor Roundabout inhibits N-cadherin-mediated cell adhesion.
+Nature Cell Biol 4: 798-805.
+15. Rhee J, Buchan T, Zukerberg L, Lillien J, Balsamo J (2007) Cables links
+Robo-bound Abl kinase to N-cadherin bound ß-catenin to mediate Slit-induced
+modulation of adhesion and transcription. Nature Cell Biol 9: 883-892.
+16. Fan X, Labrador JP, Hing H, Barshaw GJ (2003) Slit stimulation recruits Dock
+and Park to the Roundabout receptor and increase Rac activity to regulate
+axon repulsion at the CNS midline. Neuron 40: 113-127.
+17. Round JE, Sun H (2011) The adaptor protein Nck2 mediates Slit1 induced
+changes in cortical neuron morphology. Mol Cell Neurosci 47: 265-273.
+18. Yang L, Bashaw GJ (2006) Son of sevenless directly links the Robo receptor
+to Rac activation to control axon repulsion at the midline. Neuron 52: 595-607.
+19. Wong K, Ren XR, Huang YZ, Xie Y, Liu G, et al. (2001) Signal transduction in
+neuronal migration. Cell 107: 209–221.
+20. Kong R, Yi F, Wen P, Liu J, Chen X, et al. (2015) Myo9b is a key player in SLIT/
+ROBO- mediated lung tumor suppression. J. Clin. Invest 125: 4407-4420.
+21. Sundaresan V, Heppell-Parton A, Coleman N, Miozzo M, Sozzi G, et al. (1995)
+Somatic genetic changes in lung cancer and precancerous lesions. Ann Oncol
+6: 27-31.
+22. Zavarovsky ER, Lerman MI, Minna JD (2002) Tumor suppressor genes on
+chromosome 3p involved in the pathogenesis of lung and other cancers.
+Oncogene 21: 6915-6935.
+23. Paradisia A, Maissea C, Coissieuxa MM, Gadotb N, Lépinassec F, et al. (2009)
+Netrin-1 uo-regulation in inflammatory bowel diseases is required for colorectal
+cancer progression. Proc Natl Acad Sci USA 106: 17146-17151.
+24. Castets M, Broutier L, Molin Y, Brevet M, Chazot G, et al. (2011) DCC constrains
+tumour progression via its dependence receptor activity. Nature 482: 534-537.
+25. Prasad A, Fernandis AZ, Rao Y, Ganju RK (2003) Slit protein-mediated inhibition
+of CXCR4-induced chemotactic and chemoinvasive signaling pathways in
+breast cancer cells. J Biol Chem 279: 9115-9124.
+26. Stella MC, Trusolino L, Comoglio PM (2008) The Slit/Robo system suppreses
+hepatocyte growth factor dependant invasion and morphogenesis. Mol Biol Cell
+20: 642-657.
+27. Wick MJ, Blaine S, Putten VV, Saavedra M, Nemenoff RA (2005) Lung Krupplelike
+factor (LKLF) is a transcriptional activator of the cytosolic phospholipase A2
+alpha promoter. Biochem J 387: 239-246.
+28. Denk AE, Braig S, Schubert T, Bosserhoff AK (2011) Slit3 inhibits activator
+protein 1-mediated migration of malignant melanoma cells. Int J Mol Med 28:
+721-726.
+29. Lai EC (2002) Micro RNAs are complementary to 3’UTR sequence motifs that
+mediate negative post-transcriptional regulation. Nature Genet 30: 363-364.
+30. Volinia S, Calin GA, Liu CG, Ambs S, Cimmino A, et al. (2006) A microRNA
+expression signature of human solid tumors defines cancer gene targets. Proc
+Natl Acad Sci USA 103: 2257-2261.
+31. Martinez I, Gardiner AS, Board KF, Monzon FA, Edwards RP, et al. (2007)
+Human papilloma virus type 16 reduces the expression of microRNA-218 in
+cervical carcinoma cells. Oncogene 27: 2575-2582.
+32. Petrocca F, Visone R, Onelli MR, Shah MH, Nicoloso MS, et al. (2008)
+E2F1-regulated microRNAs impair TGFbeta-dependant cell-cycle arrest and
+apoptosis in gastric cancer. Cancer Cell 13: 272-286.
+33. Yanaihara N, Caplen N, Bowman E, Seike M, Kumamoto K, et al. (2006)
+Unique microRNA molecular profiles in lung cancer diagnosis and prognosis.
+Cancer Cell 9: 189-198.
+Citation: Banerjee A, Banerjee S, Das D, Maji BK, Mukherjee S (2017) Slit/
+Robo Pathway - Neurogenesis to Cancer Progression: A Potential Therapeutic
+Target. Adv Genet Eng 6: 157. doi:10.4172/2169-0111.1000157

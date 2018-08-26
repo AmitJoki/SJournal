@@ -1,0 +1,491 @@
+Clinical Review on Sensitive Skin: History, Epidemiology, Pathogenesis
+and Management
+Kam Tim Michael Chan*
+Hong Kong Academy of Medicine, Hong Kong SAR
+*Corresponding author: Kam Tim Michael Chan, Hong Kong Academy of Medicine, Hong Kong SAR, Tel: +852 2148 2882; E-mail: pioneerskin@ymail.com
+Received date: May 15, 2018; Accepted date: June 06, 2018; Published date: June 13, 2018
+Copyright: © 2018 Chan KTM. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original author and source are credited.
+Abstract
+Sensitive skin syndrome is a common and important clinical condition not only to the dermatologists but also to
+the skin care products and cosmetic manufacturing industries. The perception of distressing sensory symptoms like
+pain and itch are translated to the brain through abrupt neuronal depolarization sometimes in normal circumstances
+without any signs. Previously only regarded as an over reactive skin to cosmetics and toiletries, sensitive skin
+gained increasing attention as a syndrome of aberrancy of the nervous system of the skin and the epidermal
+keratinocytes. The following is a review on the history, epidemiology, pathogenesis and management of the
+condition.
+Keywords: Sensitive skin syndrome; Definition Neuropathic
+pruritus; Epidermal barrier dysfunction; TRP channels antagonists;
+Prevention
+Introduction
+Sensitive skin syndrome (SSS) is a complex, clinical, global and
+public health problem [1-7]. In the past, many has neglected its
+identity as a syndrome and merely regarded it as psychosomatic or
+allergic reaction to cosmetics [8]. Epidemiological data worldwide over
+the years has confirmed its real existence and significance [9-13].
+Patients su??ered from SSS presented mostly with subjective sensory
+symptoms sometimes with psychological consequences [14]. As
+clinical signs are transient and few, diagnosing the condition in a busy
+clinical setting is challenging. It negatively a??ects patient’s
+Dermatology Life Quality Index (DLQI) and Quality of Life (QOL).
+SSS with its complications impacted a major public health burden to
+the society and health care system. Extensive availability of irritant skin
+care products in the markets with its misuse together with other factors
+like pollutions, climatic and life style changes; an escalating prevalence
+may be expected. ?e subsequent adverse reactions and patient
+dissatisfaction with management may prompt medical litigations and
+legal disputes.
+'HfinLtLon
+Misery clarified SSS as a syndrome characterized by self- reported
+facial presence of di??erent sensory perceptions including tightness,
+stinging, burning, tingling, pain and pruritus to a variety of factors [1].
+?e subjectivity of this condition is well expressed in this definition.
+Stander added the occasional objective sign of erythema [2]. Farage
+and Maibach thought that the skin in SS is prone to the subjective
+perception of irritation a?er using cosmetics and toiletries only [4]. In
+2017, a special interest group of the International Forum for the Study
+of Itch (IFSI) defined SSS as "A syndrome defined by the occurrence of
+unpleasant sensations (stinging, burning, pain, pruritus, and tingling
+sensations) in response to stimuli that normally should not provoke
+such sensations. ?ese unpleasant sensations cannot be explained by
+lesions attributable to any skin disease. ?e skin can appear normal or
+be accompanied by erythema. Sensitive skin can a??ect all body
+locations, especially the face" [15].
+Historical Perspectives
+Table 1 illustrated the historical description of SSS as cited in the
+literature [16-19]. Interestingly, in the early years, SSS had been
+described as an intolerant reaction to cosmetics, chemicals and
+toiletries applied to the skin particularly over the face. As the
+manifestations and pathogenesis of the syndrome was obscure, various
+terminologies had been used. Reactive skin, overreactive skin,
+intolerant skin and irritable skin were used synonymously as SSS in the
+literatures. ?is inevitably made scientific and epidemiological study of
+SSS di?cult and impossible. Advances in neurosciences and
+collaborated worldwide data collection provide medical evidences SSS
+is a common, prevalent and significant skin syndrome occurred in all
+ethnic groups. [1,2,15]
+Years Authors Title Journal
+1970 Frosch and Kligman A The method of appraising the stinging capacity of topically applied
+substances J Soc Cosmet Chem. 1977; 28: 197-209
+1987
+Maibach HI
+The cosmetic intolerance syndrome. Ear Nose Throat. 1987; 66: 29-33
+1988 Management of cosmetic intolerance syndrome. Clin Dermatol. 1988; 6: 102-7
+oJ u nr
+al of
+Cl ni ical & Experimental Dermatology
+Rese ra hc
+ISSN: 2155-9554
+Journal of Clinical & Experimental
+Dermatology Research Chan, J Clin Exp Dermatol Res 2018, 9:4
+DOI: 10.4172/2155-9554.1000453
+Review Open Access
+J Clin Exp Dermatol Res, an open access journal
+ISSN:2155-9554
+Volume 9 • Issue 4 • 1000453
+1990 Fisher AA "Status Cosmeticus" A cosmetic intolerance syndrome. Cutis. 1990; 40: 109-10
+1999 Yosipovitch G Evaluating subjective irritation and sensitive skin. Cosmet Toiletries. 1999; 114-42
+2009
+Misery L
+Sensitive skin in Europe. J Eur Acad Dermatol Venereol. 2009; 23: 376-81
+2011 Sensitive skin in American population: Prevalence, clinical data
+and role of the dermatologist. Int J Dermatol. 2011; 50: 961-7
+Table 1: Historical description of SSS as cited in the literature
+Epidemiology
+SSS is a common skin syndrome with overall world prevalence
+reported up to 40% to 50% especially in USA and Europe [10, 11]. An
+increased prevalence in the USA has been assessed by Farage [12].
+?ere is a female preponderance in prevalence. Female gender is more
+o?en a??ected but can also occur in man. Recent studies reported male
+has an increasing incidence. In France; 59% women and 41% men and
+in Japan 52% women and 48% men were reported to have experience
+of the sensitive skin syndrome [1]. In subsequent study; although
+di??erent methodologies employed involving di??erent skin prototype,
+weather, lifestyle, culture; the sensitive skin phenomena were reported
+almost worldwide: Brazil, Russia, United Kingdom, China, United
+States, Japan and France [9-13]. Sensitive skin very o?en appears as
+normal skin without any objective signs.
+Figure 1: Transient Receptors Proteins (TRP) channels aberrancy
+are main suspected pathogenetic factors.
+?e subjective sensations of tightness, stinging, burning, tingling,
+pain and pruritus may occur paroxysmal or exacerbated by triggering
+factors include environmental physical changes; skin care products
+used; ultra-violet radiation; skin type, air pollutions, heat, cold, wind,
+diet, alcohol consumption, stress, emotional burden and hormonal
+changes. Dry skin types, higher age and DLQI are other confounding
+risk factors. Prevalence is reported to be increased in summer but there
+is no di??erence found among di??erent age group, ethnicity and
+occupation according to study. [20] SSS is not an allergic and
+immunological skin syndrome and there is little to no
+histopathological features apart from very mild non-specific
+inflammatory cell infiltrate in the dermis. ?us, a detailed medical
+history and a standardized questionnaire in the evaluation and
+monitoring the subjective sensory perceptive discomforts and transient
+redness of SSS is essential and mandatory. An epidermal skin barrier
+impairment; peripheral and central nervous system signalling defects
+and Transient Receptors Proteins (TRP) channels aberrancy are main
+suspected pathogenetic factors (Figure 1).
+Clinical Presentations
+?e symptoms are subjective perceptions of skin tightness,
+numbness, stinging, burning, pain and pruritus under normal
+circumstance (see definition occur suddenly or secondary to known
+triggering factors (Figure 1). ?e neurogenic nociceptive, pruritogenic
+distress symptoms usually occur within one hour following exposure to
+the triggering factors and may persist for minutes and even hours [2].
+?e skin may look normal with transient erythema. Most notable
+location of sensitive skin is the face but can happen in any parts of the
+skin of the body includes hands, scalp, arms, genital areas, perianal
+region, scrotum and the trunk. 70% reported extra facial presentations;
+hands (58%), scalp (36%), feet (34%), neck (27%), torso (23%), back
+(21%). [1,21,22] Currently, the diagnostic criteria, severity assessment,
+etiology, therapy and clinical management are unresolved. While
+facing suspicious presentations of SSS, important albeit rare occult
+neoplastic, autoimmune, allergic drug and infective dermatological
+conditions must be excluded. Regular and careful follow up of patients
+are recommended. Important skin conditions that may mistakably
+diagnosed as SSS are herpes zoster ophthalmicus; eczema herpeticum;
+trigeminal and various forms of neuraglia, carcinoid syndrome with
+facial flushing, mastocytosis and amyotrophic dermatomyositis.
+Pathogenesis
+Abnormal sensory perceptions, neuronal hypersensitivity, epidermal
+barrier defects, Transient Receptor Potential (TRP) ions channels,
+neurogenic and non-neurogenic inflammation interplay with the
+central nervous system with subsequent perceptive cognitive behaviour
+appears to be the main pathogenetic mechanism behind SSS.
+Role of cutaneous nervous system in SSS
+?ere is suggestion that the sensory perceptions in SSS are due to an
+aberrant neurosensory circuitry [23]. Altered sensation in patients
+with SSS may result from an insu?cient protection of epidermal
+cutaneous nerve endings due to impaired cutaneous barrier integrity.
+Intraepidermal nerve fibre density, especially that of peptidergic Cfibres,
+was lower in sensitive skin. ?ese fibres are involved in pain,
+itching and temperature perception and their degeneration may
+promote allodynia and allokinesis. ?ese results suggest that the
+pathophysiology of skin sensitivity may resemble neuropathic pruritus
+within the domain of small fibre neuropathy [24].
+Citation: Chan KTM (2018) Clinical Review on Sensitive Skin: History, Epidemiology, Pathogenesis and Management. J Clin Exp Dermatol Res
+9: 453. doi:10.4172/2155-9554.1000453
+Page 2 of 6
+J Clin Exp Dermatol Res, an open access journal
+ISSN:2155-9554
+Volume 9 • Issue 4 • 1000453
+Functional hyperactivity of cutaneous nerves
+Functional cutaneous nerve fibres such as unmyelinated polymodal
+C fibres mediating pain, itch and warmth are equipped with sensory
+neuroreceptors such as endothelin, TRP channels, orai receptors and
+serotonin receptors. TRP channels, endothelin; etc induce sensory
+sensation and itch. TRP channels are located in nerve free endings and
+keratinocytes surface membrane and also central nervous system. TRP
+channels can be activated by di??erent heterogeneous physical,
+chemical or thermal stimuli. which in parallel act as trigger of SSS
+through Ca++ influx a??erent neuronal depolarization [25,26]. For
+instance, it is well established that TRPV 1 is activated by capsaicin,
+phorbol esters and heat; TRPV 3 by warm temperature and camphor;
+TRPV 4 by heat, mechanical, hyperosmotic gradients and stress;
+TRPM 8 by cold, menthol, wasabi and mustard; TRPA 1 by cold,
+wasabi, mustard, horseradish and bradykinin. Ingredients in cosmetics
+and skin care products which act as additives, preservatives may
+contain TRP channels agonists, activators and antagonists (Table 2).
+Examples of these irritants which act through TRPV 1 activations are
+sodium lauryl sulphate; lactic acid; formaldehyde-releasing
+preservatives alternatives like phenoxyethanol, flavour and fragrance
+agents like trans-4-tert-butylcyclohexan-1-ol (TTBC). TRP channels
+are believed to play a pivotal role in the perception and
+pathophysiology of SSS [27].
+TRP Channels
+Compounds interact with TRP Channels
+TRPV1
+Capsaicin (1)
+Resiniferatoxin (1)
+Capsazeoine (3)
+Ruthenium red (3)
+UV light (1)
+Thermal stimuli (>43C) (1)
+Acidic condition (Ph<5.9) (1)
+Endogenous bradykinin (1)
+Nerve growth factor (1)
+Endogenous cannabinoid lipids like anandamide(1)
+Aracbidonvly serotonin (3)
+Arvanil (1)
+2 Aminoethyl diphenylborinate (2-APB) (1)
+Metabolites of Arachnidonic acids (1)
+ATP (1)
+Histamine (1)
+Trans-tert-butyl cyclohexanol (TTBC) (ID 1609) (2)
+Lactic acid (1)
+Sodium Lauryl Sulphate (1)
+Phenoxyethanol (1)
+DMSO (1) Menthol (1)
+Clotrimazole (1) Retinoids (1) Tacrolimus (1)
+Compounds interact with TRP Channels
+ TRPV3
+Nitric oxide (1)
+Moderate Thermal heating (32C) (1)
+Plant derived monoterpenoids: menthol, camphor,
+Carveol, thymol, eugenol, citral (1)
+Incensole acetate (1)
+Plant cannabinoids like tetrahydrocannabinol (1)
+2-APB (1) Unsaturated free fatty acids (1)
+Chloroquine (1)
+Clotrimazole (1)
+Hypoxia (1)
+Farnesyl Pyrophospate (FPP) in cholesterol synthesis (1)
+Note: Activators=1, Agonist=2 and Antagonist=3
+Table 2: TRP channels agonists, activators and antagonists.
+Epidermal barrier dysfunction
+?e stratum corneum is the principal barrier to irritants and
+allergens and is involved in the regulation of trans epidermal water loss
+(TEWL) [28]. ?e defective epidermal barrier maybe secondary to the
+action of irritants, proteases and protease activated receptors (PAR).
+?e abnormal epidermis clinically presented as dry skin increase
+TEWL from the inner body to the outside environment while; in the
+reverse; allows penetration and invasions of allergens, irritants and
+pathogens from the outside to the inner body activating its immuneneurological
+defence pathways. As mentioned, the broken epidermis
+exposed the free nerve endings between the epidermal keratinocytes
+which are well equipped with the sensory receptors like TRP channels
+and others. Cytokines and immune mediators like prostaglandins may
+be secreted and resulted in neurogenic inflammation through the
+release of histamine from mast cells [29]. Substance P (SP) is also
+known to be involved as in other inflammatory diseases both in the
+skin and the spinal cord. Interestingly, sensitive skin has been linked
+with atopy. Dry is more frequent in SSS but sensitive skin is not dry in
+the majority of cases [30]. Patients with sensitive skin may have a
+defective epidermal barrier characterised by a thinner epidermis, less
+mature coenocytes, enhanced degradation of corneodesmosomes (due
+to decreased expression of protease inhibitors, increased expression of
+proteases and elevated skin pH), defective lipid lamellae, poor
+hydration and reduced levels of natural moisturising factor. Hence, SSS
+may be associated with an epidermal barrier dysfunction with
+subclinical inflammation. Hillion in his study reveals there is no
+dysbiosis of aerobic cultivable bacteria associated with SSS [31].
+Neurogenic and non-neurogenic (nonspHFLfiF) LnflDmmDtLon
+Neurogenic inflammation mediated through SP, Calcitonin G
+Reactive Protein (CGRP), Vasoactive Intestinal Peptide (VIP) with
+vasodilatation, and mast cell degranulation. Non-neurogenic or nonspecific
+inflammation leads to the release of IL-1, IL-8, PG E2, F2 and
+Tumour Necrosis Factors (TNF). An escalating inflammatory cascade
+Citation: Chan KTM (2018) Clinical Review on Sensitive Skin: History, Epidemiology, Pathogenesis and Management. J Clin Exp Dermatol Res
+9: 453. doi:10.4172/2155-9554.1000453
+Page 3 of 6
+J Clin Exp Dermatol Res, an open access journal
+ISSN:2155-9554
+Volume 9 • Issue 4 • 1000453
+via a??erent neurons activates Gastrin Releasing Peptide (GRP),
+Histamine 1-4 receptors in the Dorsal Root Ganglion (DRG) of the
+spinal cord and Central Nervous System (CNS). ?e sensory signals
+travel to the DRG and relay messages to the thalamus in the brain.
+Movements with obsessive behaviour, emotional upsets, inattention,
+sleep disturbances and psychological cognitive malfunction may result
+from the subsequent imbalance of serotonin/ dopamine secretions in
+the S2 somatosensory area of the cerebral cortex [32-34].
+Diagnosis
+A detailed and systematic clinical medical history is crucial in the
+diagnosis, evaluation, management and follows up of SSS [30]. A 14
+items and 10 items self- reporting sensitive scale questionnaires has
+been developed and validated in evaluation and monitoring of SSS
+[35]. (Figure 2) Strong indicators of sensitive skin is tautness, itching
+and burning under certain triggering factors and transient erythema.
+Objective tests and investigations like sensory testing methods,
+stinging tests, 5% lactic acid tests, capsaicin test, dimethylsufloxide test
+are not diagnostic and possess technical limitations and may not be
+acceptable to the patients. [1,35] Previously, an electrical method to
+simulate the sensory perception has been abandoned and become
+obsolete. there is no international consensus or preferred method
+recommended. ?ere is a pressing need to assess the subjective
+symptoms of the patients of SSS to prevent possible complications and
+co-morbidities. ?e best method to diagnose SSS is still utilizing a
+patient self- reported scale.
+Figure 2A: A fourteen items questionnaire version for assessing
+sensitive skin.
+Figure 2B: A ten items questionnaire version for assessing sensitive
+skin.
+Figure 3: Sensitive skin-A Real Concern. Day 1: Patient with a
+history of sensitive skin presented with severely inflamed burning
+tightening erythematous skin eruption over site of application of
+irritating skin care products, Day 4: Gradual improvement of skin
+condition a?er stopping the suspicious skin care products with
+liberal use of non-irritant moisturizers without topical or systemic
+steroids, Day 7: Complete recovery a?er continuous moisturization.
+Management and treatment
+As confirmatory diagnosis, severity assessment, long term outcomes
+and possible complications of SSS are still not fully understood,
+management of SSS is challenging and di?cult. SSS and its associated
+complications like irritants dermatitis is a real clinical concern.
+Figure 3 showed a patient presented with a long history of SSS
+symptoms involving the face and hand developed acute irritant
+burning, tightening and painful lower face and neck dermatitis a?er
+applying skin care products containing irritant preservatives and
+additives supplied by her own mother at home.
+Citation: Chan KTM (2018) Clinical Review on Sensitive Skin: History, Epidemiology, Pathogenesis and Management. J Clin Exp Dermatol Res
+9: 453. doi:10.4172/2155-9554.1000453
+Page 4 of 6
+J Clin Exp Dermatol Res, an open access journal
+ISSN:2155-9554
+Volume 9 • Issue 4 • 1000453
+She recovered a?er stopping the causative skin care products, liberal
+moisturizers, humectants and occlusive emollients and total avoidance
+of systemic and topical steroids. Her gradual recovery was shown as
+evident by the restoration of the healthy epidermal barrier.
+Counselling, careful explanation and total abstinence of inappropriate
+use of unsuitable or even dangerous skin care products are essential.
+Public education particularly on the vigilant selection and application
+of non-irritative, non-sensitive and safe skin care products like
+cleansers and moisturizers are important management [36]. Recently
+through understanding the possible pathogenesis of sensitive skin with
+TRP channels, TRPV1 antagonists like 4-t-butylcyclohexanol and
+licochalcone have been proposed in small scale study to be e??ective in
+treating SS [37]. Non-steroidal, anti-inflammatory cream;
+pimecrolimus; down regulate TRP receptors, decrease TWEL and
+increase epidermal thickness may be used satisfactory but the patients
+must be informed about the initial burning, stinging discomfort of the
+compound. ?e use of drugs is not validated and may only reflect
+doctor’s preference in using these drugs and have not been properly
+investigated in clinical trials [38,39]. Low level laser and low- level
+energy device like Intense Pulse Light has been shown to reduce
+severity of sensitive skin in one study [40]. Two clinical trials were
+performed in France and ?ailand, a new topical combination
+cosmetic product applied in patients with sensitive skin, a preventive
+soothing e??ect an immediate soothing e??ect and a soothing e??ect on
+erythema were observed [41]. Last, not least, ingestion of probiotics
+including Lactobacillus paracasei NCC2461 (ST11) strain has been
+shown to reduce the occurrence of SSS in another study; though not
+verified showed the complex interaction of the SSS with skin food
+allergy and hypersensitivity of food in the gastro-intestinal tract [42].
+Conclusion
+With the advance of neuroscience and collaborative epidemiological
+studies and researches, the puzzling condition of SSS begin to be
+unveiled. Defective epidermal skin barrier, neuronal receptors
+sensitization, neuropathic pruritus secondary to small fibre
+neuropathy, neurogenic inflammation interacted with endogenous and
+exogenous triggering factors resulted the distressing cognitive
+perception of SSS. Local consumer councils, health departments,
+managing doctors and skin care manufacturing industries are all
+stakeholders and have a social responsibility in explaining, informing
+and educating the public of all age groups in understanding and
+preventing exacerbation of SSS. Dermatologists should take the lead
+and act as gate keeper and participate in an active role in managing
+and preventing this global public health problem.
+Acknowledgement
+?e above manuscript is based on contents of the Keynote
+Presentation of the 17th Euro Dermatology Conference in Paris 1/3 to
+3/3 in 2018.
+References
+1. Misery L, Loser K, Ständer S (2016) Sensitive skin. J Eur Acad Dermatol
+Venereol 30: 2-8.
+2. Stander S (2016) Sensitive skin – a global challenge with upcoming
+solutions. J Eur Acad Dermatol Venereol 30: 1.
+3. Misery L (2013) Sensitive skin. Expert Rev Dermatol 8: 631-637.
+4. Farage MA, Maibach HI (2010) Sensitive skin: closing in on a
+physiological cause. Contact Dermatitis 62: 137-149.
+5. Duarte IAG, Silveira JEPS, Hafner MFS, Toyota R, Pedroso DMM (2017)
+Sensitive skin: review of an ascending concept. An Bras Dermatol 92:
+521-525.
+6. Berardesca E, Farage M, Maibach H (2013) Sensitive Skin: an overview.
+Int J Cosmet Sci 35: 2-8.
+7. Lev-Tov H, Maibach HI (2012) ?e sensitive skin syndrome. Indian J
+Dermatol 57: 419-423.
+8. Marriott M, Holmes J, Peters L, Coper K, Rowson M (2005) ?e complex
+problem of sensitive skin. Contact dermatitis 53: 93-99.
+9. Willis CM, Shaw S, de Lacharriere O, Baverel M, Reiche L, et al. (2001)
+Sensitive skin: an epidemiological study. Br J Dermatol 145: 258-263.
+10. Misery L, Boussetta S, Nocera T, Perez-Cullell N, Taieb C (2009) Sensitive
+skin in Europe. J Eur Acad Dermatol Venereol 23: 376-381.
+11. Misery L, Myon E, Sibaud V, Merial-Kieny C (2011) Sensitive skin in the
+American population: prevalence, clinical data, and role of the
+dermatologist. Int J Dermatol 50: 961–967.
+12. Farage MA, Miller KW, Wippel AM, Berardesca E, Misery L, et al.
+Sensitive skin in the United States: survey of Regional Di??erences. Family
+Med Medical Sci Res 2: 112.
+13. Taieb C, Auges M, Georgescu, Cullell NP, Misery L (2014) Sensitive skin
+in Brazil and Russia: An epidemiological and comparative approach. Eur
+J Dermatol 24: 372-376.
+14. Misery L (2017) Neuropsychiatric factors in sensitive skin. Clin Dermatol
+35: 281-284.
+15. Misery L, Stander S, Szepietowski JC, Reich A, Wallengren J, et al. (2017)
+Definition of sensitive skin: An expert position paper from the special
+interest group on sensitive skin of the international forum for the study of
+itch. Acta Derma Venereol 97: 4-6.
+16. Frosch and Kligman A (1977) A method of appraising the stinging
+capacity of topically applied substances. J Soc Cosmet Chem 28: 197-229.
+17. Maibach MI (1988) ?e cosmetic intolerance syndrome and management
+of cosmetic intolerance syndrome. Clin Dermatol 6: 102-117.
+18. Fisher AA (1990) Status cosmeticus. A cosmetic intolerance syndrome.
+Cutis 46: 109-110.
+19. Yosipovitch G (1999) Evaluating subjective irritation and sensitive skin.
+Cosmetic Toiletries 114-142.
+20. Misery L, Myon E, Martin N, Consoli S, Boussetta S, et al. (2007)
+Sensitive skin: psychological e??ects and seasonal changes. J Eur Acad
+Dermatol Venerol 21: 620-628.
+21. Misery L, Sibaud V, Ambronati M, Macy G, Boussetta S, et al. Sensitive
+scalp; dose this condition exist? An epidemiological study. Contact
+Dermatitis. 58: 234-238.
+22. Saint-Martory C, Roguedas-Contios AM, Sibaud V, Degouy A, Schmitt
+AM, et al. (2008) Sensitive skin is not limited to the face. Br J Dermatol
+158: 130-133.
+23. Stander S, Schneider SW, Weishaupt C (2009) Putative neuronal
+Mechanisms of Sensitive skin. Exp Dermatol 18: 417-423.
+24. Buhe B, Vie K, Gurer C, Natalizio A, Lheritier C, et al. (2016)
+Pathophysiological study of sensitive skin. Acta Derm Venereol 96:
+314-318.
+25. Stander S, Moormann C, Schumacher M (2004) Expression of vanilloid
+receptor subtype 1 in cutaneous sensory nerve fibres, mast cells, and
+epithelial cells of appendage structures. Exp. Dermatol 13, 129-139.
+26. Southall MD, Li T, Gharibova LS (2003) Activation of epidermal vanilloid
+receptor -1 induces proinflammatory mediators in human keratinocytes.
+J Pharmacol Exp ?er 304: 217-222.
+27. Chan KTM (2017) ?e Pivotal Role of the Transient Receptor Potential
+(TRP) Ion Channels in the pathogenesis of sensitive Skin. Research J of
+Nervous System 1: 1.
+28. Danby S and Cork M J (2010) A new understanding of atopic dermatitis:
+the role of epidermal barrier dysfunction and subclinical inflammation. J
+Clin Derm 1: 33-46.
+29. Baumbauer KM, DeBerry JJ, Adelman PC (2015) Keratinocytes can
+modulate and directly initiate nociceptive responses. eLife 4: e09674.
+Citation: Chan KTM (2018) Clinical Review on Sensitive Skin: History, Epidemiology, Pathogenesis and Management. J Clin Exp Dermatol Res
+9: 453. doi:10.4172/2155-9554.1000453
+Page 5 of 6
+J Clin Exp Dermatol Res, an open access journal
+ISSN:2155-9554
+Volume 9 • Issue 4 • 1000453
+30. Richters R, Falcone D, Uzunbajakava N, VerkruysseW, van Erp P, et al.
+(2015) What is sensitive skin / A systemic Literature review of Objective
+Measurements. Skin Pharmacol Physiol 28: 75-83.
+31. Hillon M, Mijouin L, Jaouen T, Barreau M, Meunier P, et al. (2013)
+Comparative study of normal and sensitive skin aerobic bacterial
+populations. Microbiology Open 2: 953-961.
+32. Luger TA (2002) Neuromediators – a crucial component of the skin
+immune system. J Dermatol Sci 30: 87-93.
+33. Zouboulis CC. ?e skin as an endocrine organ. Dermatoendocrinol 1;
+250-252.
+34. Ansel JC, Armstrong CA, Song I (2001) Interactions of the skin and
+nervous system. J Investig Dermatol Symp Proc 2: 23-26.
+35. Misery L, Jean-Decoste C, Mery S, Georgescu V, Sibaud VA (2014) New
+Ten -item Questionnaire for assessing Sensitive Skin. ?e Sensitive Scale
+10. Acta Derm Venereol 94: 635-639.
+36. Isoda K, Seki T, Inoue Y (2015) Efficacy of the combined use of a facial
+cleanser and moisturizers for the care of mild acne patients with sensitive
+skin. J Dermatol 42: 181–188.
+37. Sulzberger M, Worthmann AC, Holtzmann U, Neufang G, Grönniger E,
+et al. E??ective treatment for sensitive skin: 4-t-butylcyclohexanol and
+licochalcone. J Eur Acad Dermatol Venereol 1: 9-17.
+38. Pereira U, Boulais N, Lebonvallet N (2010) Mechanisms of the sensory
+e??ects of tacrolimus on the skin. Br J Dermatol 163: 70-77.
+39. Xie Z, Lan Y (2012) E??ectiveness of pimecrolimus cream for women
+patients with sensitive skins and its underlying mechanism. Zhongguo yi
+xue ke xue Yuan xue bao 34: 375-378.
+40. Choi M, Kim JE, Cho KH (2013) In vivo and in vitro analysis of low level
+light therapy: a useful therapeutic approach for sensitive skin. Lasers Med
+Sci 28: 1573-1579.
+41. Fauger A, Lhoste A, Chavagnac-Bonneville M, Sayag M, Jourdan E, et al.
+(2015) E??ects of a new topical combination on sensitive skin. J Cosmet
+Sci 65: 79-86.
+42. Gueniche A, Philippe D, Bastien P (2014) Randomised double-blind
+placebo-controlled study of the e??ect of Lactobacillus paracasei NCC
+2461 on skin reactivity. Benef Microbes 5: 137-145.
+Citation: Chan KTM (2018) Clinical Review on Sensitive Skin: History, Epidemiology, Pathogenesis and Management. J Clin Exp Dermatol Res
+9: 453. doi:10.4172/2155-9554.1000453
+Page 6 of 6
+J Clin Exp Dermatol Res, an open access journal
+ISSN:2155-9554
+Volume 9 • Issue 4 • 1000453

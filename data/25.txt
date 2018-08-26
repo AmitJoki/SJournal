@@ -1,0 +1,335 @@
+Volume 8 • Issue 2 • 1000282 J Biotechnol Biomater, an open access journal
+ISSN: 2155-952X
+Review Article Open Access
+Journal of Biotechnology & Biomater ai sl
+ISSN: 2155-952X
+Riaz et al., J Biotechnol Biomater 2018, 8:2
+DOI: 10.4172/2155-952X.1000282
+Journal of Biotechnology & Biomaterials
+*Corresponding author: Shahid Raza, Department of Biotechnology, University
+of South Asia, Lahore, Pakistan Tel: +92007943269; E-mail: dr.raza03@gmail.com
+Received February 27, 2017; Accepted June 08, 2018; Published June 15, 2018
+Citation: Riaz A, Abbas A, Huda N, Mubeen H, Ibrahim N, et al. (2018) Methods
+to Enhance Selenium in Wheat through Biofortification: A Review. J Biotechnol
+Biomater 8: 282. doi: 10.4172/2155-952X.1000282
+Copyright: © 2018 Riaz A, et al. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and
+source are credited
+Methods to Enhance Selenium in Wheat through Biofortification: A
+Review
+Ambash Riaz1,2, Ali Abbas1
+, Noor-ul-Huda1
+, Hira Mubeen3
+, Nazia Ibrahim3
+ and Shahid Raza2
+*
+1Atta-ur-Rahman School of Applied Biosciences, National University of Sciences and Technology, Islamabad, Pakistan
+2Department of Biotechnology, University of South Asia, Lahore, Pakistan
+3Department of Biotechnology, University of Central Punjab, Lahore, Pakistan
+Abstract
+The micronutrient selenium (Se) is an important trace and building block element for humans as well as for
+other mammals. It is ubiquitous in soil but its supply to plants is limited due to its insoluble form high-iron, low-pH
+and leached soil. Thus, it leads limited supply of micronutrients from plant to animal and then to human consumer
+and in low concentration in regard to standard health requirements. Such type of flow causes deficiency of Se
+and enhances different types of diseases threats such as; cancer, heart diseases, many inflammatory conditions,
+thyroid dysfunction. Billion individuals are affected by Se deficiency worldwide. It demands the question of discovery
+different types of strategies to enhance the Se intake. The most common cereal crop is wheat which is used as staple
+food in many countries. The major cause of Se deficiency is Intake of low-Se based wheat. Enhancement of Se in
+wheat through biofortification methods seems a good strategies for enhancement of Se in wheat and overcome the
+Se deficiency in plants and ultimately in human and other mammals. In this study, we reviewed different strategies
+that can be used to improve the Se contents in wheat through biofortification.
+Keywords: Biofortification; Wheat biofortification; Micronutrient
+Introduction
+Selenium is an important trace mineral and element of Mammalian.
+Although, body require this trace element in small amount but is a basic
+constituent of diet [1] i.e. it must be taken up by the body from the food
+it gets. It has great importance in human survival as it is involved in
+important biochemical processes going on in a body. It plays an important
+role in structural component of Selenoprotiens and enzymatic for the
+production of active thyroid hormone, which acts as an antioxidant
+and catalyst. It acts as a counteracting agent against the development
+of virulence and inhibits the growth of HIV [2-5]. Different research
+has indicated that it is important and key nutrient required by immune
+system. It also helps in sperm movement and decrease the probability
+of miscarriages. Selenium also helps in production of special proteins
+called antioxidant enzyme [6], which restricted cell damaging and
+protect the body after vaccination, like already mentioned it is required
+by the immune system. Some of the research shows its importance in
+preventing cancer and cardiovascular disease but no evidence has come
+so far. Moreover it protects the body against the toxic effects of the heavy
+metal or harmful substances.
+Deficiency of Se
+Deficiency of Se can cause severe and adverse effects on the body.
+Relationship between selenium deficiency and cardiovascular disease
+risk is still undiscovered but in other cases elevate level of Se lead
+oxidative stress and inflammation. The intake of selenium rich food
+required by the body reduces the level of cancer causing. These are
+being tested on large clinical trials which are held for the verification of
+research of research results [4].
+There are different factors that cause Selenium deficiency and one
+of the most important is intake of food low concentration of selenium
+mineral, or long term feeding on vein can also cause Se deficiency.
+Se deficiency can also lead Keshan Disease in which abnormal heart
+muscles develop and it was the major reason of China children death.
+As a mineral source it also cause another disease named as Kashin-Beck
+Disease which is a joint and bone disease [7]. Myxedematous Endemic
+Cretinisim, cause intellectual disability. When body fails to absorb
+selenium gastrointestinal disorders occur which ultimate lead to Crohn’s
+Disease. Selenosis is malnutrition of selenium in the blood which causes
+hair loss, nail deforming, mild nerve damage etc.
+Source of Se
+Plants grown in rich selenium soil are the best source of selenium
+diet. It all depends on the type of soil where the plantation was carried
+that how much selenium concentration is present in the soil is to be
+obtained. Food like fish, shellfish, red meat, serials, grains, and livestock
+can be good source of selenium. Brewer’s Yeast and wheat are always a
+healthy source of selenium diet. Below is a table showing the Se content
+in northeast and southwest region of China (Table 1).
+Selenium in the environment
+Selenium metal is present in environment across the world. Its
+concentration changes from land to land ranging from 0.1 -2.0 mg/
+Crop Northeast Southwest
+nmol/g nmol/g
+Rice 0.30 ± 0.029 0.09 ± 0.005
+Wheat 0.07 ± 0.005 0.06 ± 0.006
+Millet 0.06 ± 0.006 -
+Corn 0.04 ± 0.002 0.08 ± 0.004
+Table 1: Selenium content of cereals produced from endemic areas in Northeast
+(Heilongjiang Province) and Southwest (Sichuan and Yunnan Provinces) China*
+.
+Citation: Riaz A, Abbas A, Huda N, Mubeen H, Ibrahim N, et al. (2018) Methods to Enhance Selenium in Wheat through Biofortification: A Review. J
+Biotechnol Biomater 8: 282. doi: 10.4172/2155-952X.1000282
+Page 2 of 3
+Volume 8 • Issue 2 • 1000282 J Biotechnol Biomater, an open access journal
+ISSN: 2155-952X
+It has been proved by many scientists that selenate is much more
+effective as compare to selenite when these are applied directly to soil
+or as foliar in fertilizers [25-30]. For example, when selenate applied to
+the soil in 10 g/ha the hardly illustrates grain content of 100 µg/kg, but
+to attain this much of grain content with the selenite 110 g/ha was to
+be applied [27]. Furthermore a study demonstrated the elevate level of
+selenate over the sandy clay formed considerably enhanced results on
+grain content in barely by increasing the amount from 33 µg/kg to 234
+µg/kg, whereas selenite didn’t demonstrate any change [29]. It might be
+due to the property of selenite colliding with soil and become limiting
+factor for plants. Some parameters should be taken under consideration
+which is the application of Se form e.g the time of foliar application and
+the characteristic of soil. The major cause of UK low Se diet is wheat low
+in Se residues. A study was performed to increase the high yield of UK
+wheat crop by using fertilizers. In this experiment two methods were
+used: one was the adding of selenate with sodium as a solution while
+the other was as granular Se-containing products. This explained that
+grain content were increased by 16–26 ng Se g/ha fresh weight (FW)
+applied this conclude that 10 g/ha Se addition may raise the 10-fold of
+the Se concentration in the UK wheat and confirmed that the agronomic
+biofortification of wheat is reasonable. In addition it showed the increase
+of 20-35% in total recovery (grain and straw).
+A study was also conducted on Maize to check against the uptake
+of Se. in this experiment three types of Se fertilizers were used which
+were liquid drench of Na2SeO4 (aq) (0–100 g Se ha-1), a compound
+NPK + Se fertilizer (0–6 g Se ha-1), or Se-enriched calcium ammonium
+nitrate (CAN + Se; 0–20 g Se ha-1). At the end result was same for all of
+the forms of fertilizer plus the application rate. Mean of experimental
+values were taken and showed 20, 21 and 15 µg Se/kg for each gram of
+Se applied as Na2SeO4(aq), NPK + Se and CAN + Se, correspondingly.
+This can initiate the Se intake by human population by 26–37 µg Se
+person/d by adding 5g of Se/ha according to the pattern developed by
+national maize consumption in Malawi predominantly [31].
+In South Australia the research done on wheat demonstrated
+progressive uptake of Se by the wheat crop when introduce to soil
+directly or by foliar application. The increase Se concentration was
+observed by 20- to 133-fold for soil and foliar by 6- to 20-fold, the
+maximum of which grain Se concentration of 12 mg kg-1 was obtained.
+When 4-120 g of Se/ha was applied there wasn’t any effect on grain yield
+or protein content. Se with Na solution is an inexpensive and more
+reliable fertilization method which maintains Se level in body decrease
+the risk of developing cancer [11].
+Brassica species is an efficient way for accumulation of Se and it can
+be used for the biortification of Se to fulfill the deficiency and gap in
+the food chain. To confirm this a study was carried out in the species of
+Brassica i.e. B. rapa and B. napus in field experiment which were applied
+by 0, 6 or 20 mg Se ha-1 as Na2
+SeO4
+ and foliar sprays of 30 mgSe/ha
+as Na2
+SeO4
+ or Na2
+SeO4
+. The results were Se concentration (1.89 µg/g)
+and (1.34 µg/g) after oil extraction fraction. It concludes that foliar spray
+is more effective and efficient. Studies exposed that 68-75% of Se was
+present in a useful content which is selenomethionine (SeMet). Brassica
+plants at rosette stage had taken up 30-40%, but the translocation to seeds
+was low. The experiment illustrated that agronomic bio-fortification of
+Brassica can also help in decrease the deficiency of Se.
+Brazil lacks information on Se in agricultural crops. Though there is
+sign that low levels of Se are consumed by the population. The research
+was carried out under greenhouse conditions and have pots containing
+3l of nutritive solution in a completely randomized factorial design, with
+seven Se concentrations : 0, 2, 4, 8, 16, 32, and 64 µmol/l and two forms
+kg while in seleniferous areas can go up to 10 mg/kg [8]. Now a day
+biologists take more interest in micronutrients as it has found to be a vital
+micronutrient and is significant for many of the organisms including
+humans, animals and higher plants [9-11]. Selenium deficiency and
+toxicity both are of great importance for humans and animals, as it can
+be lethal in some cases of Keshan’s Disease.
+How plants take up selenium?
+Selenium is present as a predominant state Selenate in well oxidized
+and alkaline soil while in more acidic and well drained soils this is present
+as selenite [12]. As a result of Selenite and sulfate similar chemical
+properties, Selenite is taken up by the sulfate transporters [13]. The
+picking up of selenite by the plants depends upon the health, nutrition
+factors and external concentration of both the sulfate and selenate. Higher
+the sulfate content more will be the selenate uptake and vice versa [14].
+But this condition may change from plant to plant and even transport
+system. There are plants which very Se accumulation in plants differs from
+between species or even within the species. Accumulation of Se in high
+amount is known as hyper accumulation. Statistics reveal that this can
+vary from 1000-10,000 µg/kg dry weight where as other accumulates it
+like <20 mg/kg. Se accumulation not depend only structure and seasonal
+changes of plant but also depends on its movement from shoot to root
+during fall and from older to younger leaves and reproductive organs in
+summers [15]. Furthermore Se hyper-accumulator or non-accumulator
+doesn’t illustrate any considerable difference when grown in the same
+field. As far as these crop plants are concerned a variety of differences in
+the accumulation of Se have been reported. Any significant amount of
+Se concentration has not shown in wild wheat or wheat landraces grain
+while diploid wheat grains do [11]. In plants bioavailability of Se may
+be a factor which controls the movement of Se uptake [16]. Genotypic
+variation might become prominent if there is high Se concentration. The
+research on 14 hard red winter wheat species discovered this hypothesis,
+and the environmental factors can also be the restrictive factors [17]. This
+has been recognized so frequently that inter or intra specie deviations for
+Se accumulation exists but fact is that genetics of Se accumulation have
+hardly ever been investigated. However recombinant interbred has shown
+the genetic basis of selenate tolerance A. thaliana which reveals 3 QTLs
+(quantitative trait loci) on chromosome no. 1, 3 and 5. This can elucidate
+about the 24% of the variation with reference to the tolerance index
+defined by root-length inhibition and 32% of the root length in terms of
+the phenotypic deviation [18].
+To overcome Se scarcity the farmers use algorithmic bio-fortification
+which is the addition of bioavailable Se in fertilizers. This also has been
+experienced different types of crops and in many countries [19-22]. As
+for as inter and intra-specific variation is concerned these can be explored
+and then bio-fortified (genetic bio-fortification) [23]. Scientists and
+farmers are trying to enhance Se quantity in crop by adding Se fertilizers
+to overcome the world problem of fighting against Se deficiency. To put
+selenium into the soil is a cheap and of low cost method which can be
+taken up by plants and so the humans later. The costs for mechanically
+adding the Se to soil is about US$1.00/ha. It was demonstrated by the
+high level blood Se in the Finland post 1983. Experimentation also
+shows the high bioavailability of Se to wheat Se fertilized is as compare
+to American wheat, was naturally high in Se concentration. The trialing
+in Finland also illustrate the considerable result of Se uptake by wheat by
+soil application or foliar which were elevate from 0.1 mg/kg to 0.25 mg/
+kg. Now Se in range of 5-10 g/ha is applied which is safe and is readily
+absorbed. Se fertilization has been accomplished for over 30 years but
+no Se build-up has occurred, and positive response continues to be
+attaining from Se application [24]. 
+Citation: Riaz A, Abbas A, Huda N, Mubeen H, Ibrahim N, et al. (2018) Methods to Enhance Selenium in Wheat through Biofortification: A Review. J
+Biotechnol Biomater 8: 282. doi: 10.4172/2155-952X.1000282
+Page 3 of 3
+Volume 8 • Issue 2 • 1000282 J Biotechnol Biomater, an open access journal
+ISSN: 2155-952X
+of Se : sodium selenite-Na2
+SeO4
+ and sodium selenite – Na2
+Se4
+, with six
+replicates. The application of Se as selenate at low concentrations is
+more appropriate for lettuce bio-fortification because it helps in shoot
+biomass growth and level of Se in the shoot biomass. In both forms Se
+had two effects on lettuce plant metabolism: it acted as an antioxidant
+at low concentration and improved plant growth while on other hand at
+higher levels it reduced yield [6].
+Conclusion
+It is evident that wheat biofortified with Se is a safe and bioavailable
+source of organic Se and is recommendable for human consumption.
+Furthermore, biofortifcation appears to be preferable to process
+fortification with regard to prevention of Se-met oxidation during
+high temperature processing of wheat into puffed wheat biscuits. In
+conclusion biofortified wheat is a suitable food for improving selenium
+status in humans. However, further research is needed to verify its
+bioefficacy in selenium-deficient populations.
+References
+1. Li HF, McGrath SP, Zhao FJ (2008) Selenium uptake, translocation and
+speciation in wheat supplied with selenate or selenite. New Phytol 178: 92-102.
+2. Baum MK, Shor-Posner G (1998) Micronutrient status in relationship to
+mortality in HIV-1 disease. Nutr Rev 56: S135-S139.
+3. Beck MA, Shi Q, Morris VC, Levander OA (1995) Rapid genomic evolution of a
+nonvirulent Coxsackievirus B3 in selenium-deficient mice results in selection of
+identical virulent isolates. Nat Med 1: 433-436.
+4. Yu SY, Zhu YJ, Li WG (1997) Protective role of selenium against hepatitis b
+virus and primary liver cancer in Qidong. Biol Trace Elem Res 56: 117-124.
+5. Yu MW, Horng IS, Chiang YC, Liaw YF, Chen CJ (1999) Plasma selenium levels
+and the risk of hepatocellular carcinoma among men with chronic hepatitis virus
+infection. Am J Epidemiol 150: 367-374.
+6. Ramos SJ, Faquin V, Guilherme LRG, Castro EM, Avila FW, et al. (2010)
+Selenium biofortification and antioxidant activity in lettuce plants fed with
+selenate and selenite. Plant Soil Environ 56: 584-588.
+7. Reilly C (1996) Selenium in Food and Health. London, Blackie.
+8. Fordyce F (2005) Selenium deficiency and toxicity in the environment. Ess Med
+Geol 373-415.
+9. Terry N, Zayed AM, de Souza MP, Tarun AS (2000) Selenium in higher plants.
+Annu Rev Plant Physiol Plant Mol Biol 51: 401-432.
+10. Pilon-Smits, Elizabeth AH, Hwang S, Lytle CM, Zhu Y, et al. (1999)
+Overexpression of ATP sulfurylase in Indian mustard leads to increased
+selenate uptake, reduction, and tolerance. Plant Physiol 119: 123-132.
+11. Lyons GH, Stangoulis JCR, Graham RD (2004) Exploiting micronutrient
+interaction to optimize biofortification programs: The case for inclusion of
+selenium and iodine in the Harvest-Plus program. Nutr Rev 62: 247-252.
+12. Elrashidi MA, Adriano DC, Workman SM, Lindsay WL (1987) Chemicalequilibria
+of selenium in soils. Soil Science 144: 141-152.
+13. Anderson J (1993) Sulfur Nutrition and Assimilation in Higher Plants: Regulatory
+Agricultural and Environmental Aspects. SPB Academic 49-60.
+14. White PJ (2004) Interactions between selenium and sulphur nutrition in
+Arabidopsis thaliana. J Exp Bot 55: 1927-1937.
+15. Galeas ML, Zhang LH, John Freeman L, Wegner M, Elizabeth AH, et al.
+(2007) Seasonal fluctuations of selenium and sulfur accumulation in selenium
+hyperaccumulators and related nonaccumulators. New Phytol 173: 517-525.
+16. Zhao FJ, Su YH, Dunham SJ, Rakszegi M, Bedo Z, et al. (2009) Variation in
+mineral micronutrient concentrations in grain of wheat lines of diverse origin. J
+Cereal Sci 49: 290-295.
+17. Garvin DF, Ross Welch M, John Finley W (2006) Historical shifts in the seed
+mineral micronutrient concentration of US hard red winter wheat germplasm. J
+Sci Food Agric 86: 2213–2220.
+18. Zhang LH, Patrick Byrne F, Elizabeth AH, Pilon-Smits (2006) Mapping
+quantitative trait loci associated with selenate tolerance in Arabidopsis thaliana.
+New Phytol 170: 33-42.
+19. Cao ZH, Wang XC, Yao DH, Zhang XL, Wong MH (2001) Selenium
+geochemistry of paddy soils in Yangtze River Delta. Environ Int 26: 335-339.
+20. Yong Fang, Lin Wang, Zhihong Xin, Liyan Zhao, Xinxin An, et al. (2008) Effect of
+foliar application of zinc, selenium, and iron fertilizers on nutrients concentration
+and yield of rice grain in China. J Agric Food Chem 56: 2079-2084.
+21. Smrkolj P, Stibilj V, Kreft I, Germ M (2006) Selenium species in buckwheat
+cultivated with foliar addition of Se(VI) and various levels of UV-B radiation.
+Food Chem 96: 675-681.
+22. Walburger KJ, DelCurto T, Pulsipher GD, Hathaway RL, Pirelli GJ (2008) The
+effect of fertilizing forage with sodium selenate on selenium concentration of
+hay, drain water and serum selenium concentrations in beef heifers and calves.
+Can J Anim Sci 88: 79-83.
+23. Robin Graham D, Ross Welch M, David Saunders A, Ortiz-Monasterio I,
+Howarth Bouis E, et al. (2007) Nutritious subsistence food systems. Adv Agron
+92: 1-74.
+24. Oldfield JE (1999) The case for selenium fertilization: An update. In STDA
+Bulletin, August. Grimbergen, Belgium, Selenium-Tellurium Development
+Association.
+25. Gissel-Nielsen G (1981) Selenium treatment of field crops. Proceedings of the
+Symposium on Mineral Elements, Helsinki 1980: 25-29.
+26. Ylaranta T (1983a) Effect of added selenite and selenate on the selenium
+content of Italian rye grass (Lolium multiflorum) in different soils. Ann Agri Fenn
+22: 139-151.
+27. Ylaranta T (1983b) Effect of applied selenite and selenate on the selenium
+content of barley (Hordeum vulgare). Ann Agri Fenn 22: 164-174.
+28. Shand C, Coutts G, Duff E, Atkinson D (1992) Soil selenium treatments to
+ameliorate selenium deficiency in herbage. J Sci Food Agri 59: 27-35.
+29. Gupta UC, Winter KA, Sanderson JB (1993) Selenium content of barley as
+influenced by selenite- and selenate-enriched fertilizers. Commun Soil Sci
+Plant Anal 24: 1165-1170.
+30. Gissel-Nielsen G, Gupta UC (2001) Agronomic approaches to increase
+selenium concentration in livestock feed and food crops. Impacts of Agriculture
+on Human Health and Nutrition.
+31. Allan DC, Scott DY, Colin RB, Mark CM, Joachim L, et al. (2012) Agronomic
+biofortification of maize with selenium (Se) in Malawi. Field Crops Res 125:
+118-128.

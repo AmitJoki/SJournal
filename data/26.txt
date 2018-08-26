@@ -1,0 +1,517 @@
+Two Dimensional (2d) Experimental of Piling up Behind Submerged Break
+Water
+Cyril Bernard Rachman*, Bambang Triatmodjo and Nur Yuwono
+Civil and Environmental Engineering Department, Universitas Gadjah Mada, Yogyakarta, Indonesia
+*Corresponding author: Cyril Bernard Rachman, Civil and Environmental Engineering Department, Universitas Gadjah Mada, Yogyakarta, Indonesia, Tel: (679) 338
+1044; E-mail: cyrilrachman@fnuac?
+Received Date: February 2, 2018; Accepted Date: July 16, 2018; Published Date: 23 July 2018
+Copyright: © 2018 Rachman CB, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Abstract
+This research was done because of the continuous alert of coastal erosion due to sea level rise and also due to
+the fact that habitats and living beings will be affected. All these will be affected because of a submerged breakwater
+structure constructed near the shoreline to reduce the effect of strong waves without disturbing the ocean view.
+Further on to this, the study will see whether there are other disadvantages of constructing the submerged
+breakwater or not. A 2D experimental was done consisting of 60 simulations with four different types of submerged
+breakwater models heights, and one simulation is using no structure. The results were then recorded to get the
+piling-up of the runnings for the different structures.
+What was found out was that the piling-up is influenced by certain parameters. Those parameters are (1) pilingup
+is influenced by structure parameter in terms of structure depth, Rc and (2) piling-up also influenced by wave
+parameters in terms of Period, T. From the study, it is concluded that the influenced of piling-up to wave parameters,
+Rc is directly proportional and with respect to Period, T the piling-up is inversely proportional.
+Keywords: Piling-up; Structure parameters; Submerged breakwater;
+Wave parameters
+Introduction
+Background
+As one of the biggest archipelagic country in the world, Indonesia
+possesses a coastal line length of about 54,716 km and the country also
+having the second longest coastal line in the world a?er Canada.
+Which means having long coastal lines, indicates that more people
+lives in the coastal line area. With Indonesia the fourth most populated
+country in the world, a lot of people can be found settling in the areas
+close to the beach. Recently the beaches and coastline have faced and
+experienced many problems with regards to erosion and abrasion.
+Because of this, a suggested and preferred solution is the application
+of beach nourishment. Beach Nourishment according to Robert Dean
+[1].
+“Comprises the placement of sediment in the nearshore to advance
+the shoreline seaward and is usually placed in response to beach
+erosion which may be naturally or anthropogenically induced.
+Nourishment with compatible sediment has the advantage of
+maintaining the beach system in a near natural condition and can
+provide benefits to biota and upland property, the latter by bu??ering
+storm erosion and damage”.
+In this case it is a process in which sand that has been eroded is
+being replaced by filling back the sand like in (Figure 1a). However, by
+doing this, it needs large and enormous amount of sand volume.
+?erefore in order to reduce the amount of sand volume used, the use
+of submerged structure using Geotube material is applied in (Figure
+1b) In this case the sand is only filled from the structure up to the
+coastline. Based on (Figure 1) below, it shows the amount of sand
+volume without the present of structure and with the present of
+structure. ?e problem of reducing sand nourishment may be
+achieved, but another possible problem may arise. Having the presence
+of submerged structure may as well increase the Mean Sea Level
+(MSL). Increasing this, could influence and cause the shoreline to
+retreat [2].
+Figure 1: Sand nourishment.
+Research problem
+As mentioned earlier, the problem is the increased MSL. When MSL
+increased therefore shoreline retreats as a result cause problems for
+those living very close to the shoreline. An illustration in Figure 2
+shows a possibility of increased MSL and shoreline retreat.
+Journal of Coastal Zone Management
+ISSN: 2473-3350 Journal of Coastal Zone Management
+Rachman, J Coast Zone Manag 2018, 21:1
+DOI: 10.4172/2473-3350.1000459
+Review Article Open Access
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+Figure 2: Retreating of shoreline.
+Objectives and aims
+?e main aims of this research are to investigate the e??ect of:
+• wave parameters influencing to the piling-up, and
+• Structure parameters influencing to the piling-up.
+Focus
+?is research will focus mainly in:
+• Regular waves
+• Structure located before breaking of the waves
+• One type of sand (Krakal of size 0.433 mm)
+• Structure material used is Geotube.
+%HnHfit
+?ere are many benefits of this research however, one benefit is to
+be able to determine and know the preferable design for the submerged
+structure without causing much piling up (increasing of MSL).
+Literature Review
+Piling-up
+?e pilling-up a phenomenon as described by Diskin is:
+“An expression of the quasi-equilibrium reached between the mean
+rate or water flowing into the protected zone by waves breaking over
+the low or submerged breakwater, and that of water flowing out of the
+protected zone as a result of the di??erence in mean water levels inside
+and outside. ?e two flows are unsteady and periodic, having a period,
+T, equal to that of the wave train” [3].
+Previous research by Ruol P, Faedo A and Paris A (2003)
+Aim of the investigation was to evaluate the behavior of this kind of
+structure in terms of reflection and transmission of incident waves, as
+well as the study of the wave overtopping phenomenon and the
+associated increase in the water levels behind the breakwater (water
+piling-up). ?e wave-structure interaction was examined by
+reproducing about 70 irregular wave attacks. In the first part of the
+study a rubble mound permeable breakwater was analyzed, while in
+the second part of the research an impermeable plate was placed on the
+landward slope of the structure, in order to study in more details the
+complex phenomena of the wave overtopping over the structure and of
+the seepage through it, also related to the piling-up level at the back of
+the structure [4].
+Previous research by Diskin HM, Vajda M and Amir I (1970)
+In his paper, he mentioned that altogether some 190 tests were
+carried out on the two trapezoidal breakwaters. Plotting the values of
+the height of piling-up, Pu, against the waveheight, Ho, led to a family
+of curves for various values of the submergence, S. Again there was
+considerable scatter about the mean curves. Following a dimensional
+analysis of the variables involved in the piling-up phenomenon, it was
+decided to use the wave height, Ho, as a basis for non-dimensional
+quantities and to plot the relative piling-up (Pu/Ho) against the relative
+submergence (S/Ho).
+?HoU\
+Wave theory
+Ocean waves are mostly caused by the action of wind on water. ?e
+waves are formed primarily by a complex process of resonance and
+shearing action, in which waves of di??ering wave height, length and
+period are produced and travel in numerous directions. Once formed,
+ocean waves can travel vast distances, spreading in area and reducing
+in height, but maintaining wavelength and period.
+Airy wave equations derivation: ?e Airy wave was derived using
+the concepts of two-dimensional ideal fluid flow ?is is a reasonable
+starting point for ocean waves, which are not greatly influenced by
+viscosity, surface tension or turbulence. Figure 3 shows a sinusoidal
+wave of wavelength L, height H and period T. ?e variation of surface
+elevation with time, from the still-water level, is denoted by (referred
+to as excursion) [5] and given by, ?=
+?
+2
+?2???
+?
+?
+?
+?
+?
+Where x is the distance measured along the horizontal axis and t is
+time. ?e wave celerity, c, is given by, ?=
+?
+?
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 2 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+Figure 3: Defination sketch for a sinusoidal wave.
+Radiation stress (momentum flux theory: ?is theory is used to
+explain the phenomenon of wave set-up and longshore current
+generation. Radiation stress is defined as the excess flow of momentum
+due to the presence of waves (with units of force/unit length). It arises
+from the orbital motion of individual water particles in the waves.
+?ese particle motions produce a net force in the direction of
+propagation (SXX) and a net force at right angles to the direction of
+propagation (SYY). ?e original theory was developed by LonguetHiggins
+and Stewart [6]. Its application to longshore currents was
+subsequently developed by Longuet-Higgins [7]. ?e interested reader
+is strongly recommended to refer to these papers that are both
+scientifically elegant and presented in a readable style. Further details
+may also be found in Horikawa and Komar [8,9].
+Shoaling: Consider first a wave front travelling parallel to the seabed
+contours (i.e. no refraction is taking place). Making the assumption
+that wave energy is transmitted shoreward without loss due to bed
+friction or turbulence,
+?
+?
+0
+= 1 =
+??
+?
+?
+0
+?
+?
+0
+= ? Substituting
+2???
+8
+? then
+?
+0
+? 1=
+0?
+2 ?
+?
+?
+?
+0
+or
+?
+0?
+=
+?
+?
+?
+?
+0
+1
+2
+?? =
+Where Ks is the shoaling coe?cient ?e shoaling coe?cient can be
+evaluated from the equation for the group wave celerity.
+??
+=
+?
+?
+?
+?
+0
+1
+2
+=
+?
+0
+2
+?
+2
+1 + 2?h
+sinh2?h
+1
+2
+?e variation of Ks with d/Lo is shown in Figure 4.
+Figure 4: Variation of the shoaling coe?cient with depth.
+Surf zone processes, wave breaking: ?ere are two criteria which
+determine when a wave will break. First is a limit to wave steepness
+and second is a limit on the wave height to water depth ratio.
+?eoretical limits have been derived from solitary wave theory, which
+is a single wave with a crest and no trough. Such a wave was first
+observed by Russell in 1840, being produced by a barge on the Forth
+and Clyde canal. ?e two criteria are given by:
+Steepness H/L<1/7. ?is normally limits the height of deep-water
+waves.
+Ratio of height to depth: ?e breaking index
+?=H/h=0.78
+In practice ? can vary from about 0.4 to 1.2 depending on beach
+slope and breaker type in Figure 5.
+Figure 5: Principal types of breaking waves.
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 3 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+Non-dimensional analysis
+As Yuwono states, to write down the dimensions of the variables
+defined in the field of hydraulic engineering systems usually used. ?at
+is MLT writing dimensions, by using 3-dimensional principal
+elements: Mass (M), Length (L) and Time (T). ?e scale of the various
+variables or parameters described in dimensionless numbers, such as
+Reynolds number, Froude number and so on. Dimensionless numbers
+in addition to determining the relationship between the scales is also
+used to describe the results of the study [10]. Dimensional analysis is
+used to determine the dimensionless numbers and it is shown or done
+as follows:-
+(1) Basic echelon matrix, (2) Buckingham, (3) Rayleigh, (4)
+Stepwise, and (5) Langhaar; in this study the analysis of the NDP (nondimensional
+parameter) used stepwise method dimensional Matrix
+where the dimensions of the variables used in this study as follows:
+Pu = L RC = L H = L
+hs = L g = L/T2 T = T
+Approach
+Location
+?is study is a laboratory research by method of two-dimensional
+(2-D) physical model test that was conducted at the Laboratory of
+Hydraulics and Hydrology, Center for Science and Engineering (PSIT),
+University of Gadjah Mada, Graphic Street, Yogyakarta, Indonesia.
+Simulation
+From the problem that was already described in the objectives as
+well as in the research methodology, thus, the variable that will be
+tested in this research could be seen in Figure 6.
+Figure 6: Parameters influencing submerged break water having
+MSL impact(Also shown is the wave probe position.
+According to the objectives to be achieved, in Table 1 presents the
+simulation design that will be implemented.
+MODEL Period Stroke MODEL Period Stroke
+No Structure
+1.0 6, 8
+Structure no.3
+1.0 6, 8
+1.2 4, 6, 8, 10 1.2 4, 6, 8, 10
+1.4 8, 12 1.4 8, 12
+1.6 8, 14 1.6 8, 14
+1.8 8, 16 1.8 8, 16
+Structure 1
+1.0 6, 8
+Structure no.4
+1.0 6, 8
+1.2 4, 6, 8, 10 1.2 4, 6, 8, 10
+1.4 8, 12 1.4 8, 12
+1.6 8, 14 1.6 8, 14
+1.8 8, 16 1.8 8, 16
+Structure 2
+1.0 6, 8 No Structure Rc= Zero (0) cm
+1.2 4, 6, 8, 10 Structure no.1 Rc= -1.0 cm
+1.4 8, 12 Structure no.2 Rc= +2.5 cm
+1.6 8, 14 Structure no.3 Rc= +3.5 cm
+1.8 8, 16 Structure no.4 Rc= +7.0 cm
+Table 1: Simulation design.
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 4 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+Test Results
+Wave height (Hi), wave period (T) and breakwater depth (Rc)
+?e wave height data was obtained from a wave recorder using a
+probe to measure and record directly into the wave so?ware installed
+on a computer machine. From the so?ware all the data are saved in a
+format of an excel document in which the minimum and maximum
+heights were recorded. For each submerged breakwater, a record was
+done for two occasions. ?e first is when the water is still, then the
+wave heights were recorded and saved into excel document. Secondly
+is at the time when the wave is formed, wave height is also recorded.
+Rc Rc Period, T
+Stroke
+Probe Pu Pu Hi Hi
+(cm) (m) (s) 2 3 (mm) (m) (mm) (m)
+1
+-1.0 -0.01
+1.0 6 41.3 43.3 42.3 0.042 116 0.12
+2 1.0 8 46.4 48.2 47.3 0.047 145 0.15
+3 1.2 4 14.8 23.1 18.9 0.019 58 0.06
+4 1.2 6 24.4 25.0 24.7 0.025 70 0.07
+5 1.2 8 34.8 37.1 36.0 0.036 104 0.10
+6 1.2 10 43.4 44.5 43.9 0.044 113 0.11
+7 1.4 8 49.8 45.6 47.7 0.048 119 0.12
+8 1.4 12 66.3 65.4 65.9 0.066 178 0.18
+9 1.6 8 49.8 45.6 47.7 0.048 68 0.07
+10 1.6 14 42.7 50.4 46.5 0.047 122 0.12
+11 1.8 8 35.5 40.6 38.0 0.038 120 0.12
+12 1.8 16 45.7 50.7 48.2 0.048 148 0.15
+Table 2: Excel data to calculated results.
+Table 2 is the result from the recorded excel. ?is table includes the
+result for one of the structure (RC=-1.0 cm), all the Periods, T,
+involved in the experiment and all the Stroke, S. From this table, the
+result of the piling up can be obtained and then wave height (Hi) was
+calculated.
+Analysis
+,nfluHnFH of wave steepness
+?e illustration in Figure 7 below shows that the Piling up (Pu/Ho)
+parameters have being influenced with the decrease of wave steepness.
+Rc/ hs=-0.04 is the least steepness however the graph shows the highest
+piling up impact and the highest steepness of Rc/hs=0.28 have
+approximately 30% of the least steepness of the wave. ?is shows that
+having a submerge breakwater with less wave steepness will have more
+impact towards piling up. ?erefore the results contribute to the
+understanding that the number of occurrences for lower wave
+steepness has more influence towards piling up.
+Figure 7: ?e influence of Ho/gT2 to Pu/Ho for Rc/hs=-0.04,
++-0.10,+0.14, and +0.28.
+Figure 7 shows that Structure Rc=-1.0 cm is represented by a nondimensional
+analysis of RC/hs=-0.04. Similarly for Structure RC=2.5
+cm, RC=3.5 cm and RC=7.0 cm are all represented by nondimensional
+analysis of RC/hs=0.10, RC/hs=0.14, and RC/hs=0.28.
+,nfluHnFH of structure parameters
+From the Figure 8, the graph clearly illustrates a trend that as Rc/hs
+decreases then the Pu/H decreases also. Moreover, when Period T=1.0
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 5 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+s, 1.2 s, 1.4 s, 1.6 s, and 1.8 s, the Pu/H increases also as shown in
+Figure 8. Further to that, when looking at the Structure Parameter (Rc/
+hs), when it increases the depth from 0.025 m – 0.07 m depth, there is
+a reduction of piling up (Pu/Ho).
+Figure 8: ?e influence of rc/hs to pu/ho for periods (t)=1.0 s, 1.2 s,
+1.4 s, 1.6 s.
+When having all Rc/hs=-0.04, 0.10, 0.14 and 0.28, the result is
+similar to Figure 8 which shows that as the parameter H/gT2 increase,
+the Pu/H decreases. When referring to Rc/hs from 0.04 to -0.28, Pu/H
+decreases also. In this case, the greater the Rc/hs is, the greater the
+Pu/H and the greater the H/gT2, the less the Pu/H.
+,nfluHnFH of Rc/H compared to Diskin’s s/h
+Figure 9: ?e influence of Rc/ho to pu/h for Rc/hs=0.04, -0.10,
+-0.14, and -0.28.
+Figure 9 illustrates the graphical outcome of the experiment that
+was done. Represented from the right to the le? is the use of structures
+of Rc=-1.0 m to Rc=7.0 cm. It is clearly noticed that the trend is
+ascending up towards the le? however a maximum cannot be possibly
+determined because there is no indication of going down towards the
+le?
+Figure 10: Trapezoidal submerged breakwater experimental results,
+(Diskin, 1970).
+Figure 9 and Figure 10 are of di??erent materials of submerged
+breakwater. ?is experimental is using Geotube as the material and
+Diskin’s experiment is using rubble mound trapezoidal submerged
+breakwater. However, the main concept is to find or investigate the
+e??ect of Piling up Pu/H. Diskin’s notation for Rc=S which means Rc/H
+for this experiment refers to S/H for Diskin’s experiment. In Figure 10
+it can be seen that the trends keeps on increasing towards the le? and
+reaches it maximum then decrease again still toward the le? However,
+as mentioned earlier in Figure 9, the increasing towards the le? cannot
+really indicate when it will decrease towards the le? But the important
+thing is that it can be found out that by combining both Figure 9 and
+Figure 10, a resultant of Figure 11 can be seen. ?e result shows that
+this experiment is within Diskin’s Experiment and therefore having a
+geotube material makes less di??erence than the rubble mound
+trapezoidal submerged breakwater. As long as there is a submerged
+structure of any material, a resultant would be Piling Up.
+Figure 11: Experimental results for geo tube submerged breakwater
+comparation with Diskin’s results.
+From Figure 11, the current experiment data can be found to be
+located within the range of Diskin’s Data and in the Figure, it is
+between the range of S/Ho=-0.25 to S/Ho=0.75.Note that the
+interpretation that Diskin (1970) use states that as Rc is above the
+Mean Water Level (MWL), the value becomes negative (-ve) that is
+Rc=-1.0 cm. ?erefore when Rc is below the MWL, the value becomes
+positive (+ve) for Rc=2.5 cm, Rc=3.5 cm and Rc=7.0 cm.
+Example Illustration
+Below is an example for application use.
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 6 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+Figure 12: ?e influence of Ho/gT2 to Pu/Ho.
+Source: Analysis Result Data, 2011.
+Based on Figure 12 above, in the case of design, for example a given
+wave period for a particular beach in Indonesia T=12.0 s. ?en the
+wave steepness could be found with g=9.81 ms-2 and assuming
+Ho=0.081 m. ?erefore the wave steepness is calculated as Ho/gT2 ˜
+0.0057. With the use of Figure 12 a structure of RC could be selected,
+Depending whether the piling-up is acceptable or not [11,12]. An
+illustration as shown below in Figure 13.
+Figure 13: Determining the piling-up.
+Given:
+Ho/gT2=(0.081 m)/ ((9.81 ms-2) * (12 s) 2) ˜ 0.0057
+Submerged Structure: RC=+1.5 m
+Piling-up: Pu/Ho=0.26 about 26% (Figure 13)
+If somehow other submerged structure were used for the design,
+then the result could probably be as follows:-
+• Submerged Structure: RC=-1.0 m=Piling-up: about 38% (Figure
+13)
+• Submerged Structure: RC=+2.5 m=Piling-up: about 22% (Figure
+13)
+• Submerged Structure: RC=+5.0 m=Piling-up: about 9% (Figure
+13).
+Conclusion
+With the limitation that this research will focus mainly in regular
+waves, structure located before breaking of the waves, one type of sand
+(Krakal of size 0.433 mm), and structure material used is Geotube,
+there are some conclusions that can be obtained as follows:-
+• It is determined that for the increasing wave parameters (Ho/gT2),
+the piling up (Pu) decreases.
+• For the structure parameters (RC/hs), when it decrease from RC/
+hs=0.28 to RC/hs=-0.04, the piling up (Pu) decrease (Figure 7).
+?erefore a final conclusion based on Figure 13, the higher the
+wave period, T is then Ho/gT2 will tend to go towards to le? In this
+case, based again on the Figure 13 the piling up will increase. So with
+the graphically illustration it can be easier to select which type of
+submerged breakwater to choose to avoid greater piling up.
+In addition, this results should be considered for the impact that a
+submerged breakwater would have towards the coastline.
+Suggestions
+• According to the research, there are some suggestions for further
+studies:
+• It seems that from the result and analysis there is need to add more
+structures in the case of finding the maximum Piling-up, Pu in
+order to compare properly with Diskin’s finding
+• Also it is recommended that more research on Piling-up should be
+carried out in order to know and discover the significant that
+piling up can cause to the coastal shoreline.
+• Lastly but not the least, if the research have a good foundation of
+results and analysis, this could be used for future design of
+submerged breakwater.
+References
+1. Dean RG, Dalrymple RA (1992) Water Wave Mechanics for Engineers
+and Scientists. World 6cientific Pub, Singapore.
+2. Dean RG, Dombrowski MR, Browder AE (1994) Performance of the
+P.E.P. Reef Installation: Town of Palm Beach, Florida: First Six Months
+Result. Coastal & Oceanographic Engineering Department, University of
+Florida.
+3. Diskin MH, Vadja ML, Amir I (1970) Pilling-up behind low and
+submerged permeable breakwaters. Journal of Waterways and Harbour
+Division 96: 359-372.
+4. Ruol P, Faedo A, Paris A (2004) Physical model study of water piling-up
+behind low crested structures. Proceedings of 29th International
+Conference on Coastal Engineering, Lisbon, Portugal, pp: 4165-4177.
+5. Airy GB (1845) Tides and waves: Encyclopedia metropolitana. Int J
+Oceanograph 192: 241-396.
+6. Longuet-Higgins MS, Stewart RW (1964) Radiation stresses in water
+waves: A physical discussion with applications. Deep Sea Res 11: 529–
+562.
+7. Longuet-Higgins MS (1970) Longshore currents generated by obliquely
+incident sea waves. J Geophys Res 75: 6778–6789.
+8. Horikawa K (1978) Coastal Engineering. University of Tokyo Press,
+Tokyo.
+9. Komar PD (1976) Beach Processes and Sedimentation. Prentice-Hall,
+Englewood Cli??s NJ, p: 429.
+10. Yuwono N (1996) Perencanaan Model Hidraulika. Laboratorium
+Hidraulika dan Hidrologi, PAU IT UGM, Yogyakarta.
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 7 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000459
+11. Paotonan C (2011) Underwater wave from Geotextile Tube Material
+(Geotube) for Protect Artificial Sand Beach. Dissertasi S3, Universitas
+Gadjah Mada, Yogyakarta.
+12. Goda Y (2000) Random Seas and Design of Maritime Structures. 2nd
+edn. Advanced Series on Ocean Engineering, World 6cientific Publishing
+Co. Pte. Ltd. p: 464.
+Citation: Rachman CB (2018) Two Dimensional (2d) Experimental of Piling up Behind Submerged Break Water. J Coast Zone Manag 21: 459.
+doi:10.4172/2473-3350.1000459
+Page 8 of 8
+J Coast Zone Manag, an open access journal
+ISSN: 2473-3350
+Volume 21 • Issue 1 • 1000457

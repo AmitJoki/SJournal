@@ -1,0 +1,264 @@
+A Case of Three Deltas in a Fingerprint
+Singh RK1
+, Sharma M1*, Tarannum A1
+, Pet-Paul W2
+, Bernard L3
+1Sherlock Institute of Forensic Science, Delhi, India
+2Kwame Nkrumah University of Science and Technology, Ghana, West Africa
+3Leddy Consultancy Ltd, Lismore, Ireland
+*Corresponding author: Sharma M, Sherlock Institute of Forensic Science India, Delhi, India, Tel: 09630800789, E-mail: drsharmamahesh@gmail.com
+Received date: December 01, 2017; Accepted date: March 23, 2018; Published date: March 28, 2018
+Copyright: © 2018 Singh RK, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Abstract
+Fingerprints begin forming at about the 6th to the 13th week of gestation. A number of factors determine the print
+pattern in the womb, including the density of the amniotic fluid surrounding the foetus, the size of the foetus, the
+friction in the womb, the location in the womb amongst others. Once developed the pattern remains constant
+throughout life. Basically there are three main patterns; The Loop, which rise up and loop back around, continuing
+on the same direction it started from and it accounts for about 70% of all fingerprints, Arches look like waves that
+rise and fall on the same fingerprint pattern, accounting for 5% whiles the Whorls appear as circular patterns
+accounting for 25%. The loop has only one delta, the Arch no delta with the Whorl pattern having two deltas. In the
+case presented here, a young man of 30 years, who is physically fit and normal without any significant clinical
+condition apart from a developmental defect of the right thumb which makes it different from the left thumb. From the
+ten fingerprint patterns taken with the aid of a scanner from the subject, only the abnormal right thumb of the subject
+with a whorl fingerprint pattern has three deltas which are extremely uncommon and quite different to the traditional,
+widely known two deltas seen in all whorl patterns in fingerprints. Fingerprint deltas are only present in loops and
+whorls. There are basically four types of fingerprint whorls. The plain with two deltas, central pocket with two deltas,
+the double loop whorls with two deltas and accidental whorls which have two or more deltas. Theoretically, less than
+1 in 1000 people has these extremely rare fingerprints. The three deltas in a fingerprint whorl pattern may exist in
+accidental whorls, but no mention is made of it in plain whorls which make this case perhaps the first ever of a
+known plain whorl with three deltas. This feature is very uncommon in normal patterns. In this case the thumb of this
+young man has developed abnormally in the womb and has a whorl pattern with three deltas. It is imperative this
+pattern is taken into consideration when evaluating or interpreting fingerprints. Though the number may be
+statistically small, it is still essential this is taken into account in manual and especially when using automatic
+fingerprint identification software to evaluate known and unknown fingerprints.
+Keywords: Unconventional fingerprints; ?ree deltas fingerprints;
+Fingerprints analysis; Fingerprints whorl with three deltas
+Introduction
+2?en an investigating officer discovers the single, partial, or only
+details of a fingerprint at a crime scene, which may be the only forensic
+evidence found at the scene. ?is single detail of a fingerprint helps the
+crime scene examiners in establishing the identity of an individual as
+the fingerprints of every individual are completely unique to that
+individual and no other living person. A fingerprint is the most reliable
+criteria for identificDtion as they remain same for the entire duration of
+life. Fingerprinting is one of the oldest forensic evidence techniques
+which are used for the recognition and unique identificDtion of an
+individual for law enforcement purposes [1]. An earthenware vessel
+estimated to be 6000 years old was discovered in northwest China and
+found to bear a clearly visible friction ridge impression and is
+considered to be the oldest friction ridge skin impression of a
+fingerprint found to date. It is still debateable whether they were placed
+by accident or specificDll\ to make a decorative pattern on the pot [2].
+In earlier times there was no opportunity for additional means of
+identificDtion. Such evidence as signatures photographs and to
+personal e??ects could be used but in several cases of accident, murder,
+or suicide where the bodies of unknown were uncovered identificDtion
+was quite problematic without fingerprints [3]. Fingerprint friction
+ridge skin has unique features that persist from birth until
+decomposition D?er death.
+?e unique fingerprint pattern begins with the formation by the
+sixth month of gestation. ?e uniqueness of friction ridge skin falls
+under the larger umbrella of biological uniqueness and no two points
+of reference of any living organism are exactly alike [4]. Around the 6th
+and 7th weeks of gestation, the paddle like hand of the foetus begins to
+develop fingers [5]. Volar pads starts appear on the palm (inter-digital
+pads first followed by thenar and hypothenar pads) around 7th to 8th
+weeks of gestation and the major development of friction ridge skin
+occurs around 11th and 20th weeks of gestation [6]. ?e morphology of
+volar pads results into fingerprint patterns which are unique in terms
+of types and location of microscopic details [5]. According to Galton,
+fingerprints are clDssified into three features which are arches, loops
+and whorls. It is found that about 60-65% of population have loops,
+30-35% of the population have whorls and 5-10% of population have
+arches [7]. Generally, Arches are formed when the ridges run from one
+side of the bulb to the other side of the bulb without forming any
+background turn or twist. Loops are formed when there is a single
+backward turn without any twist. Whorls are formed when there is at
+least one complete circle, they are also considered to include all duplex
+spirals [3]. Fingerprint deltas are only present in loops and whorls.
+?ere are basically four types of fingerprint whorls. ?e plain with two
+deltas, the central pocket with two deltas, the double loop whorls with
+two deltas and accidental whorls which have two or more deltas. ?e
+Jo
+urnal of Forensic Researc
+h
+ISSN: 2157-7145
+Journal of Forensic Research Singh et al, J Forensic Res 2018, 9:2
+DOI: 10.4172/2157-7145.1000417
+Research Article Open Access
+J Forensic Res, an open access journal
+ISSN:2157-7145
+Volume 9 • Issue 2 • 1000417
+whorl mainly comprises at least two deltas with a re-curve in front of
+each but there are a few accidental whorls which have three or more
+deltas characteristic of two or more di??erent pattern types [8]. In the
+present study, a young man of 30 years, who is physically fit had a
+developmental defect of the right thumb which makes it di??erent from
+the le? thumb. ?e right thumb which has developed abnormally in
+the womb has a whorl pattern with three deltas. ?erefore this unique
+pattern has been taken into consideration for the study and analysis of
+fingerprints.
+Materials and Methods
+In the present study, a unique fingerprint whorl pattern was
+discovered which shows the abnormal development of the subjects
+thumb during the fetal development of the person. ?is study should
+be taken into consideration for the improvement of the efficienc\ of
+biometric systems which have been in use for several years. Listed
+below are the materials used during this examination: Fingerprint
+Sample, Hand Lens, Scale, Scanner (cogent system) and Camera.
+Methodology
+To collect the fingerprint sample from the subject (age 30)who is
+identified as having this unique fingerprint pattern the subject was
+asked to clean his hands thoroughly with soap and water and dry them
+using towel to enhance getting both clear photographs and print of the
+fingerprint. Firstly photographs of the full hand were taken followed by
+a close up view photographs that focus on the thumbs so that the
+unique fingerprint pattern can be clearly visualized (Figure 1).
+Figure 1: Front, back of hand and close up view of thumb.
+For recording offline and online methods were used. In the offline
+method, the subject was asked to press his fingertip was pressed against
+an ink slab and then on the paper for getting the impression on the
+fingerprint card which was later on scanned for storing electronically.
+Care must be taken while recording the offline fingerprint it is
+important to prevent smudging of the print.
+In the online method or live scan, the subject was asked to directly
+place the fingerprint over the scanner and record the fingerprint
+digitally. $?er acquiring fingerprints details such as name, sex, and
+age, blood group were noted. $?er storing the fingerprint image
+electronically we proceeded to two levels of examination i.e. level 1 and
+level 2. ?e fingerprint pattern was studied with the help of magnifying
+glass for identifying the pattern and microscopic details in level 1 and
+level 2 respectively.
+Results
+?e collected fingerprint patterns were examined for the two
+identifying patterns and microscopic features in level 1 and level 2
+respectively. Level 1 mainly refers to the overall pattern formed by the
+flow papillary ridges on the papillary surface. ?ese patterns are
+clDssified into generic classes by Galton et al [3,9] into arches, loops,
+and whorls [6].
+Whorls are further clDssified into four distinct group such as plain,
+central pocket loop, double loop, and accidental. Any whorl clDssified
+under accidental whorl clDssificDtion will either contain two or more
+patterns [7]. ?e accidental whorl pattern may have three or more
+deltas with all the characteristics of two or more patterns types [8]. As
+per the theory concerning the whorl pattern, a whorl pattern with
+three deltas was recognized for the first time in the example shown in
+Figure 2 which was due to abnormal fetal development of the thumb.
+Figure 2: Whorl pattern showing three deltas.
+$?er recognizing the pattern of the fingerprint we proceeded for
+the level 2 examination. In level 2 mainly major ridge path deviations
+or micro features or Galton characteristics are observed and
+recognized.
+?e micro features observed in level two are individual to every
+person and even micro features are considered as individual
+characteristics also. ?e subjects fingerprints were taken for level 2
+examination in which following micro features like core, delta,
+bifurcation, lake, hook/spur, bridge, enclosure, island, ridge ending and
+double bifurcation were observed shown in (Figure 3).
+Figure 3: Minutiae’s observed in the recorded fingerprint.
+Below is the each micro features are described by the Figure 4
+showing the micro features observed in the fingerprint pattern taken
+for study.
+Citation: Singh RK, Sharma M, Tarannum A, Pet-Paul W, Bernard L (2018) A Case of Three Deltas in a Fingerprint. J Forensic Res 9: 417. doi:
+10.4172/2157-7145.1000417
+Page 2 of 4
+J Forensic Res, an open access journal
+ISSN:2157-7145
+Volume 9 • Issue 2 • 1000417
+Figure 4: Showing the ridge characteristics observed in the
+fingerprint.
+• Core: Center of the fingerprint pattern
+• Delta: Point on a ridge at or in front of and nearest the center of the
+divergence of the type lines
+• Bifurcation: Point where one friction ridge divides into two friction
+ridges.
+• Lake: Large size enclosures are called in which single friction ridge
+first bifurcates and then converge and continues as a single friction
+ridge.
+• Hook/Spur: Point where a ridge bifurcates with one short ridge
+branching from a long ridge.
+• Bridge: Connecting friction ridge between the two parallel ridges
+which meets the ridge at an acute angle.
+• Enclosure: Single friction ridge in the shape of ellipse that
+bifurcates to fuse and re-joins or converges and continues as a
+single friction ridge.
+• Island: Ridges slightly longer than dots, occupying space between
+two temporarily divergent ridges
+• Ridge Ending: Single friction ridge that terminates and come to an
+abrupt end within the friction ridge structure.
+• Double Bifurcation: Point where ridge bifurcates again from a
+bifurcated ridge [5,10-15].
+Discussion
+Fingerprints are most commonly encountered as latent prints at the
+various crime scenes. In the present study, a unique fingerprint was
+observed for identifying the pattern and minutiae’s or ridge
+characteristics. Galton [3], had already clDssified the fingerprint into
+three arches, loops and whorls on the basis of the degree of curvature
+of the ridges and even said that, “?ere are few ambiguous patterns,
+and others which are non-descript, but the former are uncommon and
+latter rare; As these exceptions give little real inconvenience in
+recognition”.
+Henry [9], clDssified the fingerprint pattern in four main types such
+as Arches, Loops, Whorls and Composite which are further clDssified
+into simple and tented arch, ulnar and radial loop, single and double
+whorls and central pockets loop, lateral pockets loop, twinned loop
+and accidental loops (irregular in outline to be grouped under any of
+the mentioned pattern). Later on (mentioned in his book “Friction
+ridge skin: Comparison and identificDtion of fingerprints” that the
+accidental whorl patterns have three or more deltas, and have all the
+characteristics of two or more di??erent pattern types. As per the
+present theory about the accidental whorl pattern with three or more
+delta, in this paper a similar type of fingerprint pattern is discussed for
+the first time. In this study, a young man fingerprint pattern is
+discussed who has a developmental defect in the right thumb.
+Conclusion
+In the present study, a young man of 30 years who has a
+developmental defect in the right thumb in comparison to his le?
+thumb was observed. In this it was noted that the subject has an
+accidental whorl fingerprint pattern with three deltas which was
+identified as an unusual pattern in comparison to the broadly known
+whorl fingerprint pattern with similar type of minutiae’s or ridge
+characteristics.
+References
+1. James SH, Jon JN (2003) Forensic science an introduction to scientific
+and investigative techniques. Boca Raton, CRC Press, USA.
+2. ?e Fingerprint Sourcebook (2011) Washington DC: US Department of
+Justice, 2ffice of justice programs, National Institute of Justice.
+3. Galton F (1892) Fingerprints. London, New York: Macmillan and Co.
+4. Diego-Alvarado DA, Ramírez AMM (2011) A biochemical hypothesis on
+the formation of fingerprints using a turing patterns approach. ?eor Bio
+Med Model 8: 1-24.
+5. Daluz HM (2014) Fundamentals of fingerprint analysis. Boca Raton, CRC
+Press, USA.
+6. Christophe C, Lennard C, Margot P, Stoilovic M (2004) Fingerprints and
+other ridge skin impressions. Boca Raton, CRC Press, USA.
+7. Saferstein R (2013) Forensic science: From the crime scene to the crime
+lab. 2nd edn, Upper Saddle River: Pearson.
+8. Cowger JF (1992) Friction ridge skin: Comparison and identificDtion of
+fingerprints. Boca Raton: CRC Press, USA.
+9. Faulds H (1905) Guide to fingerprint identificDtion. Park Street: Hanley.
+10. https://www.gov.uk/government/uploDds/s\stem/uploDds/
+DttDchmentBdDtD/file/267523/)ingerprint7erminolog\.pdf
+Citation: Singh RK, Sharma M, Tarannum A, Pet-Paul W, Bernard L (2018) A Case of Three Deltas in a Fingerprint. J Forensic Res 9: 417. doi:
+10.4172/2157-7145.1000417
+Page 3 of 4
+J Forensic Res, an open access journal
+ISSN:2157-7145
+Volume 9 • Issue 2 • 1000417
+11. Newman R (2010) Security and access control using biometric
+technologies. Boston, Mass: Course Technology.
+12. Girard J (2008) Criminalistics: Forensic science and crime. Sudbury, MA:
+Jones and Bartlett Publishers, USA.
+13. Nath S (2010) Fingerprint identificDtion. New Delhi: Shiv Shakti Book
+Traders, Print, India.
+14. Wang PSP (2011) Pattern recognition, machine intelligence and
+biometrics. Beijing: Higher Education Press.
+15. Hawthorne MR (2009) Fingerprints: Analysis and understanding. Boca
+Raton: CRC Press.
+Citation: Singh RK, Sharma M, Tarannum A, Pet-Paul W, Bernard L (2018) A Case of Three Deltas in a Fingerprint. J Forensic Res 9: 417. doi:
+10.4172/2157-7145.1000417
+Page 4 of 4
+J Forensic Res, an open access journal
+ISSN:2157-7145
+Volume 9 • Issue 2 • 1000417

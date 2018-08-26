@@ -1,0 +1,601 @@
+Research Article Open Access
+Journal of
+Fundamentals of Renewable Energy
+and Applications Jou nr al of Fundamentals of Renewable Energy and Appl ci at oi ns
+ISSN: 2090-4541
+J Fundam Renewable Energy Appl, an open access journal
+ISSN: 2090-4541
+Kralj, J Fundam Renewable Energy Appl 2018, 8:3
+DOI: 10.4172/2090-4541.1000259
+Volume 8 • Issue 3 • 1000259
+Keywords: Thermodynamic method; Pinch analysis; Heat capacity
+flow rate; Specific heat capacity
+Abbreviation: cp
+: Specific heat capacity; CF : Heat capacity flow; E:
+error; fco r: Maximal possible correction factor; k: Slope; n: Constant; qn
+:
+Mass flow; F: Heat flow rate; ?T : Temperature difference
+Introduction
+Pinch analysis can increase the energy efficiencies of individual
+chemical processes. It has established itself as a highly versatile tool
+for process design. Originally pioneered as a technique for reducing
+the energy costs of new plants, it was later adapted for retrofits [1].
+Pinch analysis quickly proposes good ideas for heat integration during
+complex processes, e.g. by using a grand-composite curve. A combined
+heat and power design adds degrees of freedom to the optimisation
+method.
+Pinch techniques are used within the chemical industry for
+improving heat integration regarding utility systems. Ahmad and Hui
+[2] extended the concept for direct and indirect integration. Using
+site-source and site-sink profiles, the targets for steam generation
+and utilisation between processes were set by Dhole and Linnhoff
+[3]. Hui and Ahmad [4] developed a procedure for the optimum cost
+integrations of different processes using exergetic steam costing.
+Over the last four decades, the problem of designing and
+synthesizing optimal HENs (heat exchanger networks) has been the
+focus of an extensive number of studies [5,6]. In regard to this problem,
+a set of hot streams at a set of initial (stream) temperatures needs to
+be cooled in order to correspond to a set of target temperatures, and
+a set of cold streams at a set of initial (stream) temperatures needs to
+be heated to another corresponding set of target temperatures. The
+objective is to determine the structure of the HEN and associated heat
+exchanger (HEX) heat load/duty (I), together with additional heaters
+and coolers (utilities), if required. This brings all streams to their
+target temperatures provided that the HEN’s and HEX’s input and
+*Corresponding author: Anita Kovac Kralj, Faculty of Chemistry and Chemical
+Engineering, University of Maribor, 2000 Maribor, Slovenia, Tel: +386 02 2294454;
+Fax: +386 02 2527 774; E-mail: anita.kovac@uni-mb.si
+Received December 27, 2017; Accepted April 28, 2018; Published May 07, 2018
+Citation: Kralj AK (2018) Estimating the Maximum Possible Correction
+Factor by Using the High Temperature Differences within Pinch Analysis as
+Obtained from Practical Experience. J Fundam Renewable Energy Appl 8: 259.
+doi:10.4172/20904541.1000259
+Copyright: © 2018 Kralj AK. This is an open-access article distributed under the
+terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and
+source are credited.
+Abstract
+Pinch analysis is a very useful method that can increase the energy efficiencies of individual chemical processes
+including simultaneous heat integration and process optimisation. Pinch analysis is based on constant heat capacity
+flow (CF) for each stream. In regard to greater temperature differences of more than 200 K, the heat capacity flow
+could be corrected using a quantified maximal possible correction factor (fcor) obtained from practical experience. This
+is because of certain determined changes in specific heat capacity (cp
+), as it is temperature dependent. The correction
+factor for heat capacity flow is calculated by determining the errors of specific heat capacities. This technique includes
+those specific heat capacity errors during significant temperature differences that cause errors regarding heat capacity
+flow. The correction factor could be reduced by using the calculated mistake of heat flow rate during integrated networks.
+The novelty of this paper is the correction factor, which could be:
+• Obtained from practical experience
+• Reduced the mistake of heat flow rate
+• Reduced the energy loss.
+Estimating the Maximum Possible Correction Factor by Using the High
+Temperature Differences within Pinch Analysis as Obtained from Practical
+Experience
+Anita Kovac Kralj*
+University of Maribor, Maribor, Slovenia
+output temperature differentials are greater than or equal to the HEN
+minimum temperature-differential approach (?Tmin) [6].
+A heat exchanger network’s design may depend on the heat-pinch
+targeting stage, as an approach whereby hot and cold composite curves
+(CCs) are used for determining the heat energy targets (heat recovery,
+cold utility, and hot utility) at a specified minimum temperature
+differential ?Tmin [7]. The targeting stage allows the designer of HENs
+to determine the best performance achievable prior to actual synthesis.
+Energy targets may be set using CCs, where the minimum hot and cold
+utilities’ requirements are determined.
+Over past decades, pinch analysis techniques have been used for the
+systematic designing of heat recovery and material conservation systems
+[8], and within process plants [9]. In particular, pinch analysis is widely
+used within the area of resource conservation, such as the recoveries
+of solvents [8], water [10,11], utility gas [12,13], and property-based
+integration [14,15]. This family of techniques is complementary to
+mathematical optimisation techniques, as they offer advantages with
+respect to problem analysis and visualisation. In addition, they also
+provide useful insights and performance targets for facilitating the
+subsequent detailed design stage.
+Sometimes different correction factors are used that are inserted 
+Citation: Kralj AK (2018) Estimating the Maximum Possible Correction Factor by Using the High Temperature Differences within Pinch Analysis as
+Obtained from Practical Experience. J Fundam Renewable Energy Appl 8: 259. doi:10.4172/20904541.1000259
+Volume 8 • Issue 3 • 1000259
+Page 2 of 5
+J Fundam Renewable Energy Appl, an open access journal
+ISSN: 2090-4541
+within the models. An equation of state is a thermodynamic equation
+that relates two or more state functions (temperature, pressure, volume
+etc.) in order to describe the properties of fluids and their mixtures.
+The use of cubic equations of state (CEOS) became popular during
+the modelling of natural gas systems in the 1970s because of their
+remarkable prediction regarding the phase behaviour of hydrocarbon
+fluids. Gopal and Biegler [16] presented a phase-equilibrium
+formulation that handles missing or disappearing phases, and can be
+extended for incorporating cubic equations of state (CEOS) within a
+thermodynamic model. It shows that the derivative constraints for the
+CEOS can be relaxed using the same slack variables that handle the
+missing phases. Kamath et al. [17] proposed a new general equationoriented
+(EO) approach for selecting the appropriate root of the cubic
+equation of state (CEOS) by incorporating those derivative constraints
+specific to the desired (vapour or liquid) phase.
+A new equation-oriented process model for multi-stream heat
+exchangers (MHEX) is presented with special emphasis on handling
+phase changes. This model internally uses the pinch concept in order
+to ensure minimum driving force criteria. Streams capable of phase
+change are split into sub-streams corresponding to each of the phases
+[18].
+Heat integration of efficient energy plays an important role within
+process industries, therefore it is very important to include correction
+factors within the industrial models. This paper presents a technique
+for the estimation of a correction factor for specific heat capacity where
+heat integration is performed over very high temperature differences of
+more than 200 K.
+Methods and Results
+Estimating the maximal possible correction factor within
+pinch analysis as obtained from practical experience
+The quantified maximal possible correction factor (fcor) estimation
+for heat capacity flow within pinch analysis could be determined using
+a specific heat capacity during greater temperature differences of more
+than 200 K. This correction factor is used for correcting the heat capacity
+flow used during pinch heat integration. All the basic principles and
+rules of pinch analysis remain the same.
+Pinch analysis treats the streams as a whole and calculates the heat
+capacity flows (CF) of streams. The basic principles of pinch analysis do
+not consider the phase changes of individual streams particularly and
+are, therefore not the principle correction factors that take over all the
+rules of pinch analysis. In the case of a stream’s division into multiple
+streams, these correction factors would only be used if the temperature
+difference were greater than 200 K. A temperature difference of about
+50 K does not cause any errors of CF, therefore it does not need any
+corrections. The correction factor would only be used if the temperature
+differences were greater than 200 K.
+Pinch analysis is a methodology for minimising the energy
+consumptions of chemical processes by calculating thermodynamicallyfeasible
+energy targets, and achieving them by optimising heat recovery
+systems, energy supply methods, and process operating conditions.
+The basic equation of pinch analysis is equation number 1, which
+presents the heat flow rate (F) that depends on the specific heat
+capacity at a constant pressure for components (cp
+), mass flow (qn
+), and
+temperature difference ?T [1,19].
+p n F = · ·? = ·? c q T CF T (1)
+The product of specific heat capacity at a constant pressure of
+components (cp
+) and mass flow (qn
+), denotes the heat capacity flow (CF)
+that is constant for each stream [1]. CF shows a slope for the function of
+the heat flow rate (F) and the temperature difference (?T).
+These data (F, ?T and CF) are combined for all the streams within
+the plant for providing composite curves, one for all hot streams
+(releasing heat) and one for all cold streams (requiring heat). The point
+of the closest approach between the hot and cold composite curves is
+the pinch point (or just pinch) with a hot stream pinch temperature and
+a cold stream pinch temperature. These data (F, ?T and CF) are the
+bases for determining all the characteristics of pinch analysis, therefore,
+it is necessary to prevent any errors, especially when determining the
+heat capacity flow (CF):
+CF =F ?/ T (2)
+The determination of CF can cause errors but only under greater
+temperature differences of more than 200 K because of certain
+determined changes in specific heat capacity (cp
+). The specific heat
+capacity is defined as the heat required to raise one unit mass of
+substance by one degree of temperature, therefore it is temperature
+dependent. The specific heat capacity is the measurable physical
+quantity that characterises the amount of heat required to change a
+substance's temperature by a given amount. The correction factor does
+not include the impact of fluid turbulence.
+Estimating a correction factor
+For a stream with a high ?T of more than 200 K, the calculated heat
+capacity flow (CF) obtained by using equation 2 is inaccurate, therefore
+the calculated CF could be corrected using the maximal possible
+correction factor (fcor, in W/K), especially, if the total heat flow rate of
+this stream splits into smaller parts:
+cor cor CF CF = ± f (3)
+A correction factor provides the calculation of error (Ei
+) for the heat
+capacity flow under greater temperature differences of more than 200
+K. Figure 1 presents all the basic characteristics of the correction factor,
+including any necessary new parameters and graphical design. The
+calculated CF coincides with a value of about half of the temperature
+difference (?T/2) (Figure 1). The maximal errors (Emax) have to be
+specially calculated at the left and right sides of the temperature intervals
+(Figure 1). The Emax on the left side from the calculated CF (equation
+2) is negative and positive on the right side from the calculated CF.
+The total temperature interval (?T) is divided into lower temperature
+intervals for a lower value of about ?Ti
+ = 50°
+C (or smaller) because a
+temperature difference of about 50 K does not cause any errors of CF.
+For each temperature interval (i=1,…I) the specific heat capacity
+(cp,i) has to be determined and then the differences between these
+specific heat capacities (?cp,i), and then their specific heat capacity
+changes of one degree of temperature (cp-T,i), are calculated:
+p T,i= / p,i i c cT -?? ,... i=1 I (4)
+The maximal specific heat capacity change by one degree of
+temperature (cp-T,max in J/kgK2
+) is selected, which is then multiplied by
+the mass flow (qn
+), and so gives the maximal error (Emax in W/K2
+):
+E T max p ,max n =- · c q (5)
+The left maximum error (-Emax in W/K2
+) and on the right the
+maximum error (Emax in W/K2
+) can be calculated (Figure 1), having
+the same quantities but different signs. Through three important points 
+Citation: Kralj AK (2018) Estimating the Maximum Possible Correction Factor by Using the High Temperature Differences within Pinch Analysis as
+Obtained from Practical Experience. J Fundam Renewable Energy Appl 8: 259. doi:10.4172/20904541.1000259
+Volume 8 • Issue 3 • 1000259
+Page 3 of 5
+J Fundam Renewable Energy Appl, an open access journal
+ISSN: 2090-4541
+(Emax, the calculated CF, Emax; Figure1), a line with a known linear
+function Ei (equation 6) can be drawn by using the two points (Ei
+= -Emax
+, ?Ti
+= 0), and (Ei
+=+Emax, ?Ti
+= Tmax). The Ei
+ errors denote the different
+errors between the limits of the left (-Emax) and right maximal errors
+(+Emax):
+i i E T = ·? + k n (6)
+Constant k determines the slope of the line and constant n
+determines the y-intercept.
+The correction factor is determined by using equation 7
+cor i i i i f = ·? = ·? + ·? ET T T (k n) (7)
+The correction factor can be calculated by using equation 7 as
+a function of the temperature difference (?Ti
+), and by the known
+parameters of k and n.
+This method can calculate the correction factor, which is then used
+to correct heat capacity flow during pinch heat integration, without
+changing the basic principles and rules of pinch analysis.
+Case study
+The idea for this method was spawned within an existing methanol
+production plant, where deviation took place between the estimated
+and real integration mass flow rates.
+The low-pressure methanol process, as in this case study, is composed
+of three subsystems:
+• Production of synthesis gas
+• Production of crude methanol
+• Purification of methanol, which is not presented
+All the subsystems were optimised, except the synthesis gas
+production (only one non-optimal subsystem heating of the natural gas
+and cooling of the synthesis gas (Figure 2 and Table 1).
+The raw material was natural gas, which was heated-up in a steam
+reformer (REA-1), where synthesis gas was produced from natural gas
+and steam at 825°
+C and 15 bar (Figure 2).
+26 2 2 4 2 3C H 6.5H O 2CO+12H 1.75CH 2.25CO +? + +
+298
+r ? = H 196.17kJ/mol (R1)
+38 2 2 2 4 3C H 10H O 3.5CO 17H 3CO+2.5CH + ? ++
+298
+r ? = H 277.88kJ/mol (R2)
+?T/2
+?Ti=1 ?Ti=2 ?Ti=3 ?Ti=4 ?Ti=5 ?Ti=6 ?Ti=7 ?Ti=8
+T=0 T= Tmax
+CF
+-Emax
+?cp,i
+cp,i
+cp-T,max
+cp-T,i
++Emax
+Ei=6
+E Ei=3 i=2 Ei=1
+Ei=7
+Ei=k?Ti+n
+Figure 1: A correction factor estimation including necessary parameters.
+E107
+E109 D101
+E103 E104 E102
+E110
+turbine
+F1 E111 F2 EA101 F107 E112 F108
+EA202
+water
+condensate
+to E301/2/4 from D201 from E107
+to E107
+to F201
+air
+E101B E101A furnace
+from F101
+to F101
+to SH1
+REA
+from F201
+to E103
+SEP
+HEA
+HEPR
+G202
+F301
+G301
+E301
+D301
+5 bar steam
+to E110
+E302
+E304
+M2
+D302
+EA301
+MeOH
+E305
+G201I
+REA-1
+fuel
+S1
+F101
+VEN1
+E201
+F203
+G201II
+E105
+E303
+E312
+steam
+D303
+D304
+water
+F102
+outlet gas
+purge gas purge gas
+natural
+gas
+LEGEND:
+reactor
+separator
+heat exchanger
+flash
+HEW
+Figure 2: The existing methanol production.
+Stream Ts
+/
+°
+C Tt
+/
+ °C I/kW CF/(kW/°
+C)
+E109-c 0 400 3323.7 8.309
+E109-h 450 351 3323.7 33.573
+EA101 128 65 7460.8 118.426
+E112 65 40 991.0 39.640
+Table 1: Hot and cold streams of the existing simulated synthesis gas process.
+4 10 2 2 2 4 3C H 13.5H O 4.75CO 22H 4CO+3.25CH + ? ++
+298
+r ? = H 361.48kJ/mol (R3)
+CH H O CO+3H 4 2 + ? 2 298 ? = H 206.08kJ/mol (R4)
+CO+H O CO +H 2 22 ? 298 ? =- H 41.17kJ/mol (R5)
+The hot-stream of synthesis gas was cooled within an E107 boiler,
+in the E109, E110, E111 heat-exchangers with an EA101 air-cooler,
+and in an E112 water-cooler. The condensate was expanded in flashes:
+F1, F2, F107, and F108. All the condensates were collected (K1—K5)
+during the process.
+The process shown in Figure 2 was optimised very well, except for
+only one non-optimal subsystem, for the heating of the natural gas and
+the cooling of the synthesis gas (Table 1). This subsystem included an
+existing stream E109-c with a very significant temperature difference.
+The need for factoring the correlation was started after integration
+of the existing stream E109-c with the EA101 stream because there was
+insufficient heat flow rate.
+The existing stream E109-c had a large temperature difference
+(?T=400 K). The calculated CF caused inaccurate values for real
+problems if the heat flow rate of E109-c was integrated within several
+parts. The calculated CF for the existing stream E109-c was corrected
+by a correction factor.
+Integration using calculated CF
+The hot and cold streams of the existing synthesis gas process are
+presented in Table 1. Integration was carried out after all the parameters 
+Citation: Kralj AK (2018) Estimating the Maximum Possible Correction Factor by Using the High Temperature Differences within Pinch Analysis as
+Obtained from Practical Experience. J Fundam Renewable Energy Appl 8: 259. doi:10.4172/20904541.1000259
+Volume 8 • Issue 3 • 1000259
+Page 4 of 5
+J Fundam Renewable Energy Appl, an open access journal
+ISSN: 2090-4541
+(F, ?T and CF) were known. The calculated heat capacity flow rate of
+the stream E109-c (CF) by using equation 2 was 8309 W/K. This stream
+was integrated within the hot streams EA101 for 897.4 kW and partly
+with E109-h for 2426.3 kW, by using ?Tmi =20°C (Figure 3).
+Integration by using corrected CF
+The total temperature interval (?T=400 K) of stream E109-c
+was divided into lower temperature intervals for a rounder lower
+value (?Ti
+=50°
+C; Figure 4). For each temperature interval (i=1,…8)
+the specific heat had to be a determined capacity (cp,i) and then the
+difference between these specific heat capacities (?cp,i) and those
+specific heat capacities that had changed by one degree of temperature
+(cp-T,i) was calculated by using equation 4. The maximal specific heat
+capacity changed by one degree of temperature (cp-T,max) was 3.52 J/kgK2
+(Figure 4). The mass flow (qn
+) of E109-c was 2.9241 kg/s. The maximal
+error (Emax) was 10.30 W/K2
+ by using equation 5. E109-c was divided at
+?Ti
+ to 108 K because this was the first possible temperature difference
+for integration with EA101 (Figure 3).
+The linear function of errors (Ei
+ in W/K2
+, equation 6) was obtained
+by using two points (Ei
+= - 10.3, ?Ti
+=0 K), and (Ei
+= 10.3, ?Ti
+= 400 K):
+i i i ET T = ·? + ·? - k n=0.0515 10.3 (8)
+The correction factor for E109-c was determined by using equation
+7:
+cor i i f = ·? = · - · =- E T (0.0515 108 10.3) 108 511.7W/K (9)
+The calculated heat capacity flow rate of the stream E109-c (CF) was
+8309 W/K and the new remaining correct CFcor was 7797.3 W/K:
+cor cor CF CF = ±= - = f 8309 511.7 7797.3W/K (10)
+The difference between the calculated CF and the corrected CFcor was
+6%. New integration was performed by using the corrected (CFcor). The
+cold E109-c stream was integrated with EA101 for 842 kW and partly
+with E109-h for 2481.7 kW at ?Tmin = 20° C, by using the correction
+factor (Figure 5). The integration heat flow rate (F) between E109-c
+and EA101 was 897.4 kW when using conventional pinch analysis. The
+integration heat flow rate (F) between E109-c and EA101 was 842 kW
+when using the correction factor. The heat flow rate calculated after the
+correction factor was comparable with the real retrofit.
+This was confirmed by using practical experience that the correction
+factor was only required when ?T was greater by more than 200 K
+because the errors (Ei
+) were becoming greater. Thereby, the optimal
+lengths for the temperature intervals (?Topt) could be determined
+that did not require correction. The optimal length of the temperature
+intervals (?Topt) could be determined by using a graphical method
+(Figure 6). The left and right maximum errors (Emax) were halved to the
+linear line (Ei
+) and thereby denoted the points A and B. All temperature
+intervals between points A and B were summed and determined an
+optimal length for the temperature intervals (?Topt) of about 200 K.
+Thus also providing that errors (Ei
+) were no greater than 5 W/K2
+.
+Conclusion
+The correction factor obtained from practical experience can
+reduce heat integration errors within a pinch analysis method. Pinch
+analysis does not guarantee a global optimum solution but it quickly
+proposes good ideas for heat integration during the process, therefore
+the accuracy and reliability of this method is even more important.
+The correction factor allows for quick adjustments of the heat capacity
+flow. This correction factor includes maximal specific heat capacity
+error during a significant temperature difference of more than 200 K,
+which causes errors regarding heat capacity flow. This correction factor
+reduces these errors and thus allows for better integration, which is
+highly comparable with the real data. This correction factor could be
+E109-h
+EA101
+E109-c
+450 o
+C 377 o
+C 351 o
+C
+128 o
+C
+0 o 108 C o 400 C o
+C
+2426.4 kW 897.4kW
+65 o 120 C o
+C
+897.4 kW
+6563.4 kW
+Figure 3: Heat integration by using conventional pinch analysis.
+?T/2
+?Ti=1 ?Ti=2 ?Ti=3 ?Ti=4 ?Ti=5 ?Ti=6 ?Ti=7 ?Ti=8
+CF=8309 W/K +Emax=10.3
+-Emax=10.3
+?cp,i
+cp,i
+cp-T,max
+cp-T,i
+Tmax=400 o 0 C o
+C 40 o 108 o 150 o 200 o
+250 o
+300 o 350 o
+[J/kgK]
+[J/kgK2
+]
+15.5
+2355.6 2371.1 2516.4 2643.5 2811.1 2985.9 3161.8 3335.8 3506.1
+145.3 127.1 167.6 174.8 175.9 174 170.3
+0.38 2.13 3.02 3.35 3.49 3.52 3.48 3.40
+?T
+Ei = 0.0515 ?Ti - 10.3
+Figure 4: Finding errors by using the correction factor including necessary
+parameters.
+E109-h
+EA101
+E109-c
+450 o
+C 376 o
+C 351 o
+C
+65 o
+C
+0 o 108 C o 400 C o
+C
+2481.7 kW 842 kW
+121 o 128 C o
+C
+6618.8 kW
+842 kW
+Figure 5: Heat integration by using correction factor estimation.
+Citation: Kralj AK (2018) Estimating the Maximum Possible Correction Factor by Using the High Temperature Differences within Pinch Analysis as
+Obtained from Practical Experience. J Fundam Renewable Energy Appl 8: 259. doi:10.4172/20904541.1000259
+Volume 8 • Issue 3 • 1000259
+Page 5 of 5
+J Fundam Renewable Energy Appl, an open access journal
+ISSN: 2090-4541
+7. Smith R (1995) Chemical Process Design. McGraw Hill Inc, New York.
+8. Linnhoff B., Townsend DW, Boland D, Hewitt GF, Thomas BE, et al. (1982) A
+user guide on process integration for the efficient use of energy.
+9. El-Halwagi MM (2006) Process integration. Elsevier Inc., Amsterdam,
+Netherlands.
+10. Ng DKS, Foo DCY, Tan RR (2007) Targeting for total water network, waste
+stream identification. Ind Eng Chem Res 46: 9107-9113.
+11. Ng DKS, Foo DCY, Tan RR, (2007) Targeting for total water network.waste
+treatment targeting and interactions with water system elements. Ind Eng
+Chem Res 46: 9114-9125.
+12. Agrawal V, Shenoy UV (2006) Unified conceptual approach to targeting and
+design of water and hydrogen networks. AIChE Journal 52: 1071-1082.
+13. Foo DCY, Manan ZA (2006) Setting the minimum utility gas flow rate targets
+using cascade analysis technique. Ind Eng Chem Res 45: 5986-5995.
+14. Klemeš JJ, Varbanov PS (2011) Design and operation of efficient energy
+systems: Bio refineries, waste to energy, enhanced heat transfer and fuel cell
+applications. Appl Ther Eng 31: 3-7.
+15. Gueddar T, Dua V (2012) Novel model reduction techniques for refinery-wide
+energy optimization, Appl Energy 89: 117-126.
+16. Gopal V Biegler LT (1999) Smoothing methods for complementarity problems
+in process engineering, AIChE Journal 45: 1535-1547.
+17. Kamath RS, Biegler LT, Grossmann IE (2010) An equation-oriented approach
+for handling thermodynamics based on cubic equation of state in process
+optimization. Computers and Chemical Engineering 34: 2085-2096.
+18. Kamath RS, Biegler LT, Grossmann IE (2012) Modeling multi-stream heat
+exchangers with and without phase changes for simultaneous optimization and
+heat integration. AIChE Journal 58: 190-204.
+19. Ian C (2006) Pinch analysis and process integration. A user guide on process
+integration for the efficient use of energy. Butterworth-Heinemann, Oxford, UK.
+?T/2
+?Ti=1 ?Ti=2 ?Ti=3 ?Ti=4 ?Ti=5 ?Ti=6 ?Ti=7 ?Ti=8
+CF=8309 W/K +Emax=10.3
+-Emax=10.3
+?cp,i
+cp,i
+cp-T,max
+cp-T,i
+Tmax=400 o
+C 0 o
+C 40 o 108 o 150 o 200 o
+250 o
+300 o 350 o
+[J/kgK]
+[J/kgK2
+]
+15.5
+2355.6 2371.1 2516.4 2643.5 2811.1 2985.9 3161.8 3335.8 3506.1
+145.3 127.1 167.6 174.8 175.9 174 170.3
+0.38 2.13 3.02 3.35 3.49 3.52 3.48 3.40
+?T
+Ei = 0.0515 ?Ti - 10.3
+B
+A ?Topt ˜ 200 K
+Figure 6: Determining the optimal length of the temperature intervals (?Topt).
+extended in the future with other effects (such as pressure).
+References
+1. Tjoe TN, Linnhoff B (1986) Using pinch technology for process retrofit. Chem
+Engng 28: 47-60.
+2. Ahmad S, Hui DC (1991) Heat recovery between areas of integrity. Comput
+Chem Engng 15: 809-832.
+3. Dhole VR Linnhoff B (1993) Total site target for fuel, cogeneration, emissions,
+and cooling. Comput Chem Engng 17: 101-109.
+4. Hui CW, Ahmad S (1994) Total site integration using the utility system. Comput
+Chem Engng 18: 729-742.
+5. Flower JR, Linnhoff B (1980) A thermodynamic combinatorial approach to the
+design of heat exchanger networks. AIChE Journal 25: 1-9.
+6. Salama AI (2005) Numerical techniques for determining heat energy targets in
+pinch analysis. Computers and Chemical Engineering 29: 1861-1866. 
